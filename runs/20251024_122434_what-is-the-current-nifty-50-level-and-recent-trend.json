@@ -1,0 +1,4067 @@
+{
+  "query": {
+    "text": "What is the current NIFTY 50 level and recent trend?",
+    "timestamp": "2025-10-24T12:24:34.929968+05:30"
+  },
+  "primary_symbol": null,
+  "evidence": [
+    {
+      "id": 3119,
+      "external_id": "https://www.indiainfoline.com/blog/weekly-market-wrap-nifty-50-logs-biggest-weekly-gain-since-2021|0",
+      "url": "https://www.indiainfoline.com/blog/weekly-market-wrap-nifty-50-logs-biggest-weekly-gain-since-2021",
+      "title": "Weekly Market Wrap - NIFTY 50 Logs Biggest Weekly Gain Since 2021",
+      "published": "20250421T124500Z",
+      "domain": "indiainfoline.com",
+      "score": 0.7746646404266357,
+      "chunk": 0,
+      "text": "Weekly Market Wrap - NIFTY 50 Logs Biggest Weekly Gain Since 2021"
+    },
+    {
+      "id": 838,
+      "external_id": "https://timesofindia.indiatimes.com/business/india-business/stock-market-outlook-will-nifty-50-cross-23000-next-week-key-stock-market-factors-to-watch-as-recovery-picks-up-steam/articleshow/118821525.cms|3",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-outlook-will-nifty-50-cross-23000-next-week-key-stock-market-factors-to-watch-as-recovery-picks-up-steam/articleshow/118821525.cms",
+      "title": "Will Nifty50 cross 23 , 000 next week ? Key market factors to watch as recovery picks up steam",
+      "published": "20250309T164500Z",
+      "domain": "timesofindia.indiatimes.com",
+      "score": 0.751334011554718,
+      "chunk": 3,
+      "text": "% last week, marking their biggest weekly decline since november. macro data and tariff concernsinvestors will be closely watching both domestic and global macroeconomic data. In India, the release of the Index of Industrial Production (IIP) and Consumer Price Index (CPI) inflation data will provide insights into economic momentum. Moreover, developments related to US inflation, non-farm payroll data, and potential tariff changes could significantly influence global market sentiment. Technical indicatorsTechnical analysts suggest that Nifty 50 could continue its pullback rally in the coming sessions. \"The zone of 22,670-22,700 will act as an immediate hurdle for the index, as it coincides with the 20-day EMA and the 38.2% Fibonacci retracement level from the recent downward move (23,807-21,965). If the index manages to stay above the 22,700 level, we may see the rally extend towards the 23,000 and 23,300 levels in the short term,\" said experts from SBI Securities. On the downside, the 22,300-22,250 range is expected to provide support in case of any decline."
+    },
+    {
+      "id": 1220,
+      "external_id": "https://www.news18.com/business/markets/why-stock-market-is-rising-today-key-factors-behind-sensex-soaring-over-900-points-9268053.html|5",
+      "url": "https://www.news18.com/business/markets/why-stock-market-is-rising-today-key-factors-behind-sensex-soaring-over-900-points-9268053.html",
+      "title": "Why Stock Market Is Rising Today ? Key Factors Behind Sensex Soaring Over 900 Points",
+      "published": "20250320T091500Z",
+      "domain": "news18.com",
+      "score": 0.7508257627487183,
+      "chunk": 5,
+      "text": "the rally continue? kranthi bathini, director of equity strategy at wealthmills securities, remains optimistic about the market ’ s near - term outlook. “The market has navigated through numerous challenges, breaking past key resistance levels of 22,500-22,750,\" Bathini said. “With strong sentiment and an uptick in domestic liquidity, the Nifty has successfully reclaimed the 23,000 mark, which bodes well for the short to medium term.\" The Nifty50 crossed the 23,000 threshold in early trading and is expected to close above this level, signaling a positive technical outlook for investors."
+    },
+    {
+      "id": 1665,
+      "external_id": "https://www.freepressjournal.in/business/nifty-50-falls-to-historic-lows-as-index-declines-for-5-consecutive-months-for-first-time-in-nearly-30-years|0",
+      "url": "https://www.freepressjournal.in/business/nifty-50-falls-to-historic-lows-as-index-declines-for-5-consecutive-months-for-first-time-in-nearly-30-years",
+      "title": "Nifty 50 Falls To Historic Lows As Index Declines For 5 - Consecutive Months For First Time In Nearly 30 Years",
+      "published": "20250301T061500Z",
+      "domain": "freepressjournal.in",
+      "score": 0.7330045700073242,
+      "chunk": 0,
+      "text": "Nifty 50 Falls To Historic Lows As Index Declines For 5 - Consecutive Months For First Time In Nearly 30 Years"
+    },
+    {
+      "id": 496,
+      "external_id": "https://www.moneycontrol.com/news/business/markets/first-tick-here-are-the-top-global-cues-for-today-s-trade-60-12957946.html|0",
+      "url": "https://www.moneycontrol.com/news/business/markets/first-tick-here-are-the-top-global-cues-for-today-s-trade-60-12957946.html",
+      "title": "First Tick : Here are the top global cues for today trade",
+      "published": "20250307T031500Z",
+      "domain": "moneycontrol.com",
+      "score": 0.7169400453567505,
+      "chunk": 0,
+      "text": "Indian benchmark indices Sensex and Nifty 50 are likely to open flat with negative bias on March 7 tracking cues from GIFT Nifty trading around 22,557, a short while ago this morning. Track the latest updates on GIFT Nifty right here on Moneycontrol. Stocks extended gains to take benchmark Nifty 50 to a two-week high above 22,500 level, and Sensex closed firmly above 74,000 on March 6, spurred by gains in Asia after US President Trump announced a one-month delay on fresh tariffs on automakers, and crude oil prices stayed below $70 per barrel. RBI’s measures to improve liquidity in the banking system also helped propel the markets higher. At close, the Sensex was up 609.86 points or 0.83 percent at 74,340.09, and the Nifty 50 was up 207.40 points or 0.93 percent at 22,544.70. Here is how financial markets across the globe fared overnight: GIFT Nifty (Down) The GIFT Nifty is trading marginally lower at around 22,557, indicating a flat to negative start for the day."
+    }
+  ],
+  "market": {
+    "symbols": {
+      "HDFCBANK.NS": {
+        "as_of": "2025-10-24T00:00:00",
+        "latest_close": 1002.75,
+        "pct_change_1d": -0.005997212397082582,
+        "realized_vol_10d": 0.10660365767264897,
+        "vendor": "yfinance"
+      },
+      "ICICIBANK.NS": {
+        "as_of": "2025-10-24T00:00:00",
+        "latest_close": 1379.4000244140625,
+        "pct_change_1d": 0.01151285019017261,
+        "realized_vol_10d": 0.24264482029893442,
+        "vendor": "yfinance"
+      },
+      "RELIANCE.NS": {
+        "as_of": "2025-10-24T00:00:00",
+        "latest_close": 1456.9000244140625,
+        "pct_change_1d": 0.0058685445020194614,
+        "realized_vol_10d": 0.22411877725865004,
+        "vendor": "yfinance"
+      },
+      "INFY.NS": {
+        "as_of": "2025-10-24T00:00:00",
+        "latest_close": 1526.4000244140625,
+        "pct_change_1d": -0.0013738800038845273,
+        "realized_vol_10d": 0.2775054150441038,
+        "vendor": "yfinance"
+      },
+      "TCS.NS": {
+        "as_of": "2025-10-24T00:00:00",
+        "latest_close": 3084.300048828125,
+        "pct_change_1d": 0.0036119021972577155,
+        "realized_vol_10d": 0.18623005471204523,
+        "vendor": "yfinance"
+      },
+      "^NSEI": {
+        "as_of": "2025-10-24T00:00:00",
+        "latest_close": 25859.69921875,
+        "pct_change_1d": -0.0012243900058213405,
+        "realized_vol_10d": 0.0731718358619905,
+        "vendor": "yfinance"
+      }
+    },
+    "timeseries": {
+      "HDFCBANK.NS": [
+        {
+          "date": "2025-07-29 00:00:00",
+          "open": 999.9500122070312,
+          "high": 1013.25,
+          "low": 998.1500244140625,
+          "close": 1010.7999877929688,
+          "adj_close": 1010.7999877929688,
+          "volume": 19895696
+        },
+        {
+          "date": "2025-07-30 00:00:00",
+          "open": 1014.0,
+          "high": 1016.2999877929688,
+          "low": 1008.5,
+          "close": 1012.9000244140625,
+          "adj_close": 1012.9000244140625,
+          "volume": 15154036
+        },
+        {
+          "date": "2025-07-31 00:00:00",
+          "open": 1007.2999877929688,
+          "high": 1015.7000122070312,
+          "low": 1004.0,
+          "close": 1009.0999755859375,
+          "adj_close": 1009.0999755859375,
+          "volume": 22183032
+        },
+        {
+          "date": "2025-08-01 00:00:00",
+          "open": 1007.0,
+          "high": 1014.1500244140625,
+          "low": 1004.6500244140625,
+          "close": 1006.0999755859375,
+          "adj_close": 1006.0999755859375,
+          "volume": 11317258
+        },
+        {
+          "date": "2025-08-04 00:00:00",
+          "open": 1005.0499877929688,
+          "high": 1009.25,
+          "low": 994.0499877929688,
+          "close": 996.0,
+          "adj_close": 996.0,
+          "volume": 13933946
+        },
+        {
+          "date": "2025-08-05 00:00:00",
+          "open": 993.25,
+          "high": 997.2000122070312,
+          "low": 982.75,
+          "close": 988.7999877929688,
+          "adj_close": 988.7999877929688,
+          "volume": 23978058
+        },
+        {
+          "date": "2025-08-06 00:00:00",
+          "open": 985.5499877929688,
+          "high": 994.0,
+          "low": 985.0,
+          "close": 992.6500244140625,
+          "adj_close": 992.6500244140625,
+          "volume": 14080204
+        },
+        {
+          "date": "2025-08-07 00:00:00",
+          "open": 990.0499877929688,
+          "high": 1000.7999877929688,
+          "low": 988.4000244140625,
+          "close": 997.7000122070312,
+          "adj_close": 997.7000122070312,
+          "volume": 13081186
+        },
+        {
+          "date": "2025-08-08 00:00:00",
+          "open": 993.5499877929688,
+          "high": 996.4000244140625,
+          "low": 985.0,
+          "close": 986.9500122070312,
+          "adj_close": 986.9500122070312,
+          "volume": 13895264
+        },
+        {
+          "date": "2025-08-11 00:00:00",
+          "open": 987.9500122070312,
+          "high": 998.7999877929688,
+          "low": 986.5499877929688,
+          "close": 997.7999877929688,
+          "adj_close": 997.7999877929688,
+          "volume": 9105854
+        },
+        {
+          "date": "2025-08-12 00:00:00",
+          "open": 995.9500122070312,
+          "high": 998.0,
+          "low": 983.75,
+          "close": 984.9500122070312,
+          "adj_close": 984.9500122070312,
+          "volume": 12937802
+        },
+        {
+          "date": "2025-08-13 00:00:00",
+          "open": 997.0,
+          "high": 997.0,
+          "low": 984.5499877929688,
+          "close": 990.1500244140625,
+          "adj_close": 990.1500244140625,
+          "volume": 13577396
+        },
+        {
+          "date": "2025-08-14 00:00:00",
+          "open": 989.0,
+          "high": 998.0,
+          "low": 985.5999755859375,
+          "close": 995.5499877929688,
+          "adj_close": 995.5499877929688,
+          "volume": 17511716
+        },
+        {
+          "date": "2025-08-18 00:00:00",
+          "open": 1005.0,
+          "high": 1013.2999877929688,
+          "low": 997.7999877929688,
+          "close": 1001.7999877929688,
+          "adj_close": 1001.7999877929688,
+          "volume": 19284796
+        },
+        {
+          "date": "2025-08-19 00:00:00",
+          "open": 999.1500244140625,
+          "high": 1003.0499877929688,
+          "low": 993.3499755859375,
+          "close": 995.5499877929688,
+          "adj_close": 995.5499877929688,
+          "volume": 12352438
+        },
+        {
+          "date": "2025-08-20 00:00:00",
+          "open": 993.5,
+          "high": 996.0,
+          "low": 989.5,
+          "close": 994.0999755859375,
+          "adj_close": 994.0999755859375,
+          "volume": 9950228
+        },
+        {
+          "date": "2025-08-21 00:00:00",
+          "open": 998.75,
+          "high": 998.75,
+          "low": 991.5999755859375,
+          "close": 995.5999755859375,
+          "adj_close": 995.5999755859375,
+          "volume": 12439850
+        },
+        {
+          "date": "2025-08-22 00:00:00",
+          "open": 994.9500122070312,
+          "high": 998.0,
+          "low": 978.5499877929688,
+          "close": 982.2999877929688,
+          "adj_close": 982.2999877929688,
+          "volume": 19833502
+        },
+        {
+          "date": "2025-08-25 00:00:00",
+          "open": 980.0999755859375,
+          "high": 988.7000122070312,
+          "low": 978.5,
+          "close": 982.0499877929688,
+          "adj_close": 982.0499877929688,
+          "volume": 17518044
+        },
+        {
+          "date": "2025-08-26 00:00:00",
+          "open": 979.5,
+          "high": 985.7000122070312,
+          "low": 968.0,
+          "close": 973.4000244140625,
+          "adj_close": 973.4000244140625,
+          "volume": 16917731
+        },
+        {
+          "date": "2025-08-28 00:00:00",
+          "open": 967.0,
+          "high": 972.2000122070312,
+          "low": 955.0,
+          "close": 957.7999877929688,
+          "adj_close": 957.7999877929688,
+          "volume": 25438255
+        },
+        {
+          "date": "2025-08-29 00:00:00",
+          "open": 954.0,
+          "high": 963.2999877929688,
+          "low": 950.0999755859375,
+          "close": 951.5999755859375,
+          "adj_close": 951.5999755859375,
+          "volume": 14823813
+        },
+        {
+          "date": "2025-09-01 00:00:00",
+          "open": 949.5999755859375,
+          "high": 957.4500122070312,
+          "low": 946.3499755859375,
+          "close": 950.5999755859375,
+          "adj_close": 950.5999755859375,
+          "volume": 20178344
+        },
+        {
+          "date": "2025-09-02 00:00:00",
+          "open": 951.0,
+          "high": 954.7999877929688,
+          "low": 944.0,
+          "close": 944.5,
+          "adj_close": 944.5,
+          "volume": 14196320
+        },
+        {
+          "date": "2025-09-03 00:00:00",
+          "open": 945.0,
+          "high": 956.2999877929688,
+          "low": 940.0,
+          "close": 954.4500122070312,
+          "adj_close": 954.4500122070312,
+          "volume": 16083481
+        },
+        {
+          "date": "2025-09-04 00:00:00",
+          "open": 960.2000122070312,
+          "high": 965.7000122070312,
+          "low": 956.25,
+          "close": 961.25,
+          "adj_close": 961.25,
+          "volume": 17597657
+        },
+        {
+          "date": "2025-09-05 00:00:00",
+          "open": 967.5,
+          "high": 967.5,
+          "low": 954.0499877929688,
+          "close": 963.4000244140625,
+          "adj_close": 963.4000244140625,
+          "volume": 11602111
+        },
+        {
+          "date": "2025-09-08 00:00:00",
+          "open": 969.0,
+          "high": 973.1500244140625,
+          "low": 960.4500122070312,
+          "close": 966.0,
+          "adj_close": 966.0,
+          "volume": 11711307
+        },
+        {
+          "date": "2025-09-09 00:00:00",
+          "open": 974.0,
+          "high": 974.4000244140625,
+          "low": 962.7000122070312,
+          "close": 965.1500244140625,
+          "adj_close": 965.1500244140625,
+          "volume": 13985539
+        },
+        {
+          "date": "2025-09-10 00:00:00",
+          "open": 973.9000244140625,
+          "high": 973.9000244140625,
+          "low": 961.7000122070312,
+          "close": 965.9000244140625,
+          "adj_close": 965.9000244140625,
+          "volume": 18091100
+        },
+        {
+          "date": "2025-09-11 00:00:00",
+          "open": 960.2999877929688,
+          "high": 969.25,
+          "low": 959.9000244140625,
+          "close": 967.7999877929688,
+          "adj_close": 967.7999877929688,
+          "volume": 15113633
+        },
+        {
+          "date": "2025-09-12 00:00:00",
+          "open": 969.9000244140625,
+          "high": 970.75,
+          "low": 962.25,
+          "close": 967.2999877929688,
+          "adj_close": 967.2999877929688,
+          "volume": 14363519
+        },
+        {
+          "date": "2025-09-15 00:00:00",
+          "open": 969.5999755859375,
+          "high": 972.3499755859375,
+          "low": 965.0,
+          "close": 967.0499877929688,
+          "adj_close": 967.0499877929688,
+          "volume": 14486377
+        },
+        {
+          "date": "2025-09-16 00:00:00",
+          "open": 961.2000122070312,
+          "high": 969.3499755859375,
+          "low": 961.2000122070312,
+          "close": 966.8499755859375,
+          "adj_close": 966.8499755859375,
+          "volume": 18661794
+        },
+        {
+          "date": "2025-09-17 00:00:00",
+          "open": 965.1500244140625,
+          "high": 974.4000244140625,
+          "low": 964.3499755859375,
+          "close": 966.5,
+          "adj_close": 966.5,
+          "volume": 17361476
+        },
+        {
+          "date": "2025-09-18 00:00:00",
+          "open": 973.2999877929688,
+          "high": 979.6500244140625,
+          "low": 969.25,
+          "close": 976.9000244140625,
+          "adj_close": 976.9000244140625,
+          "volume": 17791598
+        },
+        {
+          "date": "2025-09-19 00:00:00",
+          "open": 974.9000244140625,
+          "high": 976.7000122070312,
+          "low": 962.0999755859375,
+          "close": 966.9000244140625,
+          "adj_close": 966.9000244140625,
+          "volume": 31243267
+        },
+        {
+          "date": "2025-09-22 00:00:00",
+          "open": 964.0,
+          "high": 971.2000122070312,
+          "low": 961.9500122070312,
+          "close": 964.2000122070312,
+          "adj_close": 964.2000122070312,
+          "volume": 10854415
+        },
+        {
+          "date": "2025-09-23 00:00:00",
+          "open": 967.0,
+          "high": 968.2000122070312,
+          "low": 955.5,
+          "close": 957.2000122070312,
+          "adj_close": 957.2000122070312,
+          "volume": 21022298
+        },
+        {
+          "date": "2025-09-24 00:00:00",
+          "open": 952.2000122070312,
+          "high": 956.4500122070312,
+          "low": 943.0,
+          "close": 951.0499877929688,
+          "adj_close": 951.0499877929688,
+          "volume": 15117220
+        },
+        {
+          "date": "2025-09-25 00:00:00",
+          "open": 952.5,
+          "high": 958.0,
+          "low": 947.4000244140625,
+          "close": 949.8499755859375,
+          "adj_close": 949.8499755859375,
+          "volume": 31413279
+        },
+        {
+          "date": "2025-09-26 00:00:00",
+          "open": 945.0999755859375,
+          "high": 951.4500122070312,
+          "low": 941.2999877929688,
+          "close": 945.0499877929688,
+          "adj_close": 945.0499877929688,
+          "volume": 14874656
+        },
+        {
+          "date": "2025-09-29 00:00:00",
+          "open": 946.0499877929688,
+          "high": 956.7999877929688,
+          "low": 939.0999755859375,
+          "close": 950.2999877929688,
+          "adj_close": 950.2999877929688,
+          "volume": 32398179
+        },
+        {
+          "date": "2025-09-30 00:00:00",
+          "open": 958.0499877929688,
+          "high": 960.0,
+          "low": 946.2999877929688,
+          "close": 951.0,
+          "adj_close": 951.0,
+          "volume": 28296687
+        },
+        {
+          "date": "2025-10-01 00:00:00",
+          "open": 952.7000122070312,
+          "high": 969.5999755859375,
+          "low": 946.0,
+          "close": 965.25,
+          "adj_close": 965.25,
+          "volume": 25350832
+        },
+        {
+          "date": "2025-10-03 00:00:00",
+          "open": 952.0,
+          "high": 966.75,
+          "low": 952.0,
+          "close": 965.1500244140625,
+          "adj_close": 965.1500244140625,
+          "volume": 26658296
+        },
+        {
+          "date": "2025-10-06 00:00:00",
+          "open": 971.9000244140625,
+          "high": 977.4000244140625,
+          "low": 962.0,
+          "close": 973.4500122070312,
+          "adj_close": 973.4500122070312,
+          "volume": 18542683
+        },
+        {
+          "date": "2025-10-07 00:00:00",
+          "open": 974.0,
+          "high": 989.8499755859375,
+          "low": 971.0,
+          "close": 982.5,
+          "adj_close": 982.5,
+          "volume": 25535736
+        },
+        {
+          "date": "2025-10-08 00:00:00",
+          "open": 976.0,
+          "high": 985.9000244140625,
+          "low": 974.5499877929688,
+          "close": 978.7000122070312,
+          "adj_close": 978.7000122070312,
+          "volume": 15939710
+        },
+        {
+          "date": "2025-10-09 00:00:00",
+          "open": 974.5,
+          "high": 979.0,
+          "low": 970.1500244140625,
+          "close": 977.0999755859375,
+          "adj_close": 977.0999755859375,
+          "volume": 15370950
+        },
+        {
+          "date": "2025-10-10 00:00:00",
+          "open": 979.0,
+          "high": 986.2000122070312,
+          "low": 978.0999755859375,
+          "close": 980.9000244140625,
+          "adj_close": 980.9000244140625,
+          "volume": 13757080
+        },
+        {
+          "date": "2025-10-13 00:00:00",
+          "open": 974.2999877929688,
+          "high": 981.0,
+          "low": 972.0,
+          "close": 977.0,
+          "adj_close": 977.0,
+          "volume": 18634254
+        },
+        {
+          "date": "2025-10-14 00:00:00",
+          "open": 970.0,
+          "high": 980.4500122070312,
+          "low": 967.0,
+          "close": 977.1500244140625,
+          "adj_close": 977.1500244140625,
+          "volume": 22934382
+        },
+        {
+          "date": "2025-10-15 00:00:00",
+          "open": 975.0,
+          "high": 984.9000244140625,
+          "low": 973.3499755859375,
+          "close": 978.25,
+          "adj_close": 978.25,
+          "volume": 23310447
+        },
+        {
+          "date": "2025-10-16 00:00:00",
+          "open": 982.6500244140625,
+          "high": 996.5999755859375,
+          "low": 981.5,
+          "close": 994.3499755859375,
+          "adj_close": 994.3499755859375,
+          "volume": 22936566
+        },
+        {
+          "date": "2025-10-17 00:00:00",
+          "open": 993.9500122070312,
+          "high": 1009.0,
+          "low": 986.0,
+          "close": 1002.5499877929688,
+          "adj_close": 1002.5499877929688,
+          "volume": 25210511
+        },
+        {
+          "date": "2025-10-20 00:00:00",
+          "open": 997.0,
+          "high": 1020.0,
+          "low": 997.0,
+          "close": 1002.9500122070312,
+          "adj_close": 1002.9500122070312,
+          "volume": 22195202
+        },
+        {
+          "date": "2025-10-21 00:00:00",
+          "open": 1006.0,
+          "high": 1010.0,
+          "low": 1004.0,
+          "close": 1007.7000122070312,
+          "adj_close": 1007.7000122070312,
+          "volume": 3471600
+        },
+        {
+          "date": "2025-10-23 00:00:00",
+          "open": 1016.0,
+          "high": 1020.5,
+          "low": 1006.0,
+          "close": 1008.7999877929688,
+          "adj_close": 1008.7999877929688,
+          "volume": 43526526
+        },
+        {
+          "date": "2025-10-24 00:00:00",
+          "open": 1011.0,
+          "high": 1011.9500122070312,
+          "low": 999.2999877929688,
+          "close": 1002.75,
+          "adj_close": 1002.75,
+          "volume": 8341808
+        }
+      ],
+      "ICICIBANK.NS": [
+        {
+          "date": "2025-07-29 00:00:00",
+          "open": 1479.9000244140625,
+          "high": 1489.800048828125,
+          "low": 1475.4000244140625,
+          "close": 1486.199951171875,
+          "adj_close": 1474.8201904296875,
+          "volume": 9776027
+        },
+        {
+          "date": "2025-07-30 00:00:00",
+          "open": 1487.699951171875,
+          "high": 1488.5,
+          "low": 1477.300048828125,
+          "close": 1482.4000244140625,
+          "adj_close": 1471.04931640625,
+          "volume": 7238625
+        },
+        {
+          "date": "2025-07-31 00:00:00",
+          "open": 1469.9000244140625,
+          "high": 1494.5,
+          "low": 1464.0,
+          "close": 1481.4000244140625,
+          "adj_close": 1470.0570068359375,
+          "volume": 12406146
+        },
+        {
+          "date": "2025-08-01 00:00:00",
+          "open": 1480.4000244140625,
+          "high": 1485.0999755859375,
+          "low": 1469.800048828125,
+          "close": 1471.5999755859375,
+          "adj_close": 1460.3319091796875,
+          "volume": 4416771
+        },
+        {
+          "date": "2025-08-04 00:00:00",
+          "open": 1476.800048828125,
+          "high": 1478.800048828125,
+          "low": 1461.300048828125,
+          "close": 1463.199951171875,
+          "adj_close": 1451.9962158203125,
+          "volume": 6140054
+        },
+        {
+          "date": "2025-08-05 00:00:00",
+          "open": 1453.0,
+          "high": 1461.5,
+          "low": 1441.0,
+          "close": 1444.4000244140625,
+          "adj_close": 1433.3402099609375,
+          "volume": 14799343
+        },
+        {
+          "date": "2025-08-06 00:00:00",
+          "open": 1442.300048828125,
+          "high": 1454.0,
+          "low": 1441.5999755859375,
+          "close": 1443.5999755859375,
+          "adj_close": 1432.54638671875,
+          "volume": 7805252
+        },
+        {
+          "date": "2025-08-07 00:00:00",
+          "open": 1441.0999755859375,
+          "high": 1447.9000244140625,
+          "low": 1429.0999755859375,
+          "close": 1440.300048828125,
+          "adj_close": 1429.271728515625,
+          "volume": 7432535
+        },
+        {
+          "date": "2025-08-08 00:00:00",
+          "open": 1445.9000244140625,
+          "high": 1447.5999755859375,
+          "low": 1432.0,
+          "close": 1435.9000244140625,
+          "adj_close": 1424.9053955078125,
+          "volume": 5415511
+        },
+        {
+          "date": "2025-08-11 00:00:00",
+          "open": 1427.9000244140625,
+          "high": 1438.4000244140625,
+          "low": 1420.4000244140625,
+          "close": 1436.5999755859375,
+          "adj_close": 1425.5999755859375,
+          "volume": 8492484
+        },
+        {
+          "date": "2025-08-12 00:00:00",
+          "open": 1431.0,
+          "high": 1433.800048828125,
+          "low": 1420.0999755859375,
+          "close": 1422.0,
+          "adj_close": 1422.0,
+          "volume": 5913947
+        },
+        {
+          "date": "2025-08-13 00:00:00",
+          "open": 1424.5999755859375,
+          "high": 1427.699951171875,
+          "low": 1415.199951171875,
+          "close": 1420.800048828125,
+          "adj_close": 1420.800048828125,
+          "volume": 9009465
+        },
+        {
+          "date": "2025-08-14 00:00:00",
+          "open": 1412.0,
+          "high": 1431.0999755859375,
+          "low": 1412.0,
+          "close": 1427.300048828125,
+          "adj_close": 1427.300048828125,
+          "volume": 7577793
+        },
+        {
+          "date": "2025-08-18 00:00:00",
+          "open": 1450.0,
+          "high": 1452.4000244140625,
+          "low": 1431.0,
+          "close": 1434.5999755859375,
+          "adj_close": 1434.5999755859375,
+          "volume": 6908844
+        },
+        {
+          "date": "2025-08-19 00:00:00",
+          "open": 1431.0999755859375,
+          "high": 1438.5,
+          "low": 1426.300048828125,
+          "close": 1436.300048828125,
+          "adj_close": 1436.300048828125,
+          "volume": 6709554
+        },
+        {
+          "date": "2025-08-20 00:00:00",
+          "open": 1432.5999755859375,
+          "high": 1435.9000244140625,
+          "low": 1423.0,
+          "close": 1430.5999755859375,
+          "adj_close": 1430.5999755859375,
+          "volume": 5817858
+        },
+        {
+          "date": "2025-08-21 00:00:00",
+          "open": 1440.0999755859375,
+          "high": 1447.800048828125,
+          "low": 1436.4000244140625,
+          "close": 1446.0,
+          "adj_close": 1446.0,
+          "volume": 6238645
+        },
+        {
+          "date": "2025-08-22 00:00:00",
+          "open": 1444.300048828125,
+          "high": 1446.0,
+          "low": 1429.4000244140625,
+          "close": 1436.4000244140625,
+          "adj_close": 1436.4000244140625,
+          "volume": 6657207
+        },
+        {
+          "date": "2025-08-25 00:00:00",
+          "open": 1435.9000244140625,
+          "high": 1435.9000244140625,
+          "low": 1424.0,
+          "close": 1433.199951171875,
+          "adj_close": 1433.199951171875,
+          "volume": 6738427
+        },
+        {
+          "date": "2025-08-26 00:00:00",
+          "open": 1427.9000244140625,
+          "high": 1427.9000244140625,
+          "low": 1413.0999755859375,
+          "close": 1416.5999755859375,
+          "adj_close": 1416.5999755859375,
+          "volume": 8720155
+        },
+        {
+          "date": "2025-08-28 00:00:00",
+          "open": 1408.0,
+          "high": 1411.800048828125,
+          "low": 1396.300048828125,
+          "close": 1399.0999755859375,
+          "adj_close": 1399.0999755859375,
+          "volume": 12990789
+        },
+        {
+          "date": "2025-08-29 00:00:00",
+          "open": 1392.0999755859375,
+          "high": 1405.0,
+          "low": 1392.0999755859375,
+          "close": 1397.800048828125,
+          "adj_close": 1397.800048828125,
+          "volume": 8519507
+        },
+        {
+          "date": "2025-09-01 00:00:00",
+          "open": 1398.0999755859375,
+          "high": 1412.4000244140625,
+          "low": 1398.0999755859375,
+          "close": 1411.0,
+          "adj_close": 1411.0,
+          "volume": 4927348
+        },
+        {
+          "date": "2025-09-02 00:00:00",
+          "open": 1413.9000244140625,
+          "high": 1413.9000244140625,
+          "low": 1390.0,
+          "close": 1394.199951171875,
+          "adj_close": 1394.199951171875,
+          "volume": 7163073
+        },
+        {
+          "date": "2025-09-03 00:00:00",
+          "open": 1389.0,
+          "high": 1400.0,
+          "low": 1384.199951171875,
+          "close": 1397.0,
+          "adj_close": 1397.0,
+          "volume": 9813382
+        },
+        {
+          "date": "2025-09-04 00:00:00",
+          "open": 1409.9000244140625,
+          "high": 1415.0999755859375,
+          "low": 1401.9000244140625,
+          "close": 1405.5,
+          "adj_close": 1405.5,
+          "volume": 10564859
+        },
+        {
+          "date": "2025-09-05 00:00:00",
+          "open": 1411.0,
+          "high": 1411.5,
+          "low": 1387.699951171875,
+          "close": 1402.800048828125,
+          "adj_close": 1402.800048828125,
+          "volume": 6621077
+        },
+        {
+          "date": "2025-09-08 00:00:00",
+          "open": 1402.199951171875,
+          "high": 1410.5999755859375,
+          "low": 1397.5999755859375,
+          "close": 1402.699951171875,
+          "adj_close": 1402.699951171875,
+          "volume": 5880943
+        },
+        {
+          "date": "2025-09-09 00:00:00",
+          "open": 1399.0,
+          "high": 1407.5,
+          "low": 1395.199951171875,
+          "close": 1403.699951171875,
+          "adj_close": 1403.699951171875,
+          "volume": 6470679
+        },
+        {
+          "date": "2025-09-10 00:00:00",
+          "open": 1410.0,
+          "high": 1413.699951171875,
+          "low": 1402.0999755859375,
+          "close": 1403.9000244140625,
+          "adj_close": 1403.9000244140625,
+          "volume": 7452347
+        },
+        {
+          "date": "2025-09-11 00:00:00",
+          "open": 1398.0,
+          "high": 1408.0,
+          "low": 1396.0,
+          "close": 1401.5999755859375,
+          "adj_close": 1401.5999755859375,
+          "volume": 10192026
+        },
+        {
+          "date": "2025-09-12 00:00:00",
+          "open": 1405.0999755859375,
+          "high": 1419.699951171875,
+          "low": 1400.0999755859375,
+          "close": 1417.699951171875,
+          "adj_close": 1417.699951171875,
+          "volume": 7770038
+        },
+        {
+          "date": "2025-09-15 00:00:00",
+          "open": 1422.0,
+          "high": 1426.800048828125,
+          "low": 1416.300048828125,
+          "close": 1419.4000244140625,
+          "adj_close": 1419.4000244140625,
+          "volume": 5845637
+        },
+        {
+          "date": "2025-09-16 00:00:00",
+          "open": 1414.0,
+          "high": 1424.9000244140625,
+          "low": 1413.699951171875,
+          "close": 1421.5999755859375,
+          "adj_close": 1421.5999755859375,
+          "volume": 8213151
+        },
+        {
+          "date": "2025-09-17 00:00:00",
+          "open": 1420.0999755859375,
+          "high": 1426.0999755859375,
+          "low": 1416.4000244140625,
+          "close": 1419.199951171875,
+          "adj_close": 1419.199951171875,
+          "volume": 7484283
+        },
+        {
+          "date": "2025-09-18 00:00:00",
+          "open": 1431.0999755859375,
+          "high": 1432.800048828125,
+          "low": 1415.300048828125,
+          "close": 1421.699951171875,
+          "adj_close": 1421.699951171875,
+          "volume": 8130537
+        },
+        {
+          "date": "2025-09-19 00:00:00",
+          "open": 1416.0999755859375,
+          "high": 1418.0,
+          "low": 1400.199951171875,
+          "close": 1402.199951171875,
+          "adj_close": 1402.199951171875,
+          "volume": 13457344
+        },
+        {
+          "date": "2025-09-22 00:00:00",
+          "open": 1403.9000244140625,
+          "high": 1409.9000244140625,
+          "low": 1397.199951171875,
+          "close": 1401.5,
+          "adj_close": 1401.5,
+          "volume": 8847948
+        },
+        {
+          "date": "2025-09-23 00:00:00",
+          "open": 1391.0,
+          "high": 1403.300048828125,
+          "low": 1391.0,
+          "close": 1394.300048828125,
+          "adj_close": 1394.300048828125,
+          "volume": 12827524
+        },
+        {
+          "date": "2025-09-24 00:00:00",
+          "open": 1386.4000244140625,
+          "high": 1390.9000244140625,
+          "low": 1376.5,
+          "close": 1382.699951171875,
+          "adj_close": 1382.699951171875,
+          "volume": 9735678
+        },
+        {
+          "date": "2025-09-25 00:00:00",
+          "open": 1377.0,
+          "high": 1391.5,
+          "low": 1371.800048828125,
+          "close": 1375.800048828125,
+          "adj_close": 1375.800048828125,
+          "volume": 21613389
+        },
+        {
+          "date": "2025-09-26 00:00:00",
+          "open": 1368.0,
+          "high": 1372.699951171875,
+          "low": 1357.0,
+          "close": 1359.5999755859375,
+          "adj_close": 1359.5999755859375,
+          "volume": 18342280
+        },
+        {
+          "date": "2025-09-29 00:00:00",
+          "open": 1359.5999755859375,
+          "high": 1366.5,
+          "low": 1346.199951171875,
+          "close": 1348.0999755859375,
+          "adj_close": 1348.0999755859375,
+          "volume": 20563163
+        },
+        {
+          "date": "2025-09-30 00:00:00",
+          "open": 1353.699951171875,
+          "high": 1356.5999755859375,
+          "low": 1342.5999755859375,
+          "close": 1348.0,
+          "adj_close": 1348.0,
+          "volume": 20166871
+        },
+        {
+          "date": "2025-10-01 00:00:00",
+          "open": 1348.0,
+          "high": 1379.4000244140625,
+          "low": 1347.0999755859375,
+          "close": 1372.0,
+          "adj_close": 1372.0,
+          "volume": 20952632
+        },
+        {
+          "date": "2025-10-03 00:00:00",
+          "open": 1371.9000244140625,
+          "high": 1371.9000244140625,
+          "low": 1361.300048828125,
+          "close": 1365.199951171875,
+          "adj_close": 1365.199951171875,
+          "volume": 12163695
+        },
+        {
+          "date": "2025-10-06 00:00:00",
+          "open": 1371.0,
+          "high": 1372.5999755859375,
+          "low": 1359.0999755859375,
+          "close": 1363.4000244140625,
+          "adj_close": 1363.4000244140625,
+          "volume": 14314283
+        },
+        {
+          "date": "2025-10-07 00:00:00",
+          "open": 1363.5999755859375,
+          "high": 1383.0999755859375,
+          "low": 1363.5999755859375,
+          "close": 1375.9000244140625,
+          "adj_close": 1375.9000244140625,
+          "volume": 16126464
+        },
+        {
+          "date": "2025-10-08 00:00:00",
+          "open": 1372.300048828125,
+          "high": 1381.5999755859375,
+          "low": 1364.300048828125,
+          "close": 1370.300048828125,
+          "adj_close": 1370.300048828125,
+          "volume": 8100832
+        },
+        {
+          "date": "2025-10-09 00:00:00",
+          "open": 1369.800048828125,
+          "high": 1378.699951171875,
+          "low": 1365.0999755859375,
+          "close": 1376.199951171875,
+          "adj_close": 1376.199951171875,
+          "volume": 7909575
+        },
+        {
+          "date": "2025-10-10 00:00:00",
+          "open": 1370.300048828125,
+          "high": 1385.0,
+          "low": 1370.300048828125,
+          "close": 1380.300048828125,
+          "adj_close": 1380.300048828125,
+          "volume": 7673816
+        },
+        {
+          "date": "2025-10-13 00:00:00",
+          "open": 1373.0999755859375,
+          "high": 1386.4000244140625,
+          "low": 1373.0999755859375,
+          "close": 1379.4000244140625,
+          "adj_close": 1379.4000244140625,
+          "volume": 8923018
+        },
+        {
+          "date": "2025-10-14 00:00:00",
+          "open": 1389.0,
+          "high": 1389.0,
+          "low": 1375.0999755859375,
+          "close": 1384.0999755859375,
+          "adj_close": 1384.0999755859375,
+          "volume": 10610855
+        },
+        {
+          "date": "2025-10-15 00:00:00",
+          "open": 1386.5,
+          "high": 1400.4000244140625,
+          "low": 1385.5,
+          "close": 1398.4000244140625,
+          "adj_close": 1398.4000244140625,
+          "volume": 8988550
+        },
+        {
+          "date": "2025-10-16 00:00:00",
+          "open": 1401.0,
+          "high": 1418.9000244140625,
+          "low": 1399.4000244140625,
+          "close": 1417.300048828125,
+          "adj_close": 1417.300048828125,
+          "volume": 12185032
+        },
+        {
+          "date": "2025-10-17 00:00:00",
+          "open": 1412.0,
+          "high": 1439.5999755859375,
+          "low": 1410.9000244140625,
+          "close": 1436.5999755859375,
+          "adj_close": 1436.5999755859375,
+          "volume": 17037215
+        },
+        {
+          "date": "2025-10-20 00:00:00",
+          "open": 1442.0,
+          "high": 1445.0,
+          "low": 1389.199951171875,
+          "close": 1390.300048828125,
+          "adj_close": 1390.300048828125,
+          "volume": 23330227
+        },
+        {
+          "date": "2025-10-21 00:00:00",
+          "open": 1384.5,
+          "high": 1387.5999755859375,
+          "low": 1375.9000244140625,
+          "close": 1382.0,
+          "adj_close": 1382.0,
+          "volume": 3415560
+        },
+        {
+          "date": "2025-10-23 00:00:00",
+          "open": 1385.0,
+          "high": 1389.800048828125,
+          "low": 1360.0999755859375,
+          "close": 1363.699951171875,
+          "adj_close": 1363.699951171875,
+          "volume": 21124942
+        },
+        {
+          "date": "2025-10-24 00:00:00",
+          "open": 1368.0999755859375,
+          "high": 1381.5999755859375,
+          "low": 1368.0999755859375,
+          "close": 1379.4000244140625,
+          "adj_close": 1379.4000244140625,
+          "volume": 5505260
+        }
+      ],
+      "RELIANCE.NS": [
+        {
+          "date": "2025-07-29 00:00:00",
+          "open": 1383.0,
+          "high": 1420.199951171875,
+          "low": 1383.0,
+          "close": 1417.0999755859375,
+          "adj_close": 1411.4627685546875,
+          "volume": 10750072
+        },
+        {
+          "date": "2025-07-30 00:00:00",
+          "open": 1418.0999755859375,
+          "high": 1423.300048828125,
+          "low": 1401.300048828125,
+          "close": 1410.0999755859375,
+          "adj_close": 1404.4906005859375,
+          "volume": 7209849
+        },
+        {
+          "date": "2025-07-31 00:00:00",
+          "open": 1388.0999755859375,
+          "high": 1402.5999755859375,
+          "low": 1382.199951171875,
+          "close": 1390.199951171875,
+          "adj_close": 1384.669677734375,
+          "volume": 17065827
+        },
+        {
+          "date": "2025-08-01 00:00:00",
+          "open": 1386.9000244140625,
+          "high": 1405.9000244140625,
+          "low": 1384.300048828125,
+          "close": 1393.699951171875,
+          "adj_close": 1388.15576171875,
+          "volume": 10321171
+        },
+        {
+          "date": "2025-08-04 00:00:00",
+          "open": 1395.0999755859375,
+          "high": 1416.0999755859375,
+          "low": 1391.699951171875,
+          "close": 1411.5,
+          "adj_close": 1405.885009765625,
+          "volume": 6312820
+        },
+        {
+          "date": "2025-08-05 00:00:00",
+          "open": 1411.0,
+          "high": 1411.0,
+          "low": 1388.0999755859375,
+          "close": 1391.699951171875,
+          "adj_close": 1386.1636962890625,
+          "volume": 9315972
+        },
+        {
+          "date": "2025-08-06 00:00:00",
+          "open": 1391.9000244140625,
+          "high": 1395.9000244140625,
+          "low": 1383.300048828125,
+          "close": 1392.800048828125,
+          "adj_close": 1387.259521484375,
+          "volume": 5834312
+        },
+        {
+          "date": "2025-08-07 00:00:00",
+          "open": 1387.699951171875,
+          "high": 1393.699951171875,
+          "low": 1366.0,
+          "close": 1389.4000244140625,
+          "adj_close": 1383.8729248046875,
+          "volume": 9976705
+        },
+        {
+          "date": "2025-08-08 00:00:00",
+          "open": 1385.0,
+          "high": 1397.199951171875,
+          "low": 1365.0,
+          "close": 1367.800048828125,
+          "adj_close": 1362.35888671875,
+          "volume": 8793606
+        },
+        {
+          "date": "2025-08-11 00:00:00",
+          "open": 1370.0,
+          "high": 1388.0,
+          "low": 1361.199951171875,
+          "close": 1386.199951171875,
+          "adj_close": 1380.6856689453125,
+          "volume": 9997486
+        },
+        {
+          "date": "2025-08-12 00:00:00",
+          "open": 1381.9000244140625,
+          "high": 1401.9000244140625,
+          "low": 1375.199951171875,
+          "close": 1380.4000244140625,
+          "adj_close": 1374.9088134765625,
+          "volume": 12244664
+        },
+        {
+          "date": "2025-08-13 00:00:00",
+          "open": 1388.0,
+          "high": 1391.800048828125,
+          "low": 1377.5,
+          "close": 1382.5999755859375,
+          "adj_close": 1377.0999755859375,
+          "volume": 7457021
+        },
+        {
+          "date": "2025-08-14 00:00:00",
+          "open": 1377.300048828125,
+          "high": 1380.699951171875,
+          "low": 1370.0999755859375,
+          "close": 1373.800048828125,
+          "adj_close": 1373.800048828125,
+          "volume": 7126128
+        },
+        {
+          "date": "2025-08-18 00:00:00",
+          "open": 1390.0,
+          "high": 1394.9000244140625,
+          "low": 1377.0,
+          "close": 1381.699951171875,
+          "adj_close": 1381.699951171875,
+          "volume": 11785109
+        },
+        {
+          "date": "2025-08-19 00:00:00",
+          "open": 1390.0,
+          "high": 1421.0,
+          "low": 1389.0999755859375,
+          "close": 1420.0999755859375,
+          "adj_close": 1420.0999755859375,
+          "volume": 14384719
+        },
+        {
+          "date": "2025-08-20 00:00:00",
+          "open": 1413.0,
+          "high": 1424.9000244140625,
+          "low": 1410.0,
+          "close": 1413.0,
+          "adj_close": 1413.0,
+          "volume": 8725641
+        },
+        {
+          "date": "2025-08-21 00:00:00",
+          "open": 1425.0,
+          "high": 1431.9000244140625,
+          "low": 1420.300048828125,
+          "close": 1424.800048828125,
+          "adj_close": 1424.800048828125,
+          "volume": 11021323
+        },
+        {
+          "date": "2025-08-22 00:00:00",
+          "open": 1420.0,
+          "high": 1423.4000244140625,
+          "low": 1407.9000244140625,
+          "close": 1409.199951171875,
+          "adj_close": 1409.199951171875,
+          "volume": 5818868
+        },
+        {
+          "date": "2025-08-25 00:00:00",
+          "open": 1414.699951171875,
+          "high": 1419.5,
+          "low": 1405.699951171875,
+          "close": 1412.5999755859375,
+          "adj_close": 1412.5999755859375,
+          "volume": 5979407
+        },
+        {
+          "date": "2025-08-26 00:00:00",
+          "open": 1408.0,
+          "high": 1410.0,
+          "low": 1381.5999755859375,
+          "close": 1384.9000244140625,
+          "adj_close": 1384.9000244140625,
+          "volume": 12145259
+        },
+        {
+          "date": "2025-08-28 00:00:00",
+          "open": 1389.9000244140625,
+          "high": 1392.199951171875,
+          "low": 1366.5,
+          "close": 1385.9000244140625,
+          "adj_close": 1385.9000244140625,
+          "volume": 13161813
+        },
+        {
+          "date": "2025-08-29 00:00:00",
+          "open": 1381.0999755859375,
+          "high": 1403.5,
+          "low": 1350.0,
+          "close": 1357.199951171875,
+          "adj_close": 1357.199951171875,
+          "volume": 18758842
+        },
+        {
+          "date": "2025-09-01 00:00:00",
+          "open": 1356.0,
+          "high": 1363.199951171875,
+          "low": 1340.5999755859375,
+          "close": 1353.9000244140625,
+          "adj_close": 1353.9000244140625,
+          "volume": 11232238
+        },
+        {
+          "date": "2025-09-02 00:00:00",
+          "open": 1354.800048828125,
+          "high": 1384.5,
+          "low": 1354.5,
+          "close": 1366.5,
+          "adj_close": 1366.5,
+          "volume": 11517006
+        },
+        {
+          "date": "2025-09-03 00:00:00",
+          "open": 1369.699951171875,
+          "high": 1376.5,
+          "low": 1360.5,
+          "close": 1372.5999755859375,
+          "adj_close": 1372.5999755859375,
+          "volume": 7847563
+        },
+        {
+          "date": "2025-09-04 00:00:00",
+          "open": 1371.800048828125,
+          "high": 1374.0,
+          "low": 1357.0999755859375,
+          "close": 1359.300048828125,
+          "adj_close": 1359.300048828125,
+          "volume": 13223177
+        },
+        {
+          "date": "2025-09-05 00:00:00",
+          "open": 1363.0,
+          "high": 1381.0,
+          "low": 1359.300048828125,
+          "close": 1375.0,
+          "adj_close": 1375.0,
+          "volume": 5777575
+        },
+        {
+          "date": "2025-09-08 00:00:00",
+          "open": 1380.0,
+          "high": 1386.0,
+          "low": 1372.4000244140625,
+          "close": 1378.5,
+          "adj_close": 1378.5,
+          "volume": 6986720
+        },
+        {
+          "date": "2025-09-09 00:00:00",
+          "open": 1376.5999755859375,
+          "high": 1381.199951171875,
+          "low": 1368.699951171875,
+          "close": 1376.199951171875,
+          "adj_close": 1376.199951171875,
+          "volume": 9754452
+        },
+        {
+          "date": "2025-09-10 00:00:00",
+          "open": 1383.9000244140625,
+          "high": 1388.5,
+          "low": 1374.0999755859375,
+          "close": 1377.0,
+          "adj_close": 1377.0,
+          "volume": 7790815
+        },
+        {
+          "date": "2025-09-11 00:00:00",
+          "open": 1376.0,
+          "high": 1385.5,
+          "low": 1375.0,
+          "close": 1383.300048828125,
+          "adj_close": 1383.300048828125,
+          "volume": 9766072
+        },
+        {
+          "date": "2025-09-12 00:00:00",
+          "open": 1383.300048828125,
+          "high": 1396.300048828125,
+          "low": 1380.5,
+          "close": 1395.0,
+          "adj_close": 1395.0,
+          "volume": 7403368
+        },
+        {
+          "date": "2025-09-15 00:00:00",
+          "open": 1393.0,
+          "high": 1400.800048828125,
+          "low": 1388.5999755859375,
+          "close": 1399.300048828125,
+          "adj_close": 1399.300048828125,
+          "volume": 5396697
+        },
+        {
+          "date": "2025-09-16 00:00:00",
+          "open": 1404.699951171875,
+          "high": 1408.0,
+          "low": 1398.199951171875,
+          "close": 1405.300048828125,
+          "adj_close": 1405.300048828125,
+          "volume": 8686961
+        },
+        {
+          "date": "2025-09-17 00:00:00",
+          "open": 1407.0,
+          "high": 1416.199951171875,
+          "low": 1406.9000244140625,
+          "close": 1413.800048828125,
+          "adj_close": 1413.800048828125,
+          "volume": 7519417
+        },
+        {
+          "date": "2025-09-18 00:00:00",
+          "open": 1420.4000244140625,
+          "high": 1422.0,
+          "low": 1410.699951171875,
+          "close": 1415.0,
+          "adj_close": 1415.0,
+          "volume": 9332642
+        },
+        {
+          "date": "2025-09-19 00:00:00",
+          "open": 1414.9000244140625,
+          "high": 1417.0,
+          "low": 1403.5999755859375,
+          "close": 1407.4000244140625,
+          "adj_close": 1407.4000244140625,
+          "volume": 13461373
+        },
+        {
+          "date": "2025-09-22 00:00:00",
+          "open": 1403.9000244140625,
+          "high": 1410.699951171875,
+          "low": 1388.0,
+          "close": 1390.5999755859375,
+          "adj_close": 1390.5999755859375,
+          "volume": 7757970
+        },
+        {
+          "date": "2025-09-23 00:00:00",
+          "open": 1391.0,
+          "high": 1395.0,
+          "low": 1376.800048828125,
+          "close": 1389.800048828125,
+          "adj_close": 1389.800048828125,
+          "volume": 14014702
+        },
+        {
+          "date": "2025-09-24 00:00:00",
+          "open": 1385.300048828125,
+          "high": 1396.0,
+          "low": 1380.4000244140625,
+          "close": 1383.0,
+          "adj_close": 1383.0,
+          "volume": 5922759
+        },
+        {
+          "date": "2025-09-25 00:00:00",
+          "open": 1381.300048828125,
+          "high": 1384.5,
+          "low": 1369.0,
+          "close": 1372.4000244140625,
+          "adj_close": 1372.4000244140625,
+          "volume": 11411143
+        },
+        {
+          "date": "2025-09-26 00:00:00",
+          "open": 1372.0,
+          "high": 1382.699951171875,
+          "low": 1366.0,
+          "close": 1377.5999755859375,
+          "adj_close": 1377.5999755859375,
+          "volume": 9879109
+        },
+        {
+          "date": "2025-09-29 00:00:00",
+          "open": 1381.5999755859375,
+          "high": 1389.0,
+          "low": 1368.0,
+          "close": 1372.800048828125,
+          "adj_close": 1372.800048828125,
+          "volume": 14231999
+        },
+        {
+          "date": "2025-09-30 00:00:00",
+          "open": 1377.0999755859375,
+          "high": 1377.0999755859375,
+          "low": 1362.800048828125,
+          "close": 1364.0,
+          "adj_close": 1364.0,
+          "volume": 14604684
+        },
+        {
+          "date": "2025-10-01 00:00:00",
+          "open": 1367.0,
+          "high": 1378.5999755859375,
+          "low": 1362.699951171875,
+          "close": 1368.699951171875,
+          "adj_close": 1368.699951171875,
+          "volume": 12045916
+        },
+        {
+          "date": "2025-10-03 00:00:00",
+          "open": 1363.199951171875,
+          "high": 1371.5999755859375,
+          "low": 1356.9000244140625,
+          "close": 1363.4000244140625,
+          "adj_close": 1363.4000244140625,
+          "volume": 12842347
+        },
+        {
+          "date": "2025-10-06 00:00:00",
+          "open": 1360.0,
+          "high": 1377.4000244140625,
+          "low": 1359.0,
+          "close": 1375.0,
+          "adj_close": 1375.0,
+          "volume": 12396580
+        },
+        {
+          "date": "2025-10-07 00:00:00",
+          "open": 1376.0,
+          "high": 1395.9000244140625,
+          "low": 1375.9000244140625,
+          "close": 1384.800048828125,
+          "adj_close": 1384.800048828125,
+          "volume": 11244040
+        },
+        {
+          "date": "2025-10-08 00:00:00",
+          "open": 1384.800048828125,
+          "high": 1389.0,
+          "low": 1364.5,
+          "close": 1367.4000244140625,
+          "adj_close": 1367.4000244140625,
+          "volume": 8525081
+        },
+        {
+          "date": "2025-10-09 00:00:00",
+          "open": 1374.0,
+          "high": 1380.0,
+          "low": 1369.0999755859375,
+          "close": 1377.800048828125,
+          "adj_close": 1377.800048828125,
+          "volume": 8826633
+        },
+        {
+          "date": "2025-10-10 00:00:00",
+          "open": 1377.800048828125,
+          "high": 1388.0,
+          "low": 1375.0999755859375,
+          "close": 1381.699951171875,
+          "adj_close": 1381.699951171875,
+          "volume": 6373084
+        },
+        {
+          "date": "2025-10-13 00:00:00",
+          "open": 1376.9000244140625,
+          "high": 1377.699951171875,
+          "low": 1367.800048828125,
+          "close": 1375.0,
+          "adj_close": 1375.0,
+          "volume": 7600682
+        },
+        {
+          "date": "2025-10-14 00:00:00",
+          "open": 1380.0,
+          "high": 1388.0,
+          "low": 1370.0999755859375,
+          "close": 1375.9000244140625,
+          "adj_close": 1375.9000244140625,
+          "volume": 9768174
+        },
+        {
+          "date": "2025-10-15 00:00:00",
+          "open": 1383.0,
+          "high": 1384.0,
+          "low": 1372.699951171875,
+          "close": 1374.300048828125,
+          "adj_close": 1374.300048828125,
+          "volume": 10882743
+        },
+        {
+          "date": "2025-10-16 00:00:00",
+          "open": 1375.0999755859375,
+          "high": 1400.5,
+          "low": 1375.0,
+          "close": 1398.300048828125,
+          "adj_close": 1398.300048828125,
+          "volume": 12315932
+        },
+        {
+          "date": "2025-10-17 00:00:00",
+          "open": 1401.0,
+          "high": 1423.300048828125,
+          "low": 1399.0999755859375,
+          "close": 1416.800048828125,
+          "adj_close": 1416.800048828125,
+          "volume": 19335561
+        },
+        {
+          "date": "2025-10-20 00:00:00",
+          "open": 1440.0,
+          "high": 1473.800048828125,
+          "low": 1433.300048828125,
+          "close": 1466.800048828125,
+          "adj_close": 1466.800048828125,
+          "volume": 24721978
+        },
+        {
+          "date": "2025-10-21 00:00:00",
+          "open": 1468.0,
+          "high": 1474.0,
+          "low": 1460.0,
+          "close": 1465.199951171875,
+          "adj_close": 1465.199951171875,
+          "volume": 2066169
+        },
+        {
+          "date": "2025-10-23 00:00:00",
+          "open": 1475.0,
+          "high": 1482.9000244140625,
+          "low": 1444.5999755859375,
+          "close": 1448.4000244140625,
+          "adj_close": 1448.4000244140625,
+          "volume": 18707090
+        },
+        {
+          "date": "2025-10-24 00:00:00",
+          "open": 1450.0,
+          "high": 1457.199951171875,
+          "low": 1441.0,
+          "close": 1456.9000244140625,
+          "adj_close": 1456.9000244140625,
+          "volume": 5503225
+        }
+      ],
+      "INFY.NS": [
+        {
+          "date": "2025-07-29 00:00:00",
+          "open": 1512.9000244140625,
+          "high": 1517.199951171875,
+          "low": 1496.0999755859375,
+          "close": 1513.699951171875,
+          "adj_close": 1513.699951171875,
+          "volume": 7070448
+        },
+        {
+          "date": "2025-07-30 00:00:00",
+          "open": 1519.9000244140625,
+          "high": 1521.699951171875,
+          "low": 1506.0,
+          "close": 1519.0,
+          "adj_close": 1519.0,
+          "volume": 5719051
+        },
+        {
+          "date": "2025-07-31 00:00:00",
+          "open": 1509.699951171875,
+          "high": 1527.0999755859375,
+          "low": 1497.0,
+          "close": 1509.0,
+          "adj_close": 1509.0,
+          "volume": 6851407
+        },
+        {
+          "date": "2025-08-01 00:00:00",
+          "open": 1493.9000244140625,
+          "high": 1498.699951171875,
+          "low": 1465.5,
+          "close": 1469.5999755859375,
+          "adj_close": 1469.5999755859375,
+          "volume": 8702978
+        },
+        {
+          "date": "2025-08-04 00:00:00",
+          "open": 1461.5,
+          "high": 1482.800048828125,
+          "low": 1451.0,
+          "close": 1480.5,
+          "adj_close": 1480.5,
+          "volume": 8610216
+        },
+        {
+          "date": "2025-08-05 00:00:00",
+          "open": 1478.699951171875,
+          "high": 1478.699951171875,
+          "low": 1455.0,
+          "close": 1460.300048828125,
+          "adj_close": 1460.300048828125,
+          "volume": 10213323
+        },
+        {
+          "date": "2025-08-06 00:00:00",
+          "open": 1452.0,
+          "high": 1456.0999755859375,
+          "low": 1430.300048828125,
+          "close": 1436.699951171875,
+          "adj_close": 1436.699951171875,
+          "volume": 10566934
+        },
+        {
+          "date": "2025-08-07 00:00:00",
+          "open": 1430.0,
+          "high": 1442.0,
+          "low": 1414.199951171875,
+          "close": 1436.9000244140625,
+          "adj_close": 1436.9000244140625,
+          "volume": 9892020
+        },
+        {
+          "date": "2025-08-08 00:00:00",
+          "open": 1425.0,
+          "high": 1433.199951171875,
+          "low": 1417.0999755859375,
+          "close": 1423.0999755859375,
+          "adj_close": 1423.0999755859375,
+          "volume": 10048009
+        },
+        {
+          "date": "2025-08-11 00:00:00",
+          "open": 1419.9000244140625,
+          "high": 1433.4000244140625,
+          "low": 1414.0,
+          "close": 1428.199951171875,
+          "adj_close": 1428.199951171875,
+          "volume": 6625368
+        },
+        {
+          "date": "2025-08-12 00:00:00",
+          "open": 1428.199951171875,
+          "high": 1441.0,
+          "low": 1421.0,
+          "close": 1424.0999755859375,
+          "adj_close": 1424.0999755859375,
+          "volume": 9899184
+        },
+        {
+          "date": "2025-08-13 00:00:00",
+          "open": 1425.0,
+          "high": 1434.0,
+          "low": 1422.4000244140625,
+          "close": 1426.5999755859375,
+          "adj_close": 1426.5999755859375,
+          "volume": 10318063
+        },
+        {
+          "date": "2025-08-14 00:00:00",
+          "open": 1426.199951171875,
+          "high": 1470.0,
+          "low": 1426.199951171875,
+          "close": 1447.699951171875,
+          "adj_close": 1447.699951171875,
+          "volume": 12902347
+        },
+        {
+          "date": "2025-08-18 00:00:00",
+          "open": 1464.699951171875,
+          "high": 1464.699951171875,
+          "low": 1429.5999755859375,
+          "close": 1435.800048828125,
+          "adj_close": 1435.800048828125,
+          "volume": 7254561
+        },
+        {
+          "date": "2025-08-19 00:00:00",
+          "open": 1432.699951171875,
+          "high": 1449.4000244140625,
+          "low": 1432.699951171875,
+          "close": 1440.0,
+          "adj_close": 1440.0,
+          "volume": 3986094
+        },
+        {
+          "date": "2025-08-20 00:00:00",
+          "open": 1440.699951171875,
+          "high": 1499.0,
+          "low": 1440.699951171875,
+          "close": 1496.199951171875,
+          "adj_close": 1496.199951171875,
+          "volume": 10413061
+        },
+        {
+          "date": "2025-08-21 00:00:00",
+          "open": 1508.0,
+          "high": 1508.0,
+          "low": 1484.300048828125,
+          "close": 1496.4000244140625,
+          "adj_close": 1496.4000244140625,
+          "volume": 6565539
+        },
+        {
+          "date": "2025-08-22 00:00:00",
+          "open": 1498.0999755859375,
+          "high": 1504.300048828125,
+          "low": 1486.0999755859375,
+          "close": 1487.5,
+          "adj_close": 1487.5,
+          "volume": 5543397
+        },
+        {
+          "date": "2025-08-25 00:00:00",
+          "open": 1506.699951171875,
+          "high": 1539.0,
+          "low": 1506.699951171875,
+          "close": 1532.0999755859375,
+          "adj_close": 1532.0999755859375,
+          "volume": 10694531
+        },
+        {
+          "date": "2025-08-26 00:00:00",
+          "open": 1523.0,
+          "high": 1538.4000244140625,
+          "low": 1518.5999755859375,
+          "close": 1529.5999755859375,
+          "adj_close": 1529.5999755859375,
+          "volume": 15994798
+        },
+        {
+          "date": "2025-08-28 00:00:00",
+          "open": 1529.5999755859375,
+          "high": 1529.5999755859375,
+          "low": 1498.0,
+          "close": 1500.0999755859375,
+          "adj_close": 1500.0999755859375,
+          "volume": 5443364
+        },
+        {
+          "date": "2025-08-29 00:00:00",
+          "open": 1501.9000244140625,
+          "high": 1501.9000244140625,
+          "low": 1467.699951171875,
+          "close": 1469.5999755859375,
+          "adj_close": 1469.5999755859375,
+          "volume": 8169075
+        },
+        {
+          "date": "2025-09-01 00:00:00",
+          "open": 1476.699951171875,
+          "high": 1503.4000244140625,
+          "low": 1476.199951171875,
+          "close": 1499.4000244140625,
+          "adj_close": 1499.4000244140625,
+          "volume": 4546057
+        },
+        {
+          "date": "2025-09-02 00:00:00",
+          "open": 1499.4000244140625,
+          "high": 1512.800048828125,
+          "low": 1486.300048828125,
+          "close": 1498.699951171875,
+          "adj_close": 1498.699951171875,
+          "volume": 5218763
+        },
+        {
+          "date": "2025-09-03 00:00:00",
+          "open": 1500.0,
+          "high": 1501.9000244140625,
+          "low": 1473.0,
+          "close": 1479.0999755859375,
+          "adj_close": 1479.0999755859375,
+          "volume": 4623483
+        },
+        {
+          "date": "2025-09-04 00:00:00",
+          "open": 1484.0,
+          "high": 1484.0,
+          "low": 1460.0999755859375,
+          "close": 1463.0,
+          "adj_close": 1463.0,
+          "volume": 5787724
+        },
+        {
+          "date": "2025-09-05 00:00:00",
+          "open": 1470.0,
+          "high": 1472.699951171875,
+          "low": 1433.0,
+          "close": 1444.5999755859375,
+          "adj_close": 1444.5999755859375,
+          "volume": 5466487
+        },
+        {
+          "date": "2025-09-08 00:00:00",
+          "open": 1451.0,
+          "high": 1458.0,
+          "low": 1428.300048828125,
+          "close": 1432.9000244140625,
+          "adj_close": 1432.9000244140625,
+          "volume": 3811567
+        },
+        {
+          "date": "2025-09-09 00:00:00",
+          "open": 1481.0,
+          "high": 1507.199951171875,
+          "low": 1472.5,
+          "close": 1504.300048828125,
+          "adj_close": 1504.300048828125,
+          "volume": 13072640
+        },
+        {
+          "date": "2025-09-10 00:00:00",
+          "open": 1510.0999755859375,
+          "high": 1534.9000244140625,
+          "low": 1509.300048828125,
+          "close": 1532.5999755859375,
+          "adj_close": 1532.5999755859375,
+          "volume": 7281071
+        },
+        {
+          "date": "2025-09-11 00:00:00",
+          "open": 1523.9000244140625,
+          "high": 1527.5,
+          "low": 1506.5,
+          "close": 1509.699951171875,
+          "adj_close": 1509.699951171875,
+          "volume": 8003662
+        },
+        {
+          "date": "2025-09-12 00:00:00",
+          "open": 1537.0,
+          "high": 1542.9000244140625,
+          "low": 1521.0999755859375,
+          "close": 1525.5999755859375,
+          "adj_close": 1525.5999755859375,
+          "volume": 12856963
+        },
+        {
+          "date": "2025-09-15 00:00:00",
+          "open": 1525.5999755859375,
+          "high": 1527.5,
+          "low": 1501.199951171875,
+          "close": 1508.4000244140625,
+          "adj_close": 1508.4000244140625,
+          "volume": 6167414
+        },
+        {
+          "date": "2025-09-16 00:00:00",
+          "open": 1508.4000244140625,
+          "high": 1514.0,
+          "low": 1503.5,
+          "close": 1511.300048828125,
+          "adj_close": 1511.300048828125,
+          "volume": 8923112
+        },
+        {
+          "date": "2025-09-17 00:00:00",
+          "open": 1516.9000244140625,
+          "high": 1526.699951171875,
+          "low": 1514.0,
+          "close": 1522.4000244140625,
+          "adj_close": 1522.4000244140625,
+          "volume": 4795698
+        },
+        {
+          "date": "2025-09-18 00:00:00",
+          "open": 1550.0,
+          "high": 1555.0,
+          "low": 1538.5,
+          "close": 1540.5999755859375,
+          "adj_close": 1540.5999755859375,
+          "volume": 9331945
+        },
+        {
+          "date": "2025-09-19 00:00:00",
+          "open": 1544.5999755859375,
+          "high": 1551.300048828125,
+          "low": 1520.0999755859375,
+          "close": 1540.199951171875,
+          "adj_close": 1540.199951171875,
+          "volume": 12988129
+        },
+        {
+          "date": "2025-09-22 00:00:00",
+          "open": 1482.699951171875,
+          "high": 1514.699951171875,
+          "low": 1482.0,
+          "close": 1499.5,
+          "adj_close": 1499.5,
+          "volume": 15655204
+        },
+        {
+          "date": "2025-09-23 00:00:00",
+          "open": 1493.0,
+          "high": 1513.0,
+          "low": 1493.0,
+          "close": 1497.5,
+          "adj_close": 1497.5,
+          "volume": 9832164
+        },
+        {
+          "date": "2025-09-24 00:00:00",
+          "open": 1487.199951171875,
+          "high": 1496.699951171875,
+          "low": 1482.699951171875,
+          "close": 1494.5999755859375,
+          "adj_close": 1494.5999755859375,
+          "volume": 4937004
+        },
+        {
+          "date": "2025-09-25 00:00:00",
+          "open": 1489.0,
+          "high": 1502.699951171875,
+          "low": 1476.5,
+          "close": 1484.800048828125,
+          "adj_close": 1484.800048828125,
+          "volume": 9491867
+        },
+        {
+          "date": "2025-09-26 00:00:00",
+          "open": 1475.0,
+          "high": 1478.699951171875,
+          "low": 1441.199951171875,
+          "close": 1448.9000244140625,
+          "adj_close": 1448.9000244140625,
+          "volume": 8597058
+        },
+        {
+          "date": "2025-09-29 00:00:00",
+          "open": 1460.0,
+          "high": 1465.0,
+          "low": 1436.5,
+          "close": 1441.800048828125,
+          "adj_close": 1441.800048828125,
+          "volume": 10513117
+        },
+        {
+          "date": "2025-09-30 00:00:00",
+          "open": 1443.0,
+          "high": 1452.199951171875,
+          "low": 1438.0999755859375,
+          "close": 1441.800048828125,
+          "adj_close": 1441.800048828125,
+          "volume": 7556305
+        },
+        {
+          "date": "2025-10-01 00:00:00",
+          "open": 1446.0,
+          "high": 1449.5,
+          "low": 1427.4000244140625,
+          "close": 1445.800048828125,
+          "adj_close": 1445.800048828125,
+          "volume": 6250692
+        },
+        {
+          "date": "2025-10-03 00:00:00",
+          "open": 1439.0,
+          "high": 1448.300048828125,
+          "low": 1433.199951171875,
+          "close": 1446.5999755859375,
+          "adj_close": 1446.5999755859375,
+          "volume": 6877533
+        },
+        {
+          "date": "2025-10-06 00:00:00",
+          "open": 1446.5999755859375,
+          "high": 1478.800048828125,
+          "low": 1442.300048828125,
+          "close": 1476.0,
+          "adj_close": 1476.0,
+          "volume": 4630590
+        },
+        {
+          "date": "2025-10-07 00:00:00",
+          "open": 1477.699951171875,
+          "high": 1482.9000244140625,
+          "low": 1454.0,
+          "close": 1458.5,
+          "adj_close": 1458.5,
+          "volume": 5570320
+        },
+        {
+          "date": "2025-10-08 00:00:00",
+          "open": 1457.0,
+          "high": 1498.0,
+          "low": 1455.0,
+          "close": 1495.0,
+          "adj_close": 1495.0,
+          "volume": 4657192
+        },
+        {
+          "date": "2025-10-09 00:00:00",
+          "open": 1502.0,
+          "high": 1514.0,
+          "low": 1487.0,
+          "close": 1509.300048828125,
+          "adj_close": 1509.300048828125,
+          "volume": 7028753
+        },
+        {
+          "date": "2025-10-10 00:00:00",
+          "open": 1510.0,
+          "high": 1521.699951171875,
+          "low": 1498.800048828125,
+          "close": 1514.9000244140625,
+          "adj_close": 1514.9000244140625,
+          "volume": 3738353
+        },
+        {
+          "date": "2025-10-13 00:00:00",
+          "open": 1497.0,
+          "high": 1504.699951171875,
+          "low": 1483.4000244140625,
+          "close": 1493.199951171875,
+          "adj_close": 1493.199951171875,
+          "volume": 5859355
+        },
+        {
+          "date": "2025-10-14 00:00:00",
+          "open": 1499.0,
+          "high": 1514.4000244140625,
+          "low": 1486.5,
+          "close": 1489.9000244140625,
+          "adj_close": 1489.9000244140625,
+          "volume": 5600789
+        },
+        {
+          "date": "2025-10-15 00:00:00",
+          "open": 1483.9000244140625,
+          "high": 1488.5999755859375,
+          "low": 1467.5,
+          "close": 1474.4000244140625,
+          "adj_close": 1474.4000244140625,
+          "volume": 6986098
+        },
+        {
+          "date": "2025-10-16 00:00:00",
+          "open": 1473.9000244140625,
+          "high": 1474.5,
+          "low": 1460.5,
+          "close": 1471.5,
+          "adj_close": 1471.5,
+          "volume": 8005748
+        },
+        {
+          "date": "2025-10-17 00:00:00",
+          "open": 1454.9000244140625,
+          "high": 1458.4000244140625,
+          "low": 1434.0,
+          "close": 1441.0999755859375,
+          "adj_close": 1441.0999755859375,
+          "volume": 16959378
+        },
+        {
+          "date": "2025-10-20 00:00:00",
+          "open": 1453.699951171875,
+          "high": 1467.0,
+          "low": 1450.0,
+          "close": 1460.9000244140625,
+          "adj_close": 1460.9000244140625,
+          "volume": 6994246
+        },
+        {
+          "date": "2025-10-21 00:00:00",
+          "open": 1478.0,
+          "high": 1486.0,
+          "low": 1470.0,
+          "close": 1472.4000244140625,
+          "adj_close": 1472.4000244140625,
+          "volume": 1698704
+        },
+        {
+          "date": "2025-10-23 00:00:00",
+          "open": 1510.0,
+          "high": 1546.0,
+          "low": 1506.0,
+          "close": 1528.5,
+          "adj_close": 1528.5,
+          "volume": 20358624
+        },
+        {
+          "date": "2025-10-24 00:00:00",
+          "open": 1539.5,
+          "high": 1543.0,
+          "low": 1519.199951171875,
+          "close": 1526.4000244140625,
+          "adj_close": 1526.4000244140625,
+          "volume": 4416283
+        }
+      ],
+      "TCS.NS": [
+        {
+          "date": "2025-07-29 00:00:00",
+          "open": 3060.0,
+          "high": 3074.0,
+          "low": 3041.199951171875,
+          "close": 3056.0,
+          "adj_close": 3044.64453125,
+          "volume": 4785312
+        },
+        {
+          "date": "2025-07-30 00:00:00",
+          "open": 3060.0,
+          "high": 3069.0,
+          "low": 3047.199951171875,
+          "close": 3053.60009765625,
+          "adj_close": 3042.25341796875,
+          "volume": 2880121
+        },
+        {
+          "date": "2025-07-31 00:00:00",
+          "open": 3041.699951171875,
+          "high": 3059.800048828125,
+          "low": 3015.0,
+          "close": 3036.800048828125,
+          "adj_close": 3025.515869140625,
+          "volume": 2968371
+        },
+        {
+          "date": "2025-08-01 00:00:00",
+          "open": 3029.89990234375,
+          "high": 3036.800048828125,
+          "low": 3000.0,
+          "close": 3003.0,
+          "adj_close": 2991.84130859375,
+          "volume": 2053847
+        },
+        {
+          "date": "2025-08-04 00:00:00",
+          "open": 3009.10009765625,
+          "high": 3079.39990234375,
+          "low": 2991.60009765625,
+          "close": 3074.39990234375,
+          "adj_close": 3062.97607421875,
+          "volume": 2519252
+        },
+        {
+          "date": "2025-08-05 00:00:00",
+          "open": 3074.39990234375,
+          "high": 3077.5,
+          "low": 3042.0,
+          "close": 3063.89990234375,
+          "adj_close": 3052.51513671875,
+          "volume": 1927996
+        },
+        {
+          "date": "2025-08-06 00:00:00",
+          "open": 3063.0,
+          "high": 3066.800048828125,
+          "low": 3026.0,
+          "close": 3032.300048828125,
+          "adj_close": 3021.032470703125,
+          "volume": 1487081
+        },
+        {
+          "date": "2025-08-07 00:00:00",
+          "open": 3016.0,
+          "high": 3051.60009765625,
+          "low": 3010.89990234375,
+          "close": 3047.0,
+          "adj_close": 3035.677978515625,
+          "volume": 2543076
+        },
+        {
+          "date": "2025-08-08 00:00:00",
+          "open": 3048.10009765625,
+          "high": 3059.800048828125,
+          "low": 3025.0,
+          "close": 3036.39990234375,
+          "adj_close": 3025.1171875,
+          "volume": 2762140
+        },
+        {
+          "date": "2025-08-11 00:00:00",
+          "open": 3036.39990234375,
+          "high": 3049.89990234375,
+          "low": 3021.300048828125,
+          "close": 3040.800048828125,
+          "adj_close": 3029.5009765625,
+          "volume": 1884215
+        },
+        {
+          "date": "2025-08-12 00:00:00",
+          "open": 3041.0,
+          "high": 3096.39990234375,
+          "low": 3026.89990234375,
+          "close": 3035.39990234375,
+          "adj_close": 3024.120849609375,
+          "volume": 3358232
+        },
+        {
+          "date": "2025-08-13 00:00:00",
+          "open": 3036.10009765625,
+          "high": 3044.39990234375,
+          "low": 3028.60009765625,
+          "close": 3036.199951171875,
+          "adj_close": 3024.91796875,
+          "volume": 2148166
+        },
+        {
+          "date": "2025-08-14 00:00:00",
+          "open": 3034.0,
+          "high": 3055.89990234375,
+          "low": 3019.10009765625,
+          "close": 3022.300048828125,
+          "adj_close": 3011.06982421875,
+          "volume": 3342174
+        },
+        {
+          "date": "2025-08-18 00:00:00",
+          "open": 3046.5,
+          "high": 3049.0,
+          "low": 3003.39990234375,
+          "close": 3011.199951171875,
+          "adj_close": 3000.010986328125,
+          "volume": 2945609
+        },
+        {
+          "date": "2025-08-19 00:00:00",
+          "open": 3011.199951171875,
+          "high": 3025.0,
+          "low": 3011.10009765625,
+          "close": 3016.199951171875,
+          "adj_close": 3004.992431640625,
+          "volume": 2650784
+        },
+        {
+          "date": "2025-08-20 00:00:00",
+          "open": 3010.89990234375,
+          "high": 3103.39990234375,
+          "low": 3010.89990234375,
+          "close": 3098.60009765625,
+          "adj_close": 3087.086181640625,
+          "volume": 4952358
+        },
+        {
+          "date": "2025-08-21 00:00:00",
+          "open": 3130.0,
+          "high": 3130.0,
+          "low": 3083.10009765625,
+          "close": 3102.60009765625,
+          "adj_close": 3091.071533203125,
+          "volume": 3230726
+        },
+        {
+          "date": "2025-08-22 00:00:00",
+          "open": 3086.0,
+          "high": 3095.699951171875,
+          "low": 3050.0,
+          "close": 3054.0,
+          "adj_close": 3042.65185546875,
+          "volume": 1593791
+        },
+        {
+          "date": "2025-08-25 00:00:00",
+          "open": 3087.300048828125,
+          "high": 3152.0,
+          "low": 3077.10009765625,
+          "close": 3140.60009765625,
+          "adj_close": 3128.93017578125,
+          "volume": 3448370
+        },
+        {
+          "date": "2025-08-26 00:00:00",
+          "open": 3129.0,
+          "high": 3162.0,
+          "low": 3120.0,
+          "close": 3157.199951171875,
+          "adj_close": 3145.468505859375,
+          "volume": 5522097
+        },
+        {
+          "date": "2025-08-28 00:00:00",
+          "open": 3145.0,
+          "high": 3146.5,
+          "low": 3086.5,
+          "close": 3093.699951171875,
+          "adj_close": 3082.204345703125,
+          "volume": 3116051
+        },
+        {
+          "date": "2025-08-29 00:00:00",
+          "open": 3093.0,
+          "high": 3115.0,
+          "low": 3077.199951171875,
+          "close": 3084.699951171875,
+          "adj_close": 3073.23779296875,
+          "volume": 2271789
+        },
+        {
+          "date": "2025-09-01 00:00:00",
+          "open": 3090.0,
+          "high": 3131.10009765625,
+          "low": 3090.0,
+          "close": 3112.60009765625,
+          "adj_close": 3101.0341796875,
+          "volume": 1246862
+        },
+        {
+          "date": "2025-09-02 00:00:00",
+          "open": 3121.10009765625,
+          "high": 3155.0,
+          "low": 3103.10009765625,
+          "close": 3111.5,
+          "adj_close": 3099.938232421875,
+          "volume": 2185229
+        },
+        {
+          "date": "2025-09-03 00:00:00",
+          "open": 3129.89990234375,
+          "high": 3141.89990234375,
+          "low": 3088.0,
+          "close": 3097.5,
+          "adj_close": 3085.990234375,
+          "volume": 1799774
+        },
+        {
+          "date": "2025-09-04 00:00:00",
+          "open": 3116.0,
+          "high": 3118.0,
+          "low": 3090.800048828125,
+          "close": 3095.699951171875,
+          "adj_close": 3084.197021484375,
+          "volume": 1481391
+        },
+        {
+          "date": "2025-09-05 00:00:00",
+          "open": 3097.10009765625,
+          "high": 3103.39990234375,
+          "low": 3028.60009765625,
+          "close": 3048.300048828125,
+          "adj_close": 3036.97314453125,
+          "volume": 2802055
+        },
+        {
+          "date": "2025-09-08 00:00:00",
+          "open": 3050.0,
+          "high": 3064.89990234375,
+          "low": 3016.0,
+          "close": 3019.0,
+          "adj_close": 3007.781982421875,
+          "volume": 2626187
+        },
+        {
+          "date": "2025-09-09 00:00:00",
+          "open": 3032.10009765625,
+          "high": 3060.0,
+          "low": 3030.800048828125,
+          "close": 3049.39990234375,
+          "adj_close": 3038.06884765625,
+          "volume": 2489301
+        },
+        {
+          "date": "2025-09-10 00:00:00",
+          "open": 3056.39990234375,
+          "high": 3122.699951171875,
+          "low": 3053.39990234375,
+          "close": 3110.0,
+          "adj_close": 3098.44384765625,
+          "volume": 2079428
+        },
+        {
+          "date": "2025-09-11 00:00:00",
+          "open": 3139.0,
+          "high": 3139.0,
+          "low": 3110.10009765625,
+          "close": 3124.199951171875,
+          "adj_close": 3112.591064453125,
+          "volume": 2263446
+        },
+        {
+          "date": "2025-09-12 00:00:00",
+          "open": 3144.0,
+          "high": 3148.699951171875,
+          "low": 3121.0,
+          "close": 3133.39990234375,
+          "adj_close": 3121.7568359375,
+          "volume": 1447167
+        },
+        {
+          "date": "2025-09-15 00:00:00",
+          "open": 3134.0,
+          "high": 3134.0,
+          "low": 3096.0,
+          "close": 3111.89990234375,
+          "adj_close": 3100.336669921875,
+          "volume": 1732539
+        },
+        {
+          "date": "2025-09-16 00:00:00",
+          "open": 3128.0,
+          "high": 3150.0,
+          "low": 3109.10009765625,
+          "close": 3145.699951171875,
+          "adj_close": 3134.01123046875,
+          "volume": 2573429
+        },
+        {
+          "date": "2025-09-17 00:00:00",
+          "open": 3152.0,
+          "high": 3182.39990234375,
+          "low": 3142.39990234375,
+          "close": 3172.800048828125,
+          "adj_close": 3161.010498046875,
+          "volume": 2418271
+        },
+        {
+          "date": "2025-09-18 00:00:00",
+          "open": 3185.0,
+          "high": 3203.0,
+          "low": 3161.39990234375,
+          "close": 3176.699951171875,
+          "adj_close": 3164.89599609375,
+          "volume": 2633138
+        },
+        {
+          "date": "2025-09-19 00:00:00",
+          "open": 3170.0,
+          "high": 3180.5,
+          "low": 3144.0,
+          "close": 3169.199951171875,
+          "adj_close": 3157.423828125,
+          "volume": 4901694
+        },
+        {
+          "date": "2025-09-22 00:00:00",
+          "open": 3095.0,
+          "high": 3106.89990234375,
+          "low": 3065.0,
+          "close": 3073.800048828125,
+          "adj_close": 3062.37841796875,
+          "volume": 3634901
+        },
+        {
+          "date": "2025-09-23 00:00:00",
+          "open": 3070.0,
+          "high": 3080.699951171875,
+          "low": 3052.0,
+          "close": 3062.39990234375,
+          "adj_close": 3051.0205078125,
+          "volume": 3177741
+        },
+        {
+          "date": "2025-09-24 00:00:00",
+          "open": 3050.0,
+          "high": 3057.0,
+          "low": 3033.0,
+          "close": 3035.39990234375,
+          "adj_close": 3024.120849609375,
+          "volume": 1625714
+        },
+        {
+          "date": "2025-09-25 00:00:00",
+          "open": 3022.0,
+          "high": 3029.60009765625,
+          "low": 2951.0,
+          "close": 2957.39990234375,
+          "adj_close": 2946.41064453125,
+          "volume": 4974361
+        },
+        {
+          "date": "2025-09-26 00:00:00",
+          "open": 2941.0,
+          "high": 2954.800048828125,
+          "low": 2891.300048828125,
+          "close": 2899.10009765625,
+          "adj_close": 2888.32763671875,
+          "volume": 3934636
+        },
+        {
+          "date": "2025-09-29 00:00:00",
+          "open": 2916.0,
+          "high": 2929.300048828125,
+          "low": 2894.0,
+          "close": 2896.10009765625,
+          "adj_close": 2885.338623046875,
+          "volume": 3110035
+        },
+        {
+          "date": "2025-09-30 00:00:00",
+          "open": 2911.0,
+          "high": 2915.300048828125,
+          "low": 2885.10009765625,
+          "close": 2888.39990234375,
+          "adj_close": 2877.667236328125,
+          "volume": 2253458
+        },
+        {
+          "date": "2025-10-01 00:00:00",
+          "open": 2891.0,
+          "high": 2924.800048828125,
+          "low": 2866.60009765625,
+          "close": 2914.199951171875,
+          "adj_close": 2903.371337890625,
+          "volume": 1952902
+        },
+        {
+          "date": "2025-10-03 00:00:00",
+          "open": 2924.0,
+          "high": 2924.0,
+          "low": 2891.10009765625,
+          "close": 2901.89990234375,
+          "adj_close": 2891.116943359375,
+          "volume": 2899519
+        },
+        {
+          "date": "2025-10-06 00:00:00",
+          "open": 2902.0,
+          "high": 2993.60009765625,
+          "low": 2895.60009765625,
+          "close": 2988.39990234375,
+          "adj_close": 2977.295654296875,
+          "volume": 2112774
+        },
+        {
+          "date": "2025-10-07 00:00:00",
+          "open": 2995.0,
+          "high": 3004.5,
+          "low": 2955.5,
+          "close": 2973.699951171875,
+          "adj_close": 2962.650146484375,
+          "volume": 3062943
+        },
+        {
+          "date": "2025-10-08 00:00:00",
+          "open": 2975.0,
+          "high": 3043.0,
+          "low": 2968.0,
+          "close": 3027.199951171875,
+          "adj_close": 3015.951416015625,
+          "volume": 4121889
+        },
+        {
+          "date": "2025-10-09 00:00:00",
+          "open": 3034.0,
+          "high": 3066.0,
+          "low": 3020.0,
+          "close": 3061.699951171875,
+          "adj_close": 3050.3232421875,
+          "volume": 3211304
+        },
+        {
+          "date": "2025-10-10 00:00:00",
+          "open": 3050.0,
+          "high": 3070.0,
+          "low": 3006.89990234375,
+          "close": 3028.300048828125,
+          "adj_close": 3017.04736328125,
+          "volume": 8817365
+        },
+        {
+          "date": "2025-10-13 00:00:00",
+          "open": 3027.0,
+          "high": 3035.5,
+          "low": 2998.199951171875,
+          "close": 3007.199951171875,
+          "adj_close": 2996.02587890625,
+          "volume": 2866865
+        },
+        {
+          "date": "2025-10-14 00:00:00",
+          "open": 3021.0,
+          "high": 3027.199951171875,
+          "low": 2955.5,
+          "close": 2960.300048828125,
+          "adj_close": 2949.300048828125,
+          "volume": 3611416
+        },
+        {
+          "date": "2025-10-15 00:00:00",
+          "open": 2971.0,
+          "high": 2979.699951171875,
+          "low": 2951.0,
+          "close": 2969.800048828125,
+          "adj_close": 2969.800048828125,
+          "volume": 4282226
+        },
+        {
+          "date": "2025-10-16 00:00:00",
+          "open": 2969.89990234375,
+          "high": 2975.0,
+          "low": 2943.10009765625,
+          "close": 2970.699951171875,
+          "adj_close": 2970.699951171875,
+          "volume": 3251495
+        },
+        {
+          "date": "2025-10-17 00:00:00",
+          "open": 2970.0,
+          "high": 2988.800048828125,
+          "low": 2955.39990234375,
+          "close": 2962.199951171875,
+          "adj_close": 2962.199951171875,
+          "volume": 4374683
+        },
+        {
+          "date": "2025-10-20 00:00:00",
+          "open": 2985.5,
+          "high": 3023.0,
+          "low": 2978.5,
+          "close": 3015.199951171875,
+          "adj_close": 3015.199951171875,
+          "volume": 3133039
+        },
+        {
+          "date": "2025-10-21 00:00:00",
+          "open": 3031.10009765625,
+          "high": 3031.800048828125,
+          "low": 2996.0,
+          "close": 3006.699951171875,
+          "adj_close": 3006.699951171875,
+          "volume": 310644
+        },
+        {
+          "date": "2025-10-23 00:00:00",
+          "open": 3055.0,
+          "high": 3098.0,
+          "low": 3036.10009765625,
+          "close": 3073.199951171875,
+          "adj_close": 3073.199951171875,
+          "volume": 5564758
+        },
+        {
+          "date": "2025-10-24 00:00:00",
+          "open": 3080.0,
+          "high": 3090.0,
+          "low": 3061.0,
+          "close": 3084.300048828125,
+          "adj_close": 3084.300048828125,
+          "volume": 1307617
+        }
+      ],
+      "^NSEI": [
+        {
+          "date": "2025-07-29 00:00:00",
+          "open": 24609.650390625,
+          "high": 24847.150390625,
+          "low": 24598.599609375,
+          "close": 24821.099609375,
+          "adj_close": 24821.099609375,
+          "volume": 284700
+        },
+        {
+          "date": "2025-07-30 00:00:00",
+          "open": 24890.400390625,
+          "high": 24902.30078125,
+          "low": 24771.94921875,
+          "close": 24855.05078125,
+          "adj_close": 24855.05078125,
+          "volume": 243900
+        },
+        {
+          "date": "2025-07-31 00:00:00",
+          "open": 24642.25,
+          "high": 24956.5,
+          "low": 24635.0,
+          "close": 24768.349609375,
+          "adj_close": 24768.349609375,
+          "volume": 346300
+        },
+        {
+          "date": "2025-08-01 00:00:00",
+          "open": 24734.900390625,
+          "high": 24784.150390625,
+          "low": 24535.05078125,
+          "close": 24565.349609375,
+          "adj_close": 24565.349609375,
+          "volume": 263400
+        },
+        {
+          "date": "2025-08-04 00:00:00",
+          "open": 24596.05078125,
+          "high": 24736.25,
+          "low": 24554.0,
+          "close": 24722.75,
+          "adj_close": 24722.75,
+          "volume": 259300
+        },
+        {
+          "date": "2025-08-05 00:00:00",
+          "open": 24720.25,
+          "high": 24733.099609375,
+          "low": 24590.30078125,
+          "close": 24649.55078125,
+          "adj_close": 24649.55078125,
+          "volume": 251800
+        },
+        {
+          "date": "2025-08-06 00:00:00",
+          "open": 24641.349609375,
+          "high": 24671.400390625,
+          "low": 24539.19921875,
+          "close": 24574.19921875,
+          "adj_close": 24574.19921875,
+          "volume": 225100
+        },
+        {
+          "date": "2025-08-07 00:00:00",
+          "open": 24464.19921875,
+          "high": 24634.19921875,
+          "low": 24344.150390625,
+          "close": 24596.150390625,
+          "adj_close": 24596.150390625,
+          "volume": 616700
+        },
+        {
+          "date": "2025-08-08 00:00:00",
+          "open": 24544.25,
+          "high": 24585.5,
+          "low": 24337.5,
+          "close": 24363.30078125,
+          "adj_close": 24363.30078125,
+          "volume": 312600
+        },
+        {
+          "date": "2025-08-11 00:00:00",
+          "open": 24371.5,
+          "high": 24600.849609375,
+          "low": 24347.44921875,
+          "close": 24585.05078125,
+          "adj_close": 24585.05078125,
+          "volume": 241100
+        },
+        {
+          "date": "2025-08-12 00:00:00",
+          "open": 24563.349609375,
+          "high": 24702.599609375,
+          "low": 24465.650390625,
+          "close": 24487.400390625,
+          "adj_close": 24487.400390625,
+          "volume": 237000
+        },
+        {
+          "date": "2025-08-13 00:00:00",
+          "open": 24586.19921875,
+          "high": 24664.55078125,
+          "low": 24535.25,
+          "close": 24619.349609375,
+          "adj_close": 24619.349609375,
+          "volume": 236000
+        },
+        {
+          "date": "2025-08-14 00:00:00",
+          "open": 24607.25,
+          "high": 24673.650390625,
+          "low": 24596.900390625,
+          "close": 24631.30078125,
+          "adj_close": 24631.30078125,
+          "volume": 270200
+        },
+        {
+          "date": "2025-08-18 00:00:00",
+          "open": 24938.19921875,
+          "high": 25022.0,
+          "low": 24852.849609375,
+          "close": 24876.94921875,
+          "adj_close": 24876.94921875,
+          "volume": 363100
+        },
+        {
+          "date": "2025-08-19 00:00:00",
+          "open": 24891.349609375,
+          "high": 25012.650390625,
+          "low": 24873.94921875,
+          "close": 24980.650390625,
+          "adj_close": 24980.650390625,
+          "volume": 252300
+        },
+        {
+          "date": "2025-08-20 00:00:00",
+          "open": 24965.80078125,
+          "high": 25088.69921875,
+          "low": 24929.69921875,
+          "close": 25050.55078125,
+          "adj_close": 25050.55078125,
+          "volume": 287100
+        },
+        {
+          "date": "2025-08-21 00:00:00",
+          "open": 25142.0,
+          "high": 25153.650390625,
+          "low": 25054.900390625,
+          "close": 25083.75,
+          "adj_close": 25083.75,
+          "volume": 226500
+        },
+        {
+          "date": "2025-08-22 00:00:00",
+          "open": 25064.150390625,
+          "high": 25084.849609375,
+          "low": 24859.150390625,
+          "close": 24870.099609375,
+          "adj_close": 24870.099609375,
+          "volume": 210200
+        },
+        {
+          "date": "2025-08-25 00:00:00",
+          "open": 24949.150390625,
+          "high": 25021.55078125,
+          "low": 24894.349609375,
+          "close": 24967.75,
+          "adj_close": 24967.75,
+          "volume": 213000
+        },
+        {
+          "date": "2025-08-26 00:00:00",
+          "open": 24899.5,
+          "high": 24919.650390625,
+          "low": 24689.599609375,
+          "close": 24712.05078125,
+          "adj_close": 24712.05078125,
+          "volume": 750500
+        },
+        {
+          "date": "2025-08-28 00:00:00",
+          "open": 24695.80078125,
+          "high": 24702.650390625,
+          "low": 24481.599609375,
+          "close": 24500.900390625,
+          "adj_close": 24500.900390625,
+          "volume": 326600
+        },
+        {
+          "date": "2025-08-29 00:00:00",
+          "open": 24466.69921875,
+          "high": 24572.44921875,
+          "low": 24404.69921875,
+          "close": 24426.849609375,
+          "adj_close": 24426.849609375,
+          "volume": 325500
+        },
+        {
+          "date": "2025-09-01 00:00:00",
+          "open": 24432.69921875,
+          "high": 24635.599609375,
+          "low": 24432.69921875,
+          "close": 24625.05078125,
+          "adj_close": 24625.05078125,
+          "volume": 229300
+        },
+        {
+          "date": "2025-09-02 00:00:00",
+          "open": 24653.0,
+          "high": 24756.099609375,
+          "low": 24522.349609375,
+          "close": 24579.599609375,
+          "adj_close": 24579.599609375,
+          "volume": 271600
+        },
+        {
+          "date": "2025-09-03 00:00:00",
+          "open": 24616.5,
+          "high": 24737.05078125,
+          "low": 24533.19921875,
+          "close": 24715.05078125,
+          "adj_close": 24715.05078125,
+          "volume": 340300
+        },
+        {
+          "date": "2025-09-04 00:00:00",
+          "open": 24980.75,
+          "high": 24980.75,
+          "low": 24708.19921875,
+          "close": 24734.30078125,
+          "adj_close": 24734.30078125,
+          "volume": 314100
+        },
+        {
+          "date": "2025-09-05 00:00:00",
+          "open": 24818.849609375,
+          "high": 24832.349609375,
+          "low": 24621.599609375,
+          "close": 24741.0,
+          "adj_close": 24741.0,
+          "volume": 210100
+        },
+        {
+          "date": "2025-09-08 00:00:00",
+          "open": 24802.599609375,
+          "high": 24885.5,
+          "low": 24751.55078125,
+          "close": 24773.150390625,
+          "adj_close": 24773.150390625,
+          "volume": 213200
+        },
+        {
+          "date": "2025-09-09 00:00:00",
+          "open": 24864.099609375,
+          "high": 24891.80078125,
+          "low": 24814.0,
+          "close": 24868.599609375,
+          "adj_close": 24868.599609375,
+          "volume": 226900
+        },
+        {
+          "date": "2025-09-10 00:00:00",
+          "open": 24991.0,
+          "high": 25035.69921875,
+          "low": 24915.05078125,
+          "close": 24973.099609375,
+          "adj_close": 24973.099609375,
+          "volume": 244100
+        },
+        {
+          "date": "2025-09-11 00:00:00",
+          "open": 24945.5,
+          "high": 25037.30078125,
+          "low": 24940.150390625,
+          "close": 25005.5,
+          "adj_close": 25005.5,
+          "volume": 224600
+        },
+        {
+          "date": "2025-09-12 00:00:00",
+          "open": 25074.44921875,
+          "high": 25139.44921875,
+          "low": 25038.05078125,
+          "close": 25114.0,
+          "adj_close": 25114.0,
+          "volume": 225700
+        },
+        {
+          "date": "2025-09-15 00:00:00",
+          "open": 25118.900390625,
+          "high": 25138.44921875,
+          "low": 25048.75,
+          "close": 25069.19921875,
+          "adj_close": 25069.19921875,
+          "volume": 185400
+        },
+        {
+          "date": "2025-09-16 00:00:00",
+          "open": 25073.599609375,
+          "high": 25261.400390625,
+          "low": 25070.44921875,
+          "close": 25239.099609375,
+          "adj_close": 25239.099609375,
+          "volume": 240100
+        },
+        {
+          "date": "2025-09-17 00:00:00",
+          "open": 25276.599609375,
+          "high": 25346.5,
+          "low": 25275.349609375,
+          "close": 25330.25,
+          "adj_close": 25330.25,
+          "volume": 268900
+        },
+        {
+          "date": "2025-09-18 00:00:00",
+          "open": 25441.05078125,
+          "high": 25448.94921875,
+          "low": 25329.75,
+          "close": 25423.599609375,
+          "adj_close": 25423.599609375,
+          "volume": 272200
+        },
+        {
+          "date": "2025-09-19 00:00:00",
+          "open": 25410.19921875,
+          "high": 25428.75,
+          "low": 25286.30078125,
+          "close": 25327.05078125,
+          "adj_close": 25327.05078125,
+          "volume": 380400
+        },
+        {
+          "date": "2025-09-22 00:00:00",
+          "open": 25238.099609375,
+          "high": 25331.69921875,
+          "low": 25151.05078125,
+          "close": 25202.349609375,
+          "adj_close": 25202.349609375,
+          "volume": 254500
+        },
+        {
+          "date": "2025-09-23 00:00:00",
+          "open": 25209.0,
+          "high": 25261.900390625,
+          "low": 25084.650390625,
+          "close": 25169.5,
+          "adj_close": 25169.5,
+          "volume": 299200
+        },
+        {
+          "date": "2025-09-24 00:00:00",
+          "open": 25108.75,
+          "high": 25149.849609375,
+          "low": 25027.44921875,
+          "close": 25056.900390625,
+          "adj_close": 25056.900390625,
+          "volume": 244400
+        },
+        {
+          "date": "2025-09-25 00:00:00",
+          "open": 25034.5,
+          "high": 25092.69921875,
+          "low": 24878.30078125,
+          "close": 24890.849609375,
+          "adj_close": 24890.849609375,
+          "volume": 342500
+        },
+        {
+          "date": "2025-09-26 00:00:00",
+          "open": 24818.55078125,
+          "high": 24868.599609375,
+          "low": 24629.44921875,
+          "close": 24654.69921875,
+          "adj_close": 24654.69921875,
+          "volume": 291500
+        },
+        {
+          "date": "2025-09-29 00:00:00",
+          "open": 24728.55078125,
+          "high": 24791.30078125,
+          "low": 24606.19921875,
+          "close": 24634.900390625,
+          "adj_close": 24634.900390625,
+          "volume": 394400
+        },
+        {
+          "date": "2025-09-30 00:00:00",
+          "open": 24691.94921875,
+          "high": 24731.80078125,
+          "low": 24587.69921875,
+          "close": 24611.099609375,
+          "adj_close": 24611.099609375,
+          "volume": 303000
+        },
+        {
+          "date": "2025-10-01 00:00:00",
+          "open": 24620.55078125,
+          "high": 24867.94921875,
+          "low": 24605.94921875,
+          "close": 24836.30078125,
+          "adj_close": 24836.30078125,
+          "volume": 308900
+        },
+        {
+          "date": "2025-10-03 00:00:00",
+          "open": 24759.55078125,
+          "high": 24904.80078125,
+          "low": 24747.55078125,
+          "close": 24894.25,
+          "adj_close": 24894.25,
+          "volume": 365900
+        },
+        {
+          "date": "2025-10-06 00:00:00",
+          "open": 24916.55078125,
+          "high": 25095.94921875,
+          "low": 24881.650390625,
+          "close": 25077.650390625,
+          "adj_close": 25077.650390625,
+          "volume": 268800
+        },
+        {
+          "date": "2025-10-07 00:00:00",
+          "open": 25085.30078125,
+          "high": 25220.900390625,
+          "low": 25076.30078125,
+          "close": 25108.30078125,
+          "adj_close": 25108.30078125,
+          "volume": 288000
+        },
+        {
+          "date": "2025-10-08 00:00:00",
+          "open": 25079.75,
+          "high": 25192.5,
+          "low": 25008.5,
+          "close": 25046.150390625,
+          "adj_close": 25046.150390625,
+          "volume": 227400
+        },
+        {
+          "date": "2025-10-09 00:00:00",
+          "open": 25074.30078125,
+          "high": 25199.25,
+          "low": 25024.30078125,
+          "close": 25181.80078125,
+          "adj_close": 25181.80078125,
+          "volume": 286300
+        },
+        {
+          "date": "2025-10-10 00:00:00",
+          "open": 25167.650390625,
+          "high": 25330.75,
+          "low": 25156.849609375,
+          "close": 25285.349609375,
+          "adj_close": 25285.349609375,
+          "volume": 232900
+        },
+        {
+          "date": "2025-10-13 00:00:00",
+          "open": 25177.30078125,
+          "high": 25267.30078125,
+          "low": 25152.30078125,
+          "close": 25227.349609375,
+          "adj_close": 25227.349609375,
+          "volume": 234300
+        },
+        {
+          "date": "2025-10-14 00:00:00",
+          "open": 25277.55078125,
+          "high": 25310.349609375,
+          "low": 25060.55078125,
+          "close": 25145.5,
+          "adj_close": 25145.5,
+          "volume": 292100
+        },
+        {
+          "date": "2025-10-15 00:00:00",
+          "open": 25181.94921875,
+          "high": 25365.150390625,
+          "low": 25159.349609375,
+          "close": 25323.55078125,
+          "adj_close": 25323.55078125,
+          "volume": 289900
+        },
+        {
+          "date": "2025-10-16 00:00:00",
+          "open": 25394.900390625,
+          "high": 25625.400390625,
+          "low": 25376.849609375,
+          "close": 25585.30078125,
+          "adj_close": 25585.30078125,
+          "volume": 372800
+        },
+        {
+          "date": "2025-10-17 00:00:00",
+          "open": 25546.849609375,
+          "high": 25781.5,
+          "low": 25508.599609375,
+          "close": 25709.849609375,
+          "adj_close": 25709.849609375,
+          "volume": 422100
+        },
+        {
+          "date": "2025-10-20 00:00:00",
+          "open": 25824.599609375,
+          "high": 25926.19921875,
+          "low": 25788.5,
+          "close": 25843.150390625,
+          "adj_close": 25843.150390625,
+          "volume": 301100
+        },
+        {
+          "date": "2025-10-21 00:00:00",
+          "open": 25901.19921875,
+          "high": 25934.349609375,
+          "low": 25825.80078125,
+          "close": 25868.599609375,
+          "adj_close": 25868.599609375,
+          "volume": 42500
+        },
+        {
+          "date": "2025-10-23 00:00:00",
+          "open": 26057.19921875,
+          "high": 26104.19921875,
+          "low": 25862.44921875,
+          "close": 25891.400390625,
+          "adj_close": 25891.400390625,
+          "volume": 448400
+        },
+        {
+          "date": "2025-10-24 00:00:00",
+          "open": 25935.099609375,
+          "high": 25944.150390625,
+          "low": 25783.75,
+          "close": 25859.69921875,
+          "adj_close": 25859.69921875,
+          "volume": 0
+        }
+      ]
+    }
+  },
+  "news": {
+    "rss": [
+      {
+        "title": "RBI Monetary Policy: Repo Rate Unchanged, GDP Outlook Brightens - PIB",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92Q09uOTR4bF9fZVB0a25vZ1RhcTdCVmM2NnJEaUdVaV9aVk53NFM4VTd6MEZwNG90dDlPSUdLNHE1WS0zelJTU2l0ZUQ4cDY2aHptRldaYl9MWDRnMVVpVS1oT2I3c254?oc=5",
+        "published": "Wed, 01 Oct 2025 07:00:00 GMT",
+        "source_feed": "RBI repo rate"
+      },
+      {
+        "title": "RBI may deliver one more rate cut in December, says report - The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMHFjQ1dIUW85VG9OQ2c1YzgwZm5mNml3bGJpeEg2V0ZzRl9vNGhLQUFHQmU0eDFCV2tBV2N5MTVYMHcyTUJyNTFXRDFpZEw3c3l6TzdTNWFPbm4zMDRUVVQtQzJwbzdIVko1MGhINEo0R1R5a2czcjZxYmcwNEtKci1vdEs0S0dWNnd1MWt2Rm9FSThtV2FpWFp4S2oxZDVHeWZ0YzVmeG51MGRkajB4VFlwRXdSMXZBUUJNaTF2bmxvUG9QMWUzRHVyR1dwZnFn0gHWAUFVX3lxTE1MVl9WSVBkRGxKUnhTT3N6MVJyZjQtUHg1aGsyblg3cFNCWFB2ZE5kRUZNSXo1UmdaY2cwSzE2V29LSVdmUnJSdlZoTnE3MkFZZi1UZE1tNHZoU1hBY1F6LWRxVlgzWkl2MVNacGxQaFFjVS12TlVsY0NReGNfZXNpbWl5Yko1RXhJLVZ5LU40MEtObHdyTnVoRGtabkh4dGlWUFVuXzR1eFRvaXJaeFdJLUJuQ3BwREt1T1BLVmc5aF9GaElDOUJVOTlWLVZWUWZ1ekJDNEE?oc=5",
+        "published": "Tue, 07 Oct 2025 07:00:00 GMT",
+        "source_feed": "RBI repo rate"
+      },
+      {
+        "title": "Rethinking India's Monetary Policy Framework: A response to the RBI Review - Business Standard",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZW4xUkQ3aElpVkwtcEFHM25qbkx4SWFZbkQwSExSNS1fRGppc3ZkcVV5WTFEM1dOdFp1aVRfOFFCVlBZdHlkMmYxMGFadVI3V2RHaEwyeExLdllYS1ZRR3pRaElrd29YR2FFb2dFSHRoaHlVTWZ5UVFJd0I3c05rTzRpbURTVGxSNjNQSUJyOWd4X3M2V1plLWhnT0pRZUVtQWVqNmJ0TU1FYVhILVVsblZSU1hkTlhtSEU3SU43bmM5T05UanBfeWtyTEtta1hiUDZqVnpLa2xMZllR0gHiAUFVX3lxTE5FMnN3VlM2NXB0a0xCdjdiUTEwV0V0Nmp1eGNPa0pkZG1MZldBX0xSQk02TWtobnlnNW5tUFZnWjI1eG1vT3ZTcFN3QTlIVGUySkR0ck50WnN5XzdZaFlBUC1ydjBZX3l5NWpwWjBoLS0xTWNSd0szbmFCQ05XVkdibjh5QnF4V3d1Z3F6SzZoN1hGZm9HZFN3ZlFrUUI1cnJ0dktGckhYcEVxbU9Ba3lFUnl2VmZvNjUyXzhaSDRTdHNORVFBcndNWld1YzRPTXdYNXN2d3FTSVNQM2RNVEZWanc?oc=5",
+        "published": "Thu, 23 Oct 2025 17:10:10 GMT",
+        "source_feed": "RBI repo rate"
+      },
+      {
+        "title": "Triple bonanza this Diwali: How income tax cuts, GST reductions & repo rate cut have put around Rs 1.5 la - Times of India",
+        "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPdmcycjRZNDljd3FSaWxzcy1FZ196cDU4RnotSzhNeDV3ejhKU0syLUxIUEhtbUJOcFU2X0NFUjNfcnRqcXl6UjUxaGx6elY4anRyRVBEdTJYTnJla0dvUmN4WVZrR1ZTZzZYX0c2RlZJVHpIOXhMZFBodW1iQ3hiMUl1ZGRITjZnYjY1c0R6dkloMU9NWFN2aUppT1dlU2FGdmJMNkl4Nlp5VjNGamR0dHlWYVRUTDREcXdldmFqM0ktTGMxaXF6LU1EeFNvdW1qZ1B5NU44YkV3NWRLTDBsb01uVEhmbDVKNjVEdmJvd2tJbER5bnBzVkltWEhnTUhJOF9tT21TM0pJUi1vbFZjLWR4cFpZRDJwWWdVNmlqQm54ZEJyMlI3MVF2NlhyaEtJdWtJc2c0Z1NiQdIBvwJBVV95cUxNWXByRm5LOWVNVk1VbGx3QkRZUndPem9IWVJQdkJrYWdVNUdwM25DX1AxN2JIbHlMeXgzSkEweEo3QzZGN1BsR21CRWZnekl1anBSWXVqc0JQX1NiWTF0Z2NtTG1LVTZBRHNoTlo3ZDNrUHhMb3c1VHo2WXRIbmRZekFBQ01TT1hfazI3eFNHUGZhRUFqZFJlZmhBM0dTQXdsa0o5aTMtaEtyN2lVN1Y3VUhMU0x1eWxPRlNqNzdZempVWkdHRGtNZENxRHJVN0pST2xWNkZtQTY2cGVBbUhWZ3dFWDhWYk04VDI4dmpFZlNKRzVfMmMxX0xFYlF2VlBlNDktYWF4VHNRa0VlRHRuYmEtVmxqMXFCZkZHOWxLZW9FN3lGSy1PRm5EZlNrZHR2TGMwRmVtQ2g0TE1FRHdJ?oc=5",
+        "published": "Mon, 20 Oct 2025 12:21:00 GMT",
+        "source_feed": "RBI repo rate"
+      },
+      {
+        "title": "RBI keeps repo rate unchanged at 5.5%, maintains neutral stance - DD News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQUFtTjFDUG9sOTBEbnpURXZnWDNzSnVnRS1Qa1VHWGdILWNyVXFOaV9LSkhXWmZtSUZ0bkVjdVhzOFBiUGlFbmRQTC1jNHF0cXVIV041TWwxa1NKWTFwMldjdTVPbDlDZTUzWHY2NFBtTW02WTlwOVZmeVBkNGxmZmFSRzhabURCUEI5cVVrbk8?oc=5",
+        "published": "Wed, 01 Oct 2025 07:00:00 GMT",
+        "source_feed": "RBI repo rate"
+      },
+      {
+        "title": "RBI Keeps Repo Rate Unchanged At 5.5% For Second Consecutive Time - NDTV",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTjdwbjQwRmsxQ3lhQnVDUjVsdWhHODV4WU5lNjdEZlRKZWVTMzhVLXJCdkZRVGxTWG1GeGVxT2ViYVpZWElra0ZzSk5XVEJoR0d3TUhFS1lXTmpFdVk0Rl9uY09WMER5OGotaTBGXzh5M25feEtKdG0yQWJ4TDNzTG83YmhfUHduRUFraFkyNDNzNk5TVEVzR1FzVFVFcV93czNyc09ITdIBrwFBVV95cUxQcm9OdS1oZU0yN0JKZUdzNFdYbjhnTWdrOFlSdFcySldpVlVrNzNBWWR0a1VMZzhQR01YRE1mTWxZUTJwc0t4WlY0WkIxb0oyUzI2WWFMSDkzUFVPbjNkTDVWOGxtWDB5X1VMc2RVcVRWZ1RYc3d2NG9MN3kzdUZnYWdRYW9jaVBIREZNZ1hHSGxoMmFSZW9uWGhIeGlLcUxuR012Q2FWa0M4bGRmUGlJ?oc=5",
+        "published": "Wed, 01 Oct 2025 07:00:00 GMT",
+        "source_feed": "RBI repo rate"
+      },
+      {
+        "title": "RBI Raises GDP Growth Forecast for Current Financial year to 6.8 percent; Also Lowers Inflation Forecast to 2.6 percent - Newsonair",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZkw4SnJsSjhwTHlaNzFPV0RoWmZENEVWVlFVQ2Y0Z1pKR2ZaUVRKUGxmRVFwMHRzaklQaGlURzc2SXhRVllteXNZRi1Lb1VLN3NYQ1dXall5dHppblNGZl9ZMnVhSnJ4eVN0ZUNEazY3Tkt5dFdFdGU1cDR2RDJDNE1UQ1JaRzNiNGc3Ni01a1BmT2gtMmc?oc=5",
+        "published": "Wed, 01 Oct 2025 07:00:00 GMT",
+        "source_feed": "RBI repo rate"
+      },
+      {
+        "title": "RBI MPC meeting updates: Repo rate unchanged at 5.5%, says Governor Sanjay Malhotra - The Hindu",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPak9fRldqdnJrRHozeFEyTHMwMHczOXIwVkxrX1duV2NJV3RmamlxVFR2cHN2NGJDT0pzTlNBRVhYQWRfcXoyY2p0cWhMbzAweG1jN25ad2ZTRHAxQUtadndnbldFaDIwQTVJUU9nYzVnY3VzdVFMZTdoM251Q2t3cDByMXNDbHNHbWktNGJrTUQxOWQ2TFY0bFBST2pjbHoxdW1mbm9wbjd6Y08wYmZQZm1Qc1c5bWg5SFpsREpib3NVMWtEbDlvUXd6cmVsUkXSAdYBQVVfeXFMTjFhZmJRd0tUNDZBOFc3WmU3T1Rac3drUFhHWDNpM1Vtc0JUd3RPc1JEVWtrajY1aVBDelJBaWlTYTZNVW9UOGFTT3pJOHkxcjg3Nl9OX1paeGxyR0x2ZW1qcDFhNTNyUWpURGNvWVZpd0lfNUZOUW5JMTMzR0xGMHJiU1lFaUdkU3liRzlXYy1LdkJDTERZdmpZdzJ2eHpIeWZmanYzMjMtOTlOYUszWVB2c3pxMzNSeFJqOExiOVhTTFZqNFB6MUhlUVlubHVJQ2FSQXM2QQ?oc=5",
+        "published": "Wed, 01 Oct 2025 07:00:00 GMT",
+        "source_feed": "RBI repo rate"
+      },
+      {
+        "title": "RBI Monetary Policy Meet LIVE: RBI keeps repo rate unchanged at 5.5%, monetary policy stance ‘neutral’ - The Indian Express",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOXdEQS11X0lGa2lmXzdVLV9QeGh1dDBJUjJncVhja1hJV3l4Ul9PMEsyQTdwNG8wTVZpX2s4dXVvRDhIOEVTNWtUeGZWUlpGeHBOaXhCMVJ1aHBoei1hYTN1LXdQa1hCRGhPOGtJdndfd2tZRTdjY1ZxQ19jakUyNldfVzByWjNQWWtlT3BTSXVhVnVZQi1ScWlJUFNMQnZRU3NhbmFveUtwYzNYYkhmM01n0gG4AUFVX3lxTE1NSkh1dWJYVks4TC1nMGRNZmFjYzY2WGVmODMzZUFEd3lFamlKYkd4STYzYVJmZk5RNnBQcHpJUEtLUklyQ0V1NkJzN29vR1pjVTJad3JzNkZLYVVRTjBIcjdFV3I4YlJaLVNTcWJGNjFtcXRLRTRodGpJYzJjTUdxZjN0MzU4SEJXb0ZWTHBnZnVyc1ZMT2t6U0pYQWhXdGF1Vl9SdFRwd3RaQzl3SUpLOWUtUFdzYnY?oc=5",
+        "published": "Wed, 01 Oct 2025 07:00:00 GMT",
+        "source_feed": "RBI repo rate"
+      },
+      {
+        "title": "RBI Repo Rate Unchanged At 5.5%: How Will It Impact Your Home, Personal Loan EMIs? - News18",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQXZoTlNRdnpXNW5qeElwbi01RjNsXzhrYUN2czBKdURmMDlmVDkyN1BnSmoyTDZydzFGYWljZEE4SlBiWEJOdjdxck1MbF9xVlYzcDJaQnNTSnlhVTg2Q2JzdHJLdWZTSGI4bk5TTTlMRnEyLW5QbHcwQTVLNEZlTGVqN2V5djlUMjJPUjBCMUJvbDktTXRCWUNMNVAxSFQzUzJTX2t6MkxyZDdrWkU1aWtpX1V4OXJWUU10N2lQdlNkOG5LRE5RMDBmUzFJY08xWVVBdS1BNXc2MUdu0gHiAUFVX3lxTE5CWDJQQlJYMmJJNWpQWm1IM1hHZEp5WHNnUlhZWm1odzY5Qzhzd1M1ckg5XzB1cUNtaDBJOUNTLWxNSjdoY3AycFFiRW53Zjk0NU0tYjNTbWRyQ3VkcTJiaDdfREhrR1BqbWdkS1Q3a1lyVXJpTlhoRXhlM212RUxfUEVnSFRyQ0laYmVMZVJWOHR3ZEhiclpadks0YjVHWlA1ZV9aSHNWQTZsLUEtNzJNTDhNak96R3NicktGS1RVd1BzcEZMUDU1ZG1QeW5tRklFWjh6NHFPNlE4bjE3UG9YRUE?oc=5",
+        "published": "Fri, 03 Oct 2025 07:00:00 GMT",
+        "source_feed": "RBI repo rate"
+      },
+      {
+        "title": "RBI MPC holds repo rate: Is one more cut coming in FY26? What experts hint? - Mint",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc2NiNC0xM28tcUZWUllvRU5HZTZvY1BoeHhjZkZiVzVMMERJQjFtd0ZQb3JHWXpkUlJ1UDVIV25hS3JFS216b3lTUUZBMjRuTnRUdkJnMzhGWFhac3FfWWxOeUU4MWdBMEdHaXlzUDlFTWdWVVdEclRKVzhiWkhRV3FyZjFoRXZxZk5adlVyR0NtTmdfdGpNSjJPUlZnLVNxRVN4Mng5bG02TjgzUjRaQTJRYVFndWt3YmZPX2poSF9nODTSAcgBQVVfeXFMTlNsemFrb2dBM21kUzdORTlKOUJvUURXaUZMUnd3T0pTRkhnWEQwZDcwOEFKMUR3TUVFOHpod1hpZlVLdHFMUXZKeGswUzRCX0pQbjRjYkh3QjA1RUNwbUlUMFUtRFdkVU5TX2ducF9SR1dReVIwX1lobS1QMHhObEpZZnRpd2o3NUY1Tkg0cE1aQWVBYmlXV1ZOYllKZXczdUpFSHl1QmVwT0RHREplSHR1WDRxcXozS0hRSllidDE2M3UxOWpTZ28?oc=5",
+        "published": "Wed, 01 Oct 2025 07:00:00 GMT",
+        "source_feed": "RBI repo rate"
+      },
+      {
+        "title": "RBI keeps repo rate unchanged at 5.5% - HDFC Sky",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tZklmZVRLMWJPNXZqcUhJUmVqU1NObExqb3ZkMlQ1OE0tb25YTE0tb291N2hCU0xQTUU5eUoxTUMwaXk2TmYyTHdGZ0NWYW5abTVFUzV6VGo1a0wtYzhlLVBBQlFfdlFqV3p6cGhqOHJxV3c4Wkhz?oc=5",
+        "published": "Wed, 01 Oct 2025 07:00:00 GMT",
+        "source_feed": "RBI repo rate"
+      },
+      {
+        "title": "RBI leave repo rate unchanged: What it means for home loan borrowers - Moneycontrol",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS0ZGSmVvdGV6ZW1ldkp5SzVENURqT1F1Y2NZVTlGSmwwbWdHQUV2VGZBaF9TWGRSWXJLUE84NXVrTXI0Yk4tTmYxM0RTcUNBTEpKVHlpckZEQWp1YWRaRGduMzJlU18wbHNyMldGUG44cVlWVzF0aEVMUk1SU3A3MWhJb29SMXRnWjhnbU1Sd3Y1Wng0ajh0MWpidjN2dmlFODhOMWFwSkVHbEFXYW9aYV9pYTkyeVU0S1QyVS1iY1ZNVkJHd19iOW9YSmFNeGxBQUJkZEViM0LSAd4BQVVfeXFMUGNpa1lFQU5DeTZUUmRlejRCWkRuejJUb1JYcTY5N25kS240VnR4NFB4dzVBTmhvRzk2LU03bmZtdDZiQnpaMDhBcDRSbmtSYktsd19ER1lMT1NidEdyaDFraVVoalJQSTdUcl9wbnNzZ2Iya3ZySG5sd1gzMjVXVnBKOWhHRVo5US10YlhxLVVMdi05X2lJaXJHbUoxRHJOV1FNcXk4Q1NZamtyYVRzSnl1VmhrdTZhZGJObkYtZ01OSVNwc2NYRWlPbnRuTUpDVUxVSGJ6cktZUVZmT2R3?oc=5",
+        "published": "Wed, 01 Oct 2025 07:00:00 GMT",
+        "source_feed": "RBI repo rate"
+      },
+      {
+        "title": "WACR better aligned with repo rate amid improved liquidity: RBI report - Business Standard",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTnRSRTZ4NmdmZ1ZDMUQyUWJrSndIc1Zfa3FfLWZHWE82NUdvcV8yQlZWMzVTVlo5NmU2MXdwLUw4MGtDcG5QMVNtNEQ2TFhjUDJlN3ZJYlRiOWUxcC1RWEFwQUtVLXpTMzlIU3F2aUN1TE13eVFCMGNGWTlZaDZHT0pod2lITFdWNE5TTG5VSmRMRll3NUhiZ3hMNUZPWV9KMGV1a3RhYnBBWGctLXRtRk9IRnM1a2U4ZXhfYTRObllXOVpLRG9xQ1R3OG9TNTBDNVHSAdcBQVVfeXFMUEhqLU5sMG96SlFKVG5hSG9mQV9fNnhva1dmWl9IYUdUMnF3OTdKX1JtR0xqYk9KR3hnTnZhN21Bb3FfSnJFUkY1S0NXUUlBRElfYjZEcC1MMkt3V2c4YkIxWlpOVndGeXc5N3lncEszay0wQ0xNYU1PRlRFM1k5c2NWUjAzemhMTXBwM0hZOUJNeURRM09ZU0dCOGZRQmZzUkl4WlBnYlNyRXZLbU9QR2o1bmc0aTZoeFp6X0VaVDBhLU9TWTlDdDhrQ09CRWRSaFVxdzdxQjg?oc=5",
+        "published": "Wed, 22 Oct 2025 13:17:32 GMT",
+        "source_feed": "RBI repo rate"
+      },
+      {
+        "title": "MPC keeps repo rate unchanged at 5.5%, revises growth forecast upwards to 6.8%, inflation projected at 2.6%for FY26 - The Hindu",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSHk0cDVJR0hRbFdrcEVMWDNWLXE2NTliRWhaMXFBY2c5WE9ySDNnN1dJR1ZEOVpRbFhJUDJvMG1UazlqLUJYSjRvdEQ3cWxaWTFab0dRaEpONDltY1Ewb2ZmN0UzLUVLVmNCMWFMQk1XVENqMmF2SXNGZ1dtdFNuYTZRbXlFQTEzOVJGOHdiOXNJTkg3empPcG5qb0gyMmxuVF9KRllWcWZwLU1SU2hhWG1Fa2RERWh6ODl0bnk1OFpPbHVVQmF30gHOAUFVX3lxTE5QT3BXMXhvSnpSbVM0TFV3UTBEalBzU2hsWk1NSW92a1RpYW5KQVRkendQenk2aDk2YnhubUFnVHdWY0p2TWtOTkNJRS15NHdpdDlkRlJyU3JhcUE0Mlo4ZnpzbjVzZ3o4S09OWDBFUEdSZmlQTkRhQ2tsTHpSdnk2Mnp5WGZIX0dXUEM0Q3lqdXdpTUc1VnpENnJHcDlEbXFUdFNWSWJ4ZG15WmlMS3BHLS1iLU1qdV9lbDl0N3FzYVFnM1VJd3VVN09NbzZ3?oc=5",
+        "published": "Wed, 01 Oct 2025 07:00:00 GMT",
+        "source_feed": "RBI repo rate"
+      },
+      {
+        "title": "Stock market today: Trade setup for Nifty 50, India-US trade deal, crude oil to gold prices - 8 stocks to buy - Mint",
+        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQZUJEaG1ZdWxrR0U1TmUyaTUzNVFMRm1PZG8tZW5rSzlaM3ZUT29MYktRTHV6SVh2QlBsSnQ5REUtSjBMek85TjFURUhzeGYwN2hxX1ZaVjd2c3RDLXpTUlVQN1ZDVWl4Qm5NVFY3MGFCaHJzQjc0SVppcE9NZUpaMzkwX0hUdXNTdXhYTG1zcVgwcVNlNjZhNUwzQktOLVBDNi1vdUxKY2dFMDgyZzBWMTczeVNjbFpPZXZib1NxeVdLdll4bFZoV2ZQc3EtSklaaENDWkw0NlFISXpfZjVFeHlYZUFyWlRIdE5EWHo3SEZucFYyUDdLNDUybC1VWXdnelZMZA?oc=5",
+        "published": "Fri, 24 Oct 2025 00:44:08 GMT",
+        "source_feed": "NIFTY 50"
+      },
+      {
+        "title": "Sensex Today | Nifty 50 | Stock Market LIVE Updates: Sensex falls over 200 pts, Nifty below 25,850; FMCG ... - The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWU0yV1g2aGxtZktTREFtUDZKcXVmQUVxV2E5YUVzVEVVOGI5WjlJR1FiTEZmYVJpMWpJTWlQMkx6cnVxaWJ3WEZtTmtBaGpZeW5BLW5jYVJyY1FiSUdVZUpNa1JvUW92TEZmcmtjRFNpTkJIamFHVDFPQkxzRngtWVFZS09zQXZrZWJ2RHFZZnpKTjIycS15TTlPZWRpMWI3S3dtdEoyRWZBMElpWU5mUlhuWnVsRFJlVHdIY0FySWI3M2dKQmRTTjYtNnh1NXUtdkkySW1Fd9IB3AFBVV95cUxNOUdTaklKN1VrUlB4YU5oODRmMGhyaXB2Q2kxaTNyTDBGdTMxUGtpNWdEODQzdlk4Y1pLT1VQSlEzNEphUDZhZk1ZRVoxS0s4NU5iVDhEUjM3ekJoSGZEYXdDQ1dfcjB5d0ZldjhRXzdsVUkxMXpES0JqVTV5OHVhSTFxSFpDWEg1ZThpUWtaVkh2WHFVekF5WF9GS0hKVUh6aHpwbDgweVE2N1pBVXBpcGg1NkFTZk1kWlpuVmhZNW82YXZ6dU00Z1psSkxVejBhOHBtVWx4bkktajdD?oc=5",
+        "published": "Fri, 24 Oct 2025 06:43:44 GMT",
+        "source_feed": "NIFTY 50"
+      },
+      {
+        "title": "Stock Market LIVE Updates: Nifty at 25,820, Sensex down 230 pts; FMCG drags, metals shine - Moneycontrol",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQzBjM0tfVUc3d1FoVjl2aVY2T3lSOEhDTEFWVWRsREpQakpCbENiZTBaM0o2UnVyb3NzSEgxZUNMQ1NDMWZkQ0FHaWFGVXhnSjlPZng0R0dTZUJ0NnY4Q21jRlVHdDBXTTFqeTNkN0ZPNHgtU0xkSXZDMkRNV1hYbUM0M2otU3g0NHB0WHd3MnQwNzhUczBVc3NLYjFGcGVndjhQc0ZTR0VUQUJjQXYyZEF4bm83YVBRSDBtSUNJYTI3LUlkenNMOTE0czVILW1oLUdKR0wza3pSekhzeDJocEo0Mi0yRk9uMC12WdIB8gFBVV95cUxNWkZ1dkhoNkkwTFg0LWI5bVV4RW5GajhWdmlkYjZUSzNUVE5lZ0JFcTlDUGdGRTV3VkFZdFBEMUs3YVM3N3JCY0VPdTZGV1NORkVENGh5MW1zeENiNUZsODlSZmJlci1aclRPM0dXbTZXb1dPZ0lmQ0FPWVNIbDR2S19MN3hLLW45dGZSakRQUFhPblM0aDFxZnpxM01hYVduejFrYmh4Umt0VFNyaENqeHM0RzdvRWVzM0lFQ2JkS2hiTUhTNjVFQjk3WThqNGVDdGphb3RVQjNQR3lRSlBJZ2RmbmlfMWktelRyU1dscHFzUQ?oc=5",
+        "published": "Fri, 24 Oct 2025 06:46:29 GMT",
+        "source_feed": "NIFTY 50"
+      },
+      {
+        "title": "Sensex Today | Stock Market LIVE Updates: Nifty remains below 25,850; HUL, Cipla among losers - CNBC TV18",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQSFU2VGtvSlhDdG1LTHBxZUdVbFpneHVfWmdpNHYyY2llTkIzZ3l5bmJQRmF3ZkhzMF9YWklQLUd1Y1Y1WFEzSjNvMDVhQnBraUhJSHQ4U0FfUzhIMWhWT1RSMk9HYVhUMG1TMlZYZUwxdGN1SU1Xc1l4RG84VmxLcl9UaDF2dkNDY29RNGxfWGpxcFpEMEhtZ05UUmp1WU92dnJFdG5Db25kd0FJaThvNmwtZ2d3SGhlRjBnMDJWRFhFdW0wZ1RiajFzUGRtSkJ6enQyWFp0MXB1Z0UwT21xRjQySTVkeEhnYkZhZ2tfMVN2T3BoRlJrdFprSHpWRjc3NHg00gGIAkFVX3lxTE5nUmVqdkNzVkxfU3d0N3FicW90U1NjVVRIZzJnR2hRdGNaSWo2czFoSHJPQURoZ25iUW9GTkFDYklsMm1Oc0NOOGRkTHdpbWFTR1dCVWJhSlFNR3ZBOGxLVjFRM1NGak5HZmVUaXhoV0ktTTZzNzByLS1WS2drdXliRmhrd0p5Z0gyVzNJNmFCQmx3UjNHZXpiMnpPVEszNGN3ZkRNVFFFMU1UeUhCaHRVTnpOVktjVEJLQ0dRZmgtdFU0NDdBU2ZwdGdjZHlQNUdrNVlRdmdrUnFZbHlGeWU4cDg0LUdFVmJ5Z2xtbUprRUkxSFZENDJiTHBxcUdBU1dybVJMNkxCUg?oc=5",
+        "published": "Fri, 24 Oct 2025 06:49:59 GMT",
+        "source_feed": "NIFTY 50"
+      },
+      {
+        "title": "Highlights: Profit booking in afternoon trade – Nifty closes below 25,900, Sensex slips 400 points from day’s high - financialexpress.com",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaFRmWjRYREIteWZtclNGR1ZURG9Yb1BvSHVnSURsbDdqejJndll2R1VEY3o5Rk1nYThLSk5jWjNoQXRWODljRjJDa2pqbmRfeVBuUTdSWGowRTY5MTRLS2xoZ2JGZW9zQjR4RnF5b3JMZlR0TGx5Y1RmdEhic2ZPcnk1MHR5WTlPRjVQcWxadVJKSk90MTNoSWwwczEwRDVmb0lldzFxU214QklCcm9oLWY3ZmtINjM3cjBraVU4Yl9pS0VnX2JZTmVUYXRXc0NxU0tXazBBS2FiS0JOaFV4Ym1oYzRjRTRqVnlRb3dBTnBWUlgx?oc=5",
+        "published": "Thu, 23 Oct 2025 10:06:34 GMT",
+        "source_feed": "NIFTY 50"
+      },
+      {
+        "title": "Nifty Prediction Today – October 24, 2025: Nifty 50 Futures: Intraday fall possible - BusinessLine",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTUFKTzJMWlUyNlVpc2dyMjNZZHhhWUJLZ0l2LVlSRk81RVFVMFlzN3U4SzBqWEtsRXpCb1VZamMwLVNPODRwbWFFLUxoMjVUeU1ENnJWM1BfOEF6eEFrQjB5NlhHVHkzbGZnbkJ3OGRGVXhFMzRGSXBzSklqaG16RnFYWG5UVnZrWE0zcHltTjlpNFVrRXhXMlZfT2JjeFp2SnoyakZPWlQ1NUw0QXFFcThtSEc3dDhwSDFhWFZoX0VwUnVmMnZrMFFnY2FJeTNlS3NiUVIwWkZHcHd3UWh3Qk5EakplQXA2WDNra01TMGx1Rjluc2gw0gH-AUFVX3lxTE9fZ0tPUEdRRzVqdEdxOURNUUo4LV9pOXJwRDM1MUJSalNqOUFqd3ZHejZZalViSnA2eWxGZ251UTB6SjVTeXVyNFhTck45cWo3d1VxNEV0b0M1ck0zZmZlSUFXYm1Va3ZhWUwzNkhjZ002Z0F5eUhJOGhENlRDNTRrN0lQUzZFRnNVZmpBaWMyTzFwY2VqNjlwakpCZDkzcVgxY2oycjVxT3ZhNnFESHozdGtxTGc4RVREV3p1Z0FhZUxzWFplM0FOdmFaQ0l1UDIxM3hBVkN3d3VOMmpOWk1FTmJSYWxxWTMtS0RrUkh1TTg1d19YTU9INkFGLVF3?oc=5",
+        "published": "Fri, 24 Oct 2025 05:15:47 GMT",
+        "source_feed": "NIFTY 50"
+      },
+      {
+        "title": "Anil Singhvi Market Strategy (Oct 24): How to trade Nifty 50, Nifty Bank today - Zee Business",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTzBjM3JQdHk1N203Ym1Ua1A4bzF1M3poYUxKSzVVdnd4Z2F5aF83a2plYW5ZdVM3QmhiYmUyV0dEUGxqajJZUU1MRkRoRWRlMGtQaG5fNnJtVXNqMUNhWnlSM214dVFwYk1ET2MzaHVkYmV5eklETG5ac0lLc3BjSWtKYk9OT3hXVFY4aWtxSGt1TXN2UUdWbFBrYzZxc1VmOWZXNGlRekQtbHpBM284UjZMMC1RWlh4Z0Jfd2N3?oc=5",
+        "published": "Fri, 24 Oct 2025 02:59:20 GMT",
+        "source_feed": "NIFTY 50"
+      },
+      {
+        "title": "Stock market today: Nifty50 opens flat; BSE Sensex near 84,500 - Times of India",
+        "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQamJWWGNnTnFsN3lPU2twdVhUYThPdUx6T29hTW1jN0VXdGxnbUpnaVVPTEY5dFZRZlhTRGJWQ2ZfOFpFVElYQ1hSQmRPWEt6VDNhV1htRXV1aFdndjZ6TkY3UkZZc1VuMkh1UUw2d2hMV21WSlVLNXNSaE5GM2M3eFZ3Qy0wQlp3cUluR2RnNkdXallGaTRCQUFSUjhjbGxtOHp3WnhNeGI1WXBON0VMRGJsV3RnMlV2VlZtQURJWGFJNW9hTXkwTXZlME1QWk02emEweE8wX2l2cnNFNzZHYUdsMmFGY1U5TURVWk5sWW5jbmVwbUNOZGROS1FBZE80QTk1bDNuTHFzR0FUVmdjMjJFNFFkU015RnEwR2lSUm5RWU95X2c0SDV2MVAtcFVTcHExbnUxbGItU3ZqY3fSAcMCQVVfeXFMT0N3aURTMnd0WFRLVk12RHoyNjJvQWk1QUtIRHpDeGNzM3FWX1pnQUdlSmdiQWdGVVVYeWdiUVNYT0RoRVlkeTlMcFUwdjF3OHNfSzVhWGl6NGlFMFR2T3BEWjItTnBrelh1WHRJRXhpS05OTjB1aFJqZF96VFdWVGlxWk5pcDdUWEI3RWJhWkpRb2JqYlF1azdabzQyMy1LWGUzQTk0Q244a3d3ZWZSdlRZX3Y3ZGxSSVpIekNKVm02bFc0Z19BNXpSX3liMUVwcTNNejFOWU1sN2d6WjFmLTREM1JURmxtcGNadTlpZzFQYVMtcTl4dFFwZVh4MFRpTEhrUVlzR1JBNXFfeHktbGpUTnNkRWVRVEFld3hVX3R4MDRQQVNRUWl2eXZIc1V2NDd4NXhwM0lTSU1telZFRUptNW8?oc=5",
+        "published": "Fri, 24 Oct 2025 03:49:00 GMT",
+        "source_feed": "NIFTY 50"
+      },
+      {
+        "title": "Nifty 50, Sensex today: What to expect from Indian stock market in trade on October 24 after global markets rally - Mint",
+        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOc1U1ek9GZ25iYXR4aHNBeDhPUFJBYmVVNm5QZHVrM0RqMl9iMHpqM052QnBKRXA4OFVYV3lPdDRpMHRhVU9hSzhlS1RYRnN2TTVRT3JObEd5UTlxaFZQejJseXJvZUdIRW51S1ZvejhHeUZRRnlscjJ6ZHQ1V3E3YU1DaXVUYjNHR3dKaVdqUExrUGhLR182VmRiU3NRYlh2eHJWOUYwS3BzcktBNHY3QlFpX1YyZ0hfbDFvMVo2ZG14REFUNUpmbTNDdm92U0VhX1QwNFNYSUNRV2JtOWVya1lUaEZfVTQ2UmlfQmNaRUZ0T2lKSW83NmR0VjZ5ZzRwT1MzbW5TN2NTdmFubVHSAZMCQVVfeXFMT3NGdmZVUWdJcXNpSDQ2TjVlUkUzMW9uckRKQnVEb0dpUXVKaE9wR2FEM3NmNnF0NW0xa19tODV5ZERQNVNQMXJvOGYxZE85eVhnOHhVVHp2UXhjWHBKcUZobnBLNzM5cVZTb3M2WG9VaVc0V3pyemVqeDNNZi1fRzdwWHVvTURPdHB4T3ZTNzgyQzRTcWhUTVlUQlpHZ3RIUlYzSUJVamdNQ2toWWFJSkZ3SWhjcGJOM0NvYlhDRUZfUjRXYUV2bElObkxYZEJUdFE5Yk4xRm9sN202QTl1OXplTjVCNFRkNGQxXzRhTklyd0dhQjRyMGJ2VlBSWEtCYS0tdXpiR2tUVllnNzdicXFBcWs?oc=5",
+        "published": "Fri, 24 Oct 2025 01:58:56 GMT",
+        "source_feed": "NIFTY 50"
+      },
+      {
+        "title": "Stock Market Live Updates: Sensex Zooms Above 85K, Nifty 50 Adds 200pts; Most Sectors In Red - Goodreturns",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSHAtMEUyNHlfMWE3bW90Tm9YWGFfeklJVWxwanpkT0xSWThMYUdDaVBDWHY2aGoyZm5sV3NQTURmaUV2VmFjN1lUVFRFaHVQSWJqdU1BSHcwa1QxMVlyZm9pdWVoc2x4VDU5UnFoVE1tR1RmWXZyVmw5Tm9PVmRhZzNTNk54anRucmpnQVp3c0dvY1RRLVFPSXlROEhKNVFiRDN0Nm52akJIUW1yT1I4TVFPVGlNY2pVQ3hkVEVEeWxscHNKeU8xaXlhd2hiZk0?oc=5",
+        "published": "Thu, 23 Oct 2025 03:02:44 GMT",
+        "source_feed": "NIFTY 50"
+      },
+      {
+        "title": "Stock Market Today: D-Street Erases Gains As Sensex Ends 770 Points Lower From Days High, Nifty Below 26,000 - NDTV Profit",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWlVWdjhXZEthb3RKQTR5LWlqc2hSQjhxVkhCZ2ZZc0V0R1VPc2o2cThpazN4SVYyVmpWSzlEaU81NkF6OEhEUzVjS3E4YXpnXzJNZEZwQ1VHbW1zbXZJM09CMUcyamJRa1ZPZzZ5Q0kyWFA1a2RSbjB1OTRmVUZON255Smh1cTNiN3E4ZFFHWW5qVXc1a3pMaTdxRk5wRXIwT0taODdrVThVWUVyYmFPcnJHVEpTTlpkTTB2SXYxbHloNE1USzlFdlB2NVV3SVZsSVpjanBTUkJOb0IyTEVwS0ZuVjh1X0Z4VU5Xd0lB0gHzAUFVX3lxTFBzOHJHM05sR243X21MbV9WLWhjM3JPdTlfVGJNYWw3NEF5SkVzV3N3Ykk0WXZsMG5VOWhyNURGbzFmSTk2RUYyWUNBVkRMNnhiaVM0V0FWQjFDVENGWktobHhrUm03M05iVFZlNnM2UUlmSTBjQ3N5OHJwaHliM1BDSzFJZEEzUEJuTnI1aGF1bjBmT3RKTFJIei1XWnBnTVBEV1h3dzNOQUJraFpLMkM0ak13eUtGVTBpSUF1cFlDMkQ4bkhQZkM1SVRKM1V2c0JqcmZFcE1nTzNDN3dYNFRSXzBQQlhYbldFODMxMXR0cklPUQ?oc=5",
+        "published": "Thu, 23 Oct 2025 10:09:18 GMT",
+        "source_feed": "NIFTY 50"
+      },
+      {
+        "title": "India's Nifty 50 Index Near Peak, Russia Oil Flows Set to Drop - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONi1ueXJMNlFnVzdIc3E3YmtmcDBKQjM1SWNodDJ5cHlZY3ZrVzhUbTNaZ2duRHR0U0k5OGZPb1VxWjZNRjM0Ymx6blhEUU1fOUNMU09pTlVhcEJ4dHFGT2gyQ0lTa1Jibzlla3d3R1VtSmNaTHVKV0RMQ2ZTQWhPQ3k1MXp1NVBFNC1kZlNZNDFxeXEtUmxvUzFCT3M5LTR2TmVpZWZiSVVmLXhTOE5tRDNMWQ?oc=5",
+        "published": "Fri, 24 Oct 2025 02:52:21 GMT",
+        "source_feed": "NIFTY 50"
+      },
+      {
+        "title": "Nifty Prediction Today, 24 Oct: Long BEAR candle! Can BULLS stay in charge? Support, resistance levels - ET Now",
+        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOeDBNSnI4dnd6ZUE4NTZlV2s2N3gzcVA2dURSdVg2ZWViY2daR1VtNmJWSm42UF9qWVFHbmtRMndoUzgxUEpjX1JyREFiVEtjRnBPaTVrSjRFdXhERnJJam96ZWlGbDR0ekN0MWVERUktTnhZWWQzVHZ4akhUVHQ2WTJBbHNxekpjRjVsaUJFXzJfT19Yell0UlFKVXNiUldQZDZJWnpQcW5yVGRXTnZqY1RzZktpNDRjNi00UGRjMHRyeEhjNERJVXFlLWdHekxsM1daZ1Azc29Wd1BacE9GN3BlX2s4NXRpU3pPaF9WOEZEY0V4aEZMVDJBeHkzVER6dEg2SVlVUdIBjAJBVV95cUxNTldCaGdlNHdaTzgtbExsbjNYU2pPOWlkbkgyRV9qalo0dDcxU2NZZXQ5WXMwbklqM1VCbFZvaG5EeFVoYk1XZkRhMU9IY0hMck4wczhvREpBOF82MlJpclRCOEZ6dXgwX2JhMlktVUJGQ0c3bW91amgwbWF0Tl9DdWZHaC1QakZZVFI5RVhnUkN6alNIc2VKNnltOTZibEJSSVYzUmRiN0xyM0NMYjdCRVNPUDA3U0Y4aTFyX2tIUVZFY1ZWN3d5d1YtdHE2b3dwRkJyVDFZMkNiRlNLa3NhUEpvdXg2aGdLbWhBRGgtbUp6VWlXV2w1WDRLVVpYNmFqdURMenBZUjJyc3NE?oc=5",
+        "published": "Fri, 24 Oct 2025 01:18:48 GMT",
+        "source_feed": "NIFTY 50"
+      },
+      {
+        "title": "GIFT Nifty hints at muted start for markets; key levels to watch on October 24 - Moneycontrol",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMXMzMmZSMXl0S2V2bFZXZ29kLVhGS3dMNThMYVd6TVhOS3ZZZ1lSbllSWTVTcExPZUNJV21nVVJVQ0FBcmVFNmVsTktrMFRJcE1keWJRVVNYM2hscUVsbTF3LU9VUzNXYlRoWXRkV0g4cGQwQm5aMzFGTk5rNUt1TXVobUtLM1FOUVo2RjZEVDBacnVGU0pBdUxURFk5TTNRVGNpQTZTc2xoY2M2Z3ByYlRnQnkxSnhSQ2ZmdVdsR0xIVFJWeFI4cDNlbHYxcUtuN0tHdU5mcGtZZ9IB3wFBVV95cUxNQmlUU0NhMENFRTlCNjNOZVhfb2EtazBYakM1VXFOd0pFWl81MkU5N0J0QjU5bE5KcjUtcDhOX0lnZkI0ckNaNXh0ZDhKSnNBVjAxQktJMWpQQVlXdHBIYzdmbmJHNnc4ZENpTzdEWHpIUXVObHVzZ095amszNGZxdU1weEY4UFczWlJnSTdjM2RVLWsyTEx2cGRJWWlINXl3aWxLakc0ZExSTjkyQ3FlT21TYWdkVVZOYlVzaHkwRHhaWlo2alFwaGJkc3pwRmFhZFNfcGFEMDBiam9lLUFv?oc=5",
+        "published": "Fri, 24 Oct 2025 02:25:37 GMT",
+        "source_feed": "NIFTY 50"
+      },
+      {
+        "title": "Stock Market Live: Sensex, Nifty Hold Minor Losses; Vedanta, Hindalco Shares Gain As Aluminium Prices Rally - NDTV Profit",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNREpobUVkMENuTUZCVDRmVzV1bWI1ZFZoLURHdk43THZKRUt6anNZT2hrVEpmZ1BWQUFZYjN5MkZoWUZBSTdiU0ptdjVPZUZfZkFQRmtiT0NEN1FkOG5FMmV0VHFzQ05uMTNVVTRuM2hmbkRQZk5OcHR2UUFlaGdBNnhzLWtQWGdRUWtzWmNZZzZMcmp5ZWZNU0pGbWxmemJuWUh1d3ptaHV5REpWbnV0akVaQlVVODF1TGwwUnpn0gHDAUFVX3lxTFBBeXhuLW1qOVo2NjhSMElBNmlNVGxaOXFQQTVZeENmMnJ0Z1NjZlRydHhxV1ZpT1VCa3RPUlZNeG1zU2Q5Vmp0OUdNZ0ZYRTNHOHBRNV8tMTM3ZmNMVW55QmN2NUV1VmUwMkZkalhrempUbUM4X0FBZU9Yald3azlBMmdJNmVpZ2Nwc2FpOEs5Z294d0x2UzlTYlA2N0wwZEN4M3ZvUFF3NEpTODRyYXFiSnl2ZldrVE1QSlh2ZWFRTUozRQ?oc=5",
+        "published": "Fri, 24 Oct 2025 06:45:57 GMT",
+        "source_feed": "NIFTY 50"
+      },
+      {
+        "title": "HDFC Bank Vs ICICI Bank: A Tale Of Two Futures - NDTV Profit",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVUlqX1NvWXJGNkVlZ2s0MHZvNGhNaUwtY3dHTHFPNV9ZdmN3djlTQWRITW9IZUxDWUk4RV9abUR4Skx5VWxIa3NLOFgzTEhFNVIwQnRoQ0ZIN051OHFPdVJncWtGUmItZmwyNmZnaVpHSVJmZWZFblM4dkZNdkt4Tjc3d2Vkd9IBiwFBVV95cUxOclgzLTh0UDJET1kyclVPY0VpOFFYc0NVdURZUUwtZVYtMFJVQkxpOW1VQm5hZXpIRjRESDhNNHpxdnZHMVBSclRyRDVRcDAycHJnQzVpR1drVHZKWEE3Z3liZWQ2LVpudW94bHg1aDR2R2NzY2o4dnBQV1JkVnd0RzZMWWFXTmZoZzJF?oc=5",
+        "published": "Thu, 23 Oct 2025 07:06:59 GMT",
+        "source_feed": "HDFC Bank"
+      },
+      {
+        "title": "Jefferies raises targets for 10 banks including HDFC Bank, Bandhan Bank with up to 34% upside potential - financialexpress.com",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNNUxlQWd4b3EyNUlfenZjVjJqSWNMaHJXeWlYa1VFRGpPWXJoS0IyM3Z2MFRiRWRBb1RuLU05cFd5UmwzOTZZVHlXNXIwSFNCMG05R0VLcmlhdE5wUjFWY3VaVHg0UEV6S0I2S2RqMS1RWEJLWHBRMkxBbmtyR21KNnR3U29TT0s2MXJ6bkpJYTRnYjE4Qy0xangzanhMTnFyRkRTUWJvdnRac0Y3U1FOS2ZRd0dnNGhuS0s5djVMT2lrd251MXFUcldFSmxQTlY5U2wxOWZoVDIxV092SXRDUkFsWHR0cXJlS0hxQ2hTQ0lzS1JrcXJEWEtwSGdybkhjU2fSAYgCQVVfeXFMTmVqXzBIWF9RdHliNURlVFJzWldELUI0UkFjZ0RMSnVmek12YnJsMXUxU2ltQV8tSU10N1hySzVhbk9TUWxyeWJBTHdQR3VQZmRYWDhGYkEwdEFtX0pDX3JCSmhiRnE1d2wyWkxUZEdnOFVjQlhZZ2l3c3o5SzdXQ2ZQaWFyR1lvbkp1OWwwMEkwcTNRWFp5Q3hpS05PczlZd0ZjYjYwdjZYcjBiRW5pNF9XMGtUaWVKaURSYkZleUg1cklULXJMTHJuM19QLWJ6WkRib3BzMFhYRW1TN2ROZnJMRXJQS1hUT0FpaV84QVV4VFB2SkJDYjdRb1JsSnA0VEpwc1pkZHNx?oc=5",
+        "published": "Thu, 23 Oct 2025 05:14:31 GMT",
+        "source_feed": "HDFC Bank"
+      },
+      {
+        "title": "Buy HDFC Bank; target of Rs 1175: Motilal Oswal - Moneycontrol",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN0dKQ29yUXJzZFdOUzlLejNPSG1Zd1U0T2hDa0NBSXBvZVNIbmxEY1Z1TmQtZlhnbnN5azM2Y2pJc25VMnkzUEZORHd0eUpJR2pocXdoNWJkSktCUmwtOFBWR3AzcTBiRmVEallONzh3ZjkzaHZwRjhQQ1hzbnh3dHNYTzR0RUdiaGFpMU9uOURLYTJRR0pxUG92QVdVS2prNGZ5MdIBqgFBVV95cUxQajloX2tKUEJjQ2hSUDQxMWE4aGc0c3lMdldCRFZJOENPYVRFY0w5dFRhUWloSmQyRWxYZjMzS1Vid2xxN1Y2dWh3aE5FRk9oSzVMU0FQdzJBa2FRNndLc1NlVWZBY3FXS3E2N0tOdE1zbEJXUjFTTkx0WWxXWFJnRkdOYk45LTAwR1FNSVdQdk1IQkd6eEs0ZVAyVk1kS3lOVC1EcXM1ZDB2Zw?oc=5",
+        "published": "Thu, 23 Oct 2025 04:48:57 GMT",
+        "source_feed": "HDFC Bank"
+      },
+      {
+        "title": "Stock Market LIVE: HUL, HDFC Bank drags Sensex 150 pts, Nifty below 25,850; SMIDs in red - Business Standard",
+        "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQVmV5TFRoaGZZTUZSbDh6d1BhXzZMOW9kVlJmUTd3QVpBWktNYmRUc1V2VVFIc3plOXk4QjRPY1dVbEUtelJkVHNDZ2ZmVXl5VVYtLVVmTHc3RTU5NlJ1RHQyN2hSQlVIakhvcWc5RUM3RktMQ0ZrOXBNZmgycjlEVUtmUEx3NmNIV3JOMERKeUlnZmcwYVl1UUtEV0tnZWtiY1BpX2w1V3FucDZ4NmxMaTg3TURBQlNoWi1NMXRYc1pkNVNaNlFPaHhMa09FSmdTblBkb2FhLTBVVVlSRzVrOEUzNDJHcnJzS001cTVWRGpBN0U4UUJqLUs5cWVCYVNWam1jeVlsTVZZNGtwaFZvVm5vdw?oc=5",
+        "published": "Fri, 24 Oct 2025 06:49:52 GMT",
+        "source_feed": "HDFC Bank"
+      },
+      {
+        "title": "Samvat 2082: HDFC Bank To Swiggy — Brokerages Share Their Top Picks - NDTV Profit",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNEtTSUFXc0JYWHVGR0tZOFRoZTVlX1FYWnVMd1B6X0w4TVFoUE5iRXJmNVUyQWs1OV9yaDkwQ183c2ZJMWdFSmVlcDNkVnFHdjdxdk5qN1c2alBacUVPOFlPc2RYd0QxcVdiNU92SEpSRzJ6dENfaDRCUjJueVNJOWxfbnhEc2dKZDJnbUFSR19kMFEyMXJhaml30gGfAUFVX3lxTE1ldnctdS1LV2ZlcldTbTQ2MWtQUWkyVXBvTVdtWGpjQ2g2cUZXSFVXcXlORi0xTHZSMkg4Vm1IcDNsT3hjdTNVYVpTemRRbGxWNTZNMVB3LThmU1o4MU1hOHdSdjY3TVViWTNGQks5RHhEdTlubENpVVM4Z1JnazNRa3JaaURNYi1jNlBPVDZqY2JpUEFwRXlMNUZfcFJ1aw?oc=5",
+        "published": "Wed, 22 Oct 2025 03:44:38 GMT",
+        "source_feed": "HDFC Bank"
+      },
+      {
+        "title": "ICICI Bank vs HDFC Bank: Why a treasury dip doesn’t undermine ICICI’s edge | Stock Market News - Mint",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdEdIVGIxeWJGMHV0YnRDX2hqel9pN2tCN0h4bTNoalBmczVSaHF0cnhmbUF2X0xmbjlGb0JkNWx4V3d1aXNLQTZlNGxWRlNaNE82cmI3YjdsZHJtVFVGdzJ3MUgzdUtSc0lHR0NxeHZsSTNHWmRpeDB0ZnZ0Q2prQkIweS1CdXlZajlyMWtNeE5FNlJIWUw3enprWDByeG5LTFBEWmhMc3Y0VkptSXBCQkp3VzNIRTZmbVZpY0g5TWNoaXF50gHKAUFVX3lxTFBTcG52am1jaVRveWdZV1lOTEhrUVhodjhQSmtrQkVGU3RyTUlXb3RqR2JKRlhtdG1reEFQNFpWMl8tNG1HY3ZpT0RfTzV0R2sxdkpjNk5fN0tOZGFwXzUzQXExUXJGQzA5Zkp5bVVuMEFSR0RKWGdhUHdkal9jSUhER1p4RmdTYW90eDFpZWVEaW4tdFFIZEdINEpFMWM4SGxGMDkzSFZWLURraV9WNGk1M0R1YU1Sb2I2VkFwMGZEbGREWVU4RFBHNXc?oc=5",
+        "published": "Tue, 21 Oct 2025 09:01:11 GMT",
+        "source_feed": "HDFC Bank"
+      },
+      {
+        "title": "HDFC & ICICI banks go slow on retail loans - Times of India",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb2RrLXA3NWdSUjMyZ2xvaE9zejVQSXpXY0NSQ05XQlBXdkZQSGRjd0paSHk4UHB1bGVZNzNRMXBWNFpGSFg2dFJ2bnJHUTkzd1llT2ZJUC1SVEdVMnJtLVdlZkdPa0Uwb1BhVDJLSDBzUGdfdmMxNG8tRmhxU19LN3l3a29OQ05zLUFwTDF4X3kwRzZqUzBLRm9Rd1hscDJaRGVwX1d3TWtsYnctZjhVeFlOeGdpNE9UYTBWTkpVZlFnNHU50gHKAUFVX3lxTE1sOFdkRnIyd3ljYTlMODMyblRrSE9BT29OMmRnRmxmZlBFVmJ3U1VCQjRWRlctZXNjaVptVGF3RGRrem5qSXBCSlRYSDFEaG1ZRDBvR1h1dmd4M3kxdDR1ZEZpMUZ2aHQtTFFvSjcwQW81MWdtUmMyRGRZc3NLTVpzNGRyb1QtdXZxXzJScHUwb1N4Tjl4Q1lEMjlZbjhhNk40U0FFTExuTUJzYUFpRU52NWtyTFB6M1hFNTdNZGhzRFJIdmpkeVpJRmc?oc=5",
+        "published": "Mon, 20 Oct 2025 20:25:00 GMT",
+        "source_feed": "HDFC Bank"
+      },
+      {
+        "title": "HDFC Bank Vs ICICI Bank: Which private lender holds the edge stepping into H2FY26? - financialexpress.com",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMlRmZm4tR05oZUNZdzFKNHBFQ29sblpWSXhWd3dRaXd0X1Q5ZVVyUHpOR294Q1htYXh5YnpLQ1dRMFdRZjd1YWNXQmRhVlFXSko2SGtDNllySVdkQTJ4bFI1a2E2STVQdEpzejd2SWNxUGtMNlYwMXZFNUJKMXZQazR0bll3bzhOWnRLUGNESWRDeGo3T24zanRlZUd4aVNpdUNUbXNXbENnWFkwc0xNc3RXanNHWlNrc3hPNGhSWHhMMDhQSWpobkZSbDBmUWNxb1VtRzlVNmVsbzZxa2hqNXRXVTlXUzJhREthaERFYmrSAfcBQVVfeXFMT085WTNsVVhLMGR1YjZleno3V0FGc0JpSEpFb190dDItV21XbkJQeGhydUpVdERnLXMyT2dFREdVektzTkFqQkhjNEZOM3E4a1N0OFRQdlZPVF9FUG1mUXJub19xdUU0c3pPaW1IUXB1MUNvNXNYZkJfbERIdkRWRzF5UFdSWWlEV1dqTVNVck5OZnd4eEliang4NWZhQW51YUJCTVlfV0U0bkVLYXpRN2xGdG5wZlItbm04c1FIYVVMRWF5WVg3bjNmemtpUFNxMEdEYWsyX1ZtN0ZjQm1zR1p4S0tWMVNXMS1RM0RSSmw1OEVKZjAxNA?oc=5",
+        "published": "Thu, 23 Oct 2025 05:17:18 GMT",
+        "source_feed": "HDFC Bank"
+      },
+      {
+        "title": "Bank Nifty gains nearly 1% to hit new all-time high; HDFC Bank, Axis, Kotak stocks lead momentum today - Moneycontrol",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMHp6SGd4WHBwdkt3bnEzeldCMmpVTnhTdFZ6WVd5S1QxQ2NZZEg5MDdzUTZVVGxqTVY4WV9vc0lqdU5JNU95anF1VlJOYVB2ZHpBb0JqdXk2dWxwemhxRzhWaE9zVldtLW5IcXpucVFMSUdPWjJFVHd5SDhqVDE5b2FVT2F2V1ZFSjBBU0ZhV2w0cjFfRGRPWUYtQXljOTNnamstQVUtQUVfNk9rYzJ0aDNJTk5tX25PVkZ4bEdwdDVZRzZudTktV3VpYnhKMWEwYWpNTm1FcldSZktYSzZQTGpsa2xyVzZMVFVQX21vTE5FYVVlTHfSAfsBQVVfeXFMTVloWDZSSW4xWnMzNGtiZUVYMEYwOUN1bFZ2aWRYUHQzeFRsa1RZRnJlTFZfX1EyMldBT3NsQjFwbEM2QUt1cjJtQXltSnEyMGxDZlpUd2xMN2NVbEVoZVZCMXQ1THM4TEdidGdoWi1yc1hWWXEzTHVpNTRuUkZIYUM0c0hDMGJEOTd3aXh1dE1BMjlVM3R4TkJleWtldTJaV3g4S2NEa0NiaDBaSUthNHNOalpua0RJOW5RU1N5SVZvMzNCMW1WNjBDakxUU3N3cDJzY0xTTWs5U081dVdkR2ZhdE5UbU1sZXNNVVFmNlJ0aW14UGNRVlFobEk?oc=5",
+        "published": "Thu, 23 Oct 2025 05:02:47 GMT",
+        "source_feed": "HDFC Bank"
+      },
+      {
+        "title": "Accumulate Hdfc Bank; target of Rs 1149: Deven Choksey - Moneycontrol",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSmV3MEd5bzFUYklhNnF1Y0Q3WjBSVG4zNE0wNGJET0NGd2FGWXJsYTd3S1pjTWducEZVei1ZOUdKNVNROGJOdnduZUpnWlQ3NVFrSEU3NExQOFhmMmZNeklyQm5pZlZvTm1FMnB2TUZqZXhaX2RVU0VNNG4xQjctZnN2dGdiaENvZVEybHYwbnRxWVRkN3AxZUk2VWlYUHEtWHhqaGxGN0JoelNWMHk3N3IyMmdoTDjSAbwBQVVfeXFMTmJkNmp5YWpTbXoyVlA0WmNuQWR1WXAtUDBfcHphSHVSLTdBUS1mTkFBZmdLRjlPbmxLVE5XUmFGaHdVZ2hoVWtiVDBiRWJXME5RSVVnYUJqNUNsaElvN3Q5N2haUmlZeGdQVHcwSHdzQ1gtejdhNi0xcUlkOV93TG9pUDVMMW04R0xyeHVqUGN3X2tSUGRNYk1ueU5vUFlCb3VDNGpqWVZCMjI0aExqMFVEOVlmQ01BRkdjcGw?oc=5",
+        "published": "Thu, 23 Oct 2025 04:45:02 GMT",
+        "source_feed": "HDFC Bank"
+      },
+      {
+        "title": "Muhurat Trading: Investors buy largecaps in symbolic session as Infosys, HDFC Bank emerge top gainers - The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQbGhaV0xlM3NWblhSREFteVVtekZTM3l6YU9nV3NTZTJTSmhObkhub1BrRVZsV3BDYmxFTm5uSzZERXAxVm5STnZYMzFaa3E0MUxQQnRYeDJGQjVndHVoaTdYcTc4by1QdS1Hcm02RUxwYUVadXlGTktaTExkNHk1N01ycjNKUUpCN0ZnQm5oa3RQS1NDcUQ2V2FXemRlWjIxRzk1VG1rT01pb0tWYVc5X1lNTFpxQmIyaXZNWTRRVnlkRUJkSHJKeWJaNFJlVzFzLVdMU3d1alBBc3d3aXoycG12WlNYaDJhYVNtc1lSdTAyLVdQem1MQkR2VUV0Mi1fa3RB0gGIAkFVX3lxTE9pdi1NVDRUN2lxZTFtcTZmdVRneHBoMjJ4Tzl1bHdCTGFFRksyRU5HTkZEZVo3TE5FVU1pVmF5N1pwZm9FbmZTOWZCUVp5aHV5OEJ4V05jQUltOFR1dkx1eGNZTlpFVm55VHo0dXBTMkNQaGk3RG4ydkNLWUMycHhTcm1FUDhDUFREY0w2bWFhbmZUSWRjNndITW1YSDl6Q2JGMFBSSFBNRnNYOUVjWlJvQkd6ZUd1aTJnLTItUG9OWUtOMUFLWnpaVHdGYjlqWU03UFVvd1RRWldhLWVtbmlvUlZWbllEREh2TEtyUDRud1gtWFlRWUM4ZEJGWm5UakJlUXlPSXB6QQ?oc=5",
+        "published": "Tue, 21 Oct 2025 09:06:17 GMT",
+        "source_feed": "HDFC Bank"
+      },
+      {
+        "title": "Diwali 2025: Top stocks offering up to 99% upside to buy on Muhurat trading this Samvat 2082 - The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOd2JyOS0wb2FqUlIwZzVFR084dHRDR0xnRFduZ2pSYzRfMXFwVHFRLXJIanhVbkVaN1cyTXBwNXhDbHVUZ1JTTkNaVmxCOWZUbU5aOWh1NGJSVWJOOEF4blN6dk1vY2lGLXBZWW4ydkg2VGczaWtkdkJJQl9KNk00RG5uM05VMUs4aTlLd080MUFscWtsRWJoVzNwbUNtelQtNUZpVVAxaXRRLXpPVjkwaDQ2eFdsaS1IT1EzbDB1bmlObmdFRGI1bHJoUERUYlRqSGp3VVQwXzJGOTRoTGJ0TEQ5LWVSWkpHQmdPV1dFenBnckxWVkdaOFBwQ05STkRvclE?oc=5",
+        "published": "Tue, 21 Oct 2025 07:33:34 GMT",
+        "source_feed": "HDFC Bank"
+      },
+      {
+        "title": "HDFC Bank's October 2025 Puts Surge with 5,893 Contracts at Rs 1,000 Strike - Markets Mojo",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUmJnLVN3cDRwZkFiRzRCSTBJSzkwa3cwakxiczdpeUkxZzBOa2ZJVkFIRlpXc1ltaDkxSkRYS2dCUlRfaVRVM0wtU184aEVNSkI3M2xIRl82TFkwLWJKdDFUVDduQjh0TVdMWDU0akZReWU5M1RBRThHS1FreXFHM3NKMEpFblFFMWczaXdkaUJkVEFwRVE3RmxubnVteENpeXN5RkhVVS04US1vU0xJOFJnR2dhRV9OUlI1VXhtdHFKMGRhcklEMnV3?oc=5",
+        "published": "Fri, 24 Oct 2025 06:39:56 GMT",
+        "source_feed": "HDFC Bank"
+      },
+      {
+        "title": "India's HDFC Bank beats quarterly profit estimates; margins remain weak - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY2xpa0JEUGQwRWoxb0EtcU80a0Nsc0xRRWpCYXM4VkN3eXhGcUNIdnFPMTJlOVVOWW9ZajU1TEUteVlBWTJwWXN2Z3h6NUFYaWlQWWxJXy1NTmk0ajNmMlFnbThScGwzcWlvNllucVVDSU85dHl5SE1yRElYMU56M2dyOHNydElBbGs5V1ZJYzhObEEwNVFmRnRYcVN5ck5CcWVLM3RYWEJjcERORnVsT3VMcVEtMnM?oc=5",
+        "published": "Sat, 18 Oct 2025 12:24:11 GMT",
+        "source_feed": "HDFC Bank"
+      },
+      {
+        "title": "HDFC Bank Q2 net profit rises 11% to ₹18,641 crore - The Hindu",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS1Z1YjMzWDRuZTBEclkzT3JVM1ktZ0NlOXA5WGo2eWlDOE44NWFLeVk3NEU1am83TjVmU2VyU1JNbVBtOWtGY19fcm5ueTBIM0c4YmxWaV8wOHBoaXQyMkdfYjJzRF9DdUhMWkMxdk5CcHQxNUR6NV9qVW5ZTExBOUFnVFlNMlBuazQ2YTZxSjFIOWUwdm5ETk9Ia19GSFI2aEQ00gGqAUFVX3lxTFBNZ0ctcWkweGRyejQzclVKbXBVRG91b2JLMFJYOGEwSkQybWw4LVJZVmR2LUJfSnlTUHZzRU9QekItOW81dXdlLWM0UXZSZmRCVkdSOXN2dWVUeUdQNGpMV3FHZk5sRUlSdE1WUG1RM1psZUx6a0xNaUJVbi1KUk1wWGJ2MF9DWFJPa3ByTDdwRTcwMVN0bXk4ZEhxOFBlWENWMGlJWU9ZaWFR?oc=5",
+        "published": "Sat, 18 Oct 2025 14:42:00 GMT",
+        "source_feed": "HDFC Bank"
+      },
+      {
+        "title": "Buy ICICI Bank; target of Rs 1700: Motilal Oswal - Moneycontrol",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOGUzdzJ3WENNbDVISF93c3IxX1ZEd3dBS0s2d2ExVDJ6eU1IOGczQmd6dEQ4NHJmSW5ONXgzS3RzQURUaWpPLTZzMVpZbVVqUFg2WXF4UXlsTVc5ektHVmtqZXBycjhkazJBUzZrNHJOYUk2TWNsMVpzNGd2eE9IYk14dVVkYjBOTmM3eWxOcFBmNWszMkFKaEtWZlJoTnR4b1B2RmtB0gGrAUFVX3lxTE5fUTlJYmYyY3VLUnhaaGlZbDNwenh3Z1U3Umt4aXNTZmVpZXVVWDJrNV82ZlAzUXFORVE5ckZ5MmJJSnprMFloS1ZJUTJCSkZnS0g0NEZyc1U4WDNfVVdGSWxZU1BTa0sxWDZ0d3hUSmVHX3N4akh6aEdBLURXT0JlUFltSC12UV9QVkFGZ0FXa1pGTjI0RUR6Q1FDOU1LcWduY1NlZ1Z5ck1oUQ?oc=5",
+        "published": "Thu, 23 Oct 2025 04:50:25 GMT",
+        "source_feed": "ICICI Bank"
+      },
+      {
+        "title": "ICICI Bank and 3 other bank stocks that reduced their NPAs in Q2 to keep an eye on - Trade Brains",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZmc5ZmdhcnZiQldzQlgyWDZaMFBSOVhGazNvbGVZd2NyUEh6T1JzbkNrU0hjZ1dtYnpxRkgzQ1dJMGY5VHV0dFVTcmYtQktrY1lFcTAtYVR1RTRxN195RDVuTWFDUWdQSkJORFhybzN0eUI4SXpTRm1xOGRsbjNWNUN3Y0lZS244WXQ5ZHI5aUVuQ3dxMUh6aTlTRm5QanBUNVFNa25vT1ZsUQ?oc=5",
+        "published": "Fri, 24 Oct 2025 04:26:00 GMT",
+        "source_feed": "ICICI Bank"
+      },
+      {
+        "title": "Accumulate ICICI Bank; target of Rs 1593: Deven Choksey - Moneycontrol",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT0lLd05BNG4zRFlZeHFYZXRHS3Rqd2cxb1h0TFhSNkp2YU9UNHhkNVROdVNBSXNvVV9qUWdubDFvOVNDRERQd1U2MDBoWjhmRWlqTEx0cm5kSW1BeklZMkdoUjcyTmt5QnJBdGFyLVB2SlVNV0FiV0psemg5ejExcmZvdTFRWFRzdTExZy1JVXYwcGlvc1BFeXJWdlRWQnNVaDAxYl9qdGp1R05mTVVHdjRtTHQyeG1O0gG-AUFVX3lxTE83N1ZhZG9HZG43Vk5WTEI1REMyQTJ0Q2s1Q1QtcGJGZGY1a0lUTUhkNzNKaFpQR29CdEc2dDVhZ1JWWkpvY0NORG5DZGxXMzRQRG5VRDNUN3JZZ2dndHl5Y3Y5cVVHY1p5UmU3R0tfUDNabjVNRDJzbWlZbVdKNWtkY2FpaVctMFk3OXBseTZtTl9OamktcS1LNmJBVTRhblVIa0hUUElZeGVBRnQ3d3lrLVNMeHdBalZsR0wtd1E?oc=5",
+        "published": "Thu, 23 Oct 2025 04:57:57 GMT",
+        "source_feed": "ICICI Bank"
+      },
+      {
+        "title": "ICICI Bank Share Price Live Updates: ICICI Bank's three-month return reveals a downward trend - The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcnhJUEVzQ0Q0ZEliQnZVLVFPamR2aWdkdjNSY0lmNU1Oam5BOWlLZHpaakVuek02RF8xQkE0a0llemxUNV9NMFNlZHRBMmxJWVRkOWlJT0o4WkR5LS1YbXJueURLQUdJQnNyZGFabGx3WDFTS29KQU5OYmV4bFE3WE1oWWx2bG5tb0xPb2NkRVF5SWdQUjlId1FqdFB2cVQ1a1pkN1FrTFFUS2pmei1DUW54Z1d4VVB4ZGtGOVc2QkEyVXFt0gHKAUFVX3lxTE9zX0hnbllyRWxZMlQ2cXBKRHBSQ3NDWjZCTTBNZzl1aGl5cVdZSlRJRWRHZURyeXpZaXpQU1R2UEtuMGUxRUFzTFF2UzZYRzJjNHdlak1oOXEyQld5U2cxWFZHOEVWOWRKalloNURHOFhrcHpENmJHeHhzWGUwelUzZmJQQ1pyVEMwUEdJS1hDMWc2anBMRXpOTWRQQzEyMWZvdThHN2lraXlvTkNBTFJQT2x1VllqZW9vWmpMMXlSRXR3NUJEZTR6UlE?oc=5",
+        "published": "Fri, 24 Oct 2025 03:12:55 GMT",
+        "source_feed": "ICICI Bank"
+      },
+      {
+        "title": "From Bharti Airtel to ICICI Bank: 10 cracker stocks for Samvat 2082 - Business Standard",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX1NHRU9oZERkdE5CVm5XUEFKZ3o4VEQ1cGhqWWRySmVYUG02WFQzSkgyMmlEV3BRR1F6XzU2UjRvZFczWkpCTUlSOHhNai1zQ0k2OVk1MFZkSGlrZF9LN2V2RzhOLU9pbVVYN2ZZQngzM2tpX25CQWRWMVZYMEp0U3EwdW91Rk9sa0dzODdDWDFEM2JudHFSZjhWWEVkSEx5RlFBblFTS0hZckJLVm1aODV5aDI4NkQxZk5Zbm10aXhoak9MaXpYZmtqWGhuYWxsb0HSAdcBQVVfeXFMTmhCemxIZ256c0dwU0R2cjlyQXRCdE93amM1cVZhZnEwNkV2c3dLeHduYzdHSTZxMER0R2J4cVZMbXhoNVhjX0pUb1VMaEdjcjExdWNKc3dFNTZqRy1tZmZ1ZnFoWGN1Q1pvektmQ1dROFhvUjIyRXI1MWdBbURBY1ZoZHo3dW9XbXZPYkRwaFRhX1QzWmYwVlFDUHdmQVFQZS1Nd2JHaUtZRTNEbU9BeFNTM0lOa3dPSV8wdzJUNmxkYU9SQmctQVNmeE1nbFAtNEtYSV9kX0k?oc=5",
+        "published": "Thu, 23 Oct 2025 01:00:00 GMT",
+        "source_feed": "ICICI Bank"
+      },
+      {
+        "title": "ICICI Bank Q2 Profit Rises 5% On Lower Provisions - BW Businessworld",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdC1LM2kxVFNscXBrY0dSQWtPQzM1YTVZZV9LVUQzMmJVWGNNXzNUTXhQRS1mbnFmczgzd29QbHZ0Mi1ZWTRmZGFJSkhHZTZaZUJrT0ZlZVllWmVNNXZ3dVJ5SDZYcXUwTTlweUZQVFFIdkUzNF81NkhTUXJEUzYwamp6UEtGTmQ1aHhDUUtQWFZoX0xrS3gw?oc=5",
+        "published": "Thu, 23 Oct 2025 16:30:00 GMT",
+        "source_feed": "ICICI Bank"
+      },
+      {
+        "title": "Axis Bank, Kotak, HDFC, ICICI & SBI Share Price Rally | Bank Nifty Hits All-Time High - Samco",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTXVESkRUSWxIa0RGNDZBa1hhUWdTeE5JWk9VNXYwMWl4eHVWeFB6WndCR05NYWxaMTlPQzkxMkppMENfWkxTcmRRMUR4RTVkV2lWRWVDTHBkaVpZY0V4azEtM3lscDJpTlIyWnAwb2hFYUU5bXBOZW9uWEZEeUVQbm15b09uWmVPczdOYWpVN3FiNkI2V2M4WVdJRlFBeVdkZDdydHhYSkMyLXVXRW52MUV2dnprbWdWb3JSb3hhM0lZcGtEbUNjekNIWQ?oc=5",
+        "published": "Thu, 23 Oct 2025 07:04:56 GMT",
+        "source_feed": "ICICI Bank"
+      },
+      {
+        "title": "ICICI Bank stock: Declining right now and may be a bit undervalued - HDFC Sky",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTkVVVmhOeGsyY2NmSFVXa250ZVhTTTlubGZsb2ZGbzZnWGxua2RSMUhHbnprNlVjSzdiLVZVUGFqaGJYVmpwY1VkaF9KUGRRZTV1Y1VVcE9vdTZvNFEyeHdOUERPQzY5cWFTY2tVWUFIVUl4QVlUOWFhSEcxZnBPQTZwSEtxT2U3TXk5aHk4aF9rdDNI?oc=5",
+        "published": "Thu, 23 Oct 2025 09:55:34 GMT",
+        "source_feed": "ICICI Bank"
+      },
+      {
+        "title": "ICICI Bank's Rs 1,370 Puts Surge with 2,954 Contracts Traded Today - Markets Mojo",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS2NFOGRWSG9zelVFb0FWdERDNFNRWVFleVJzc01YNEdmdEFVVWk3OWkxTWhpU2gtelZaVGxsczVrd0UyYkkxN0tSbi1HVjNEVWNCNXd5YUVvX0d6UGZMWllENC10YWNoV1hYd2VENVo0RGo3aUt0Tzc3QVRkZWYxQjVCR21YcnRXNmZmVXhCR1FvdVVISElTRHI1bm90NnJNOC1mYXNYVnJ2MkFBN05FRGJTVzVrUl9QaU81Vk5n?oc=5",
+        "published": "Fri, 24 Oct 2025 05:53:54 GMT",
+        "source_feed": "ICICI Bank"
+      },
+      {
+        "title": "HDFC Bank rallies on strong Q2; ICICI Bank dips amid profit-taking - Business Standard",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcFJhdU1kOVUyQXR0dmVBcHBGQTUySEIxUnZKcl9uRUpwV0pHM2sybGkyODViTVNvYkhuWGNWVm1nZzVWSEFubDhWN3F1M3hENjluMGhqVE9Ra2s0NFN3c3BERE8tdjA4Y2JCNzdoOEdBOHJoUUJMSWp6dFlLMXFrM3UwV05MVExIVVdtT19JdTVKLVVoZUFvZ0RhQVp1LXI0anRIUVhSbGxocHJFd0RnVFJIOGlIbkJnREp0M2VMSEtZSGM4UnRKMzlOR3XSAdIBQVVfeXFMTkhudktGdDlaN0NMZVFaNHVCX1hVaVVPN2kycHc2ZEFnNlNiSVRfNHBrSHFNcS1hQ0hvWVpxS3RsTjZZNVBjSmhuYVgyUjBqLWhSMDZBNmJVTHNWYXRNQTFic0dvUVBKcEZqWUFQZXlRWXRNbmZvdEFRY3VvVE9YaDNzYnFQTDVUR2EwZDZzUDgtUG1XX216S3VTd0pQNUt6V0FsaG1vSnllRWhBUEtIRDdqMHhKSnRzRk4wT2RhWTlTV3N4Q1FIMXFNWldaLUlWNTRB?oc=5",
+        "published": "Mon, 20 Oct 2025 04:47:12 GMT",
+        "source_feed": "ICICI Bank"
+      },
+      {
+        "title": "Why HDFC Bank, ICICI Bank shares moved opposite after quarterly results | Business News - Hindustan Times",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbm4xRGFNSmtiWi1YZ1dtWDVEclk5X3VwWHA4SUlxWFpHQnFBOUVhX3BVeWhwVG9KeXBBWlZnUDdPVXhWbVNGRVUzYTBxV3FKeTdZNkpyOVpld0tKU01CMWl1b0NaZzZFYmpBMUFrT0JsTElmeE9JWWItd1kwYzhkWFFkSE9yaXB4bnNaaTRmc3FONkp4ekdwUGg2M1RQMUpYVWhrQURnd2Z2Q0xKeVJ6ZHJMRWpjMmotWkw0dFhMS2ljRWdsX3F0elZOc2tZX2dJUmpnRmhaV2pKRjgzU1FsVVltR1HSAeoBQVVfeXFMTmlXQ3IwN1lPcS16TnhCVG55b2dLLUhQdk53Mm5YUld3M3FnWnRVcDJOWkNXVC0yblk4VE9zaENkSVAzOHRBN01tOWxsejhCSVNUQ0YwZVNydzluckVIYzdocFdWd2F1bHk5bDRJNHd5VHV3XzBlZW03V3NuS3JHeVlDdkd0OGo1bjhEZGFQRkZUUDlWMF82bllDSmNBZ1AwQkFaejlKN1pBUXYtMUFqcm1SNEh4aE9rRlR0TTRFbWhIWWRBTmZyTzBHdmVVYkVrTnNEdzJiSnktUVpxUUlGZ0NYOTJKVVptZlVn?oc=5",
+        "published": "Mon, 20 Oct 2025 05:32:30 GMT",
+        "source_feed": "ICICI Bank"
+      },
+      {
+        "title": "Trump tariffs on India's Russian oil purchases push Reliance to recalibrate imports under government guidelines - The Hindu",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVV80ajhaczBWUnYtNU1pWjk0VFh3QnVodXFTa1VodFBXZ0R6UU5mNEN4b2JnWW9qajBBc3BKb1Vjd2h6S2R5TERQNVF6UFQyc2FaR1hoOHpyeUlQd3FwaEtjeW01TjVwQUxMWlh2MDA4N2JGbzVJUUxLNW1ZTG5WdWp1WW1SZDBnMlplY2poME5GUnVkY0JvT2lKZEcxcjMwcENuMTI4dDQtaVhnMG5Qd3pZbDBrSXRIX21XUWx2SWwwMzhVVm9Zd3dpQUxxR2NBT0tkZFE3QkhQdTdLWWUwStIB5wFBVV95cUxQaXBEUVI3ZGdlZThveDRubGVwdkxuTnYyOFI1bVo3RFdMcXBHUzQ5Ny1kZTFaWWk0MzNyRWVuTnh1T05EbURydUEyZzYyNkYyeDE3dWR3TWRSYU0xR2tGaGg1bzNGbnNFNzM5Z1AxS3NRSzQwTXFyZTZuVXVYSVhBR1AzR3BVUkhhaFV4YlVsS1lJZzF2S0MwbGtMVkptOVZFVUdzNlo1cndSckFwdGY4RUZwamF3b25HazZWTlg1QVpZV2Zac2lDeS1weUhqS24xX1VYODNlbnB2a2h2TERwR3VSNGlkV28?oc=5",
+        "published": "Thu, 23 Oct 2025 04:36:00 GMT",
+        "source_feed": "Reliance Industries"
+      },
+      {
+        "title": "US sanctions on Russian oil majors may hurt Reliance Industries, Nayara - Business Standard",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS1owdTVORHMtSkJmVEdueDV4QXZaVmRqTEwyX1Qwa05IWGtxcWYxMkFVaGpWbDZsZEE0YW5XZm5venBVbUdHTEtrUVRPaU5CQ3dwNWxpRzF1ODFaeVNhekdSX2J3TFFMb3JqWFNxa1hsUW5uQUJJa0VWZ3FGVENQV2I0bzRSQ1NUWDV6aXBrbG9PZ0VXbTVYbVRadktvUHJNanA0TWJZdjYwMHUxaTNyWXVROTBYN2FZVnUtOFYxTkVKaXJiRmw5Rkh30gHPAUFVX3lxTE9lZ2k5ZHpNcXM1T3BuTVJBaU5CdzJfNS1LZ0dXUG5RSlhzeVhUQ3JXUXh6UDdJaUR4RkpuNVNvYzAtMy1BclNIMl9NdEtrTUlsMFZGUmNrMk1TSEdRRkMtNWdhVlRyYlNSWldaWWRUY0JtaG10WHdNR1E0Y2lsbmo4SEo1WERBcjhNUVRyNVRaODBaWDFnOC1Pb1R1ZVA4ZEh0SnZVMF93Nk80MTBkaV9URmNYaTBIaVEwWnJpUUE4NWtyQUczUDFLek5MMW56dw?oc=5",
+        "published": "Thu, 23 Oct 2025 17:56:00 GMT",
+        "source_feed": "Reliance Industries"
+      },
+      {
+        "title": "Reliance Industries to Halt Russian Oil Imports Amid U.S. Sanctions on Rosneft - outlookbusiness.com",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT0JCdmdTSmVYUFNmTDFNZEtyMWwwQXp1RTN4dmdPbXBvcVZpWWprcG5FT0VQMnFsVGIyWE1kZDhyX1AyNkNpa2g4aUUzbWw4RXpmdnhyWmtnY20wQm9YOWhMaEU1SUMybVNfSXNKRmdQU1EwOWFRcWJ6VEtzSHp6X3R2cURZUmRwcEpVNGRITUlMbWluOEtDWTE4Uy1abUJXbGFWVEZRcWhxdFB1QUtnOGZPSdIBwAFBVV95cUxNbFBpbFNkODRScWNpdWtwMnpHV3ZWWTR3SE4wQ3o2MXBoSWphUkdkQ1Jsa19nVmpaTmJHY1NBRnY5WGJLU3FfRFpxbGhEWTFVRUlXYzlFd1kzRlBucGEzbFBERndrMktpVVdwbVNOREJ5UW5DYUpDRF9QRjVXcW9CamItUjVHbVJ2akFfMFp5VmYwV1lXMjJRNTlQQnRKMkRGQzRTdEdUNkwtdWtoRzM0TU5uYnN6S01yVlU5TWNVRmU?oc=5",
+        "published": "Thu, 23 Oct 2025 10:56:37 GMT",
+        "source_feed": "Reliance Industries"
+      },
+      {
+        "title": "Reliance Industries may consider halting Russian oil imports: Report - financialexpress.com",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObllUNkY2QjBCd3Z6bGVHdS1oNnlBX3VGT2pjbGFrT3NNR2NYNjFSWnBUdkNaMzNUSlVvR2F5OVlwVVlqMEZCeElIN1ZVSGtpbTdkRUZHc1EyV3FLbkNHMkhUeXdlSUlydW9GT2w4OXFSVWtudkxHX0FycEdKaUtTTFdMRXpmaFRGcmVWZG1yaElfa0Z1YnlKbVFCWnppemRsQmhEelZON0JzZ3BrTG1ad08xX1d3UzVtVkJlbTBXUndwNTZCV1HSAcwBQVVfeXFMTlVQSE02TmhDWWNqN1M3aDhrWVJldUhENkFZUmlQR2taMmF1LXBXQ0dvUEMyV3hGTUlGSUd5WmNSbzkzQnNGV2hsbzUxMmVZYnE4SXRsRHhVQmNIVS1QcEpvUVBIVG40UW9ld3hMRmhsWlg1NWVZUXlwbGdBb09xMFZPcXE1RzExM1RzODB4cEdoazZJcE5Ic0FkTTBERVMyVE1UeFhGajUwSGJ0U3ZqaEVMSVdPWUl1LTNGVldYeWZZa1kzeWZzNUxnM2x4?oc=5",
+        "published": "Thu, 23 Oct 2025 13:28:00 GMT",
+        "source_feed": "Reliance Industries"
+      },
+      {
+        "title": "Reliance recalibrating Russian oil imports to align with India's guidelines - The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNemowblNlbUdkamFNTjVXc1hlM2hqcjNXekJpMXBiVFdLSFpWQWU0Wm94UkhMbkdVVTl6SWlwTVpuLUlJM1dUbkRzNHg2Y3JmSWpKZnktWmp1cldCeVpyWUIwWWZnTW9oSzNXMkpWVnltRmQ0Ni1iLWpQYkdHWDlqRmx1anlBaWczUkJ4QXpVb0JMU1ZKQkdWUktLRnNncHZEdHVxNnpDak04bU9xczAybm1zaWNxNkV4N04zbEpBc1dnNG5oUThfTnBVcmFUd0lXTUoxQ2ZtY3ZsZV9mN2J5QTVfX0VaWHPSAewBQVVfeXFMTzhOMGZydUhVTlQtSVJqTXRQRDgtdzVBRHBCNGZYM0hWc0M1dzRmN3Z0Zm8wc2ZtY3JHYlNnUzY1bmF4UWJTaG1BTkp1UENRNDZaT2xxa2UxQ2s4MU1HWFFhUk5CYXZZRW9fWU5rRWxNaElhZUV6QjFfRUU3VmZrd01BVnZvdFIycHU3bGFvQ2xyM2JtU2Y3MVdjUUJmNnByNUVpTnk3MTZHcnNUcERyMEIzUVhlWkp5dXR4TmZ4ekswMXBXNkNOZ2RnQkI2SEVmOEJySjYwbmt1MlpSaTRsOUgwbDFESEI1bXNHdHY?oc=5",
+        "published": "Thu, 23 Oct 2025 05:25:22 GMT",
+        "source_feed": "Reliance Industries"
+      },
+      {
+        "title": "Reliance Industries says, ‘Recalibration of Russian oil imports ongoing’: Report - financialexpress.com",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZzlWTlJfOVdkcWNfeVdnYklQa2Z4TWtLLTJmb3Qwck95R2hzRGFwdWJDWmp2RVFEWnRLdWtJdEZYVXhsdGlpby1TV3g1QUN1dkswZEZxOW9JTERFdmNqUzBkbzZSMlhKTllDVlQ2MWNIQ2tZU1M5SjRMaXdRb3pENnFtVUhFblp3bmpURWRXMDEzMlBiN0xTU3drcUI0YW9HWFNkdHFERVMtZlVMQ0pJMEFXZF_SAbsBQVVfeXFMTnJ0ZG1kRjdZSnA5NXJxRkI0RmxSRTJ6OG5TSHpvZksxVWQzcnoxX2p2NjlOaW55X1lVT3RaSVN4eUhRTll1WEwzX2JoVGprSkwwU2VKYkxjWVo3WTJjMHFHb0YySXpaSGtPR0NZWFpCc3FRSjNQTUZwU1piZVc1dDJWVzZGQ1VmbHlfLXp4aUU0MXdkcVlzTGVRRGxBdHdoakpMcXRXMUEwRGJHaFFKVXdTeUdUdkJoYjdYUQ?oc=5",
+        "published": "Thu, 23 Oct 2025 04:12:56 GMT",
+        "source_feed": "Reliance Industries"
+      },
+      {
+        "title": "India's Reliance to halt oil imports under Rosneft deal, sources say - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZkZBZkRfcDZyRWpwVEJaeFdnLW5aRXVvQmJ6VTlfd25leXJSa3FzcDlrS3lLYjBIM2NFclVUTzBvbU1pd1RVU29qYks4d2VkdFJ5RHU2X0RxTV9abGNYTjRNV2IyV3hSakZFc3ZhWWZpOFlOVXM1ZHZocUxvQ3VkeFNnMDFLTldHUUNUN2xjT2pPcHdGRElneTFrczJ4M2szdFUzam8tR0d0bHl5eUJhLQ?oc=5",
+        "published": "Thu, 23 Oct 2025 08:57:28 GMT",
+        "source_feed": "Reliance Industries"
+      },
+      {
+        "title": "Sensex, Nifty erase early gains as Reliance Industries, crude-sensitive stocks slip - CNBC TV18",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTzZEclhkUHNuQkNwUHNFd01zUUxJYmFETzlNcl9UaFFPOWdEV0VzUHFhWnI5QUMxX3lwVzM4djdidWRpZ3RpNlB3VnR3a0FPNjN5TUJINFk2TTgzYmFWcG9yUEVRa2VQYzlLSkVUQ09SRWpFVmw0QXltaFlvTlJJaGtkeVZjcU1IVWVQd0FxalBRN1hidi01WW1oQlRwdTZNT3o2Q1NLWmRucHRTdFdYQWdiTjJ5QkJldmtxXzRXTGhuMFFL?oc=5",
+        "published": "Thu, 23 Oct 2025 10:19:21 GMT",
+        "source_feed": "Reliance Industries"
+      },
+      {
+        "title": "Amid fresh US sanctions on Russian oil, Mukesh Ambani’s Reliance Industries may halt all purchases from…, to - India.Com",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOOVA4NnZEVVZMaHg5TXI3QnU3ZGxpcU1GcDY2MUlIbU0yZTl6NXBMSjE3QWprQkJ1dEZHOGVGVkppNlMtR2ZyTlVSTzB2Z3I4bXFnNXVKY3JPTk5qVzFyWUc3dHlqYUtoOTFhZ0JZNHZiWFdIMzdHcXN4WDhXTUFfcjdKWlR2MEZBN0lrOVI2S3l2aDdWZGdtQjkwQWlKMXpZTVZKcU0tTjFVdjNzS1FGcnNzTXk2RDlvd2s5WEJ4ZlQyOHhtUkFpbExDaVdvZVRRRFhDRGdXdWduZmZRLWhxQU9idEtrdjZJWGh3YjVxRVdzWHZmQy1XcHVfNnJHd9IBgwJBVV95cUxOS29FcDFKYXVZeHMtX1gtNFRocDBCQVJrOFNfTmhFZUJla0FiaWJ2V3lpM1oxaWZ4d0REWXpFdVlkN1BiSV9vMEVfQVBMUWkzNXFNNG52TlVvOEdlY3VDNHdJSkNaeGVHdDJyTk9kaWprRV9QSEFveGduZXlVOF9qcFFvd0JYdm1WbHpvR085Skx4NHg0M1FyWkNYNU5BVDdaTVc3VmpwSHhWNUpjVDh1RUt6cWxERFJLVkxhRkhTTm84T01NdmQ1SnkzZmFvRDBjTm9WWHlWOFI1aDNWMHZGY2I0N1Bid0FfMDFraTBSVTNfajNiYWdMbmVyTDh3RVZvUlFn?oc=5",
+        "published": "Fri, 24 Oct 2025 04:09:38 GMT",
+        "source_feed": "Reliance Industries"
+      },
+      {
+        "title": "Reliance Industries buys more West Asian crude as global pressure on Russian oil rises - Telegraph India",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWHRPMFJ6SWlvZXlNZEVZRFd0YXNJM0JudG5XQmhZdVBQMzI3ZDJJX3JVQjBSOElucFdvT0RIcnIxNFhvV3FlSFk2YlNNNjVPcEZMbHRaS19laGdsRmNTZlVWMW1DSTdQMU9ZbVQxaW96VU5mSkRHd3UzXzhhM1VGWHRPc3Qyem9fMHRlbEREa19WLTM0WjNNZmxZT1hObGViUEVHUVE3MEdGbEpGZ3pDTVJscG1weTlzdGhjbDVhenRRREZaLUx1Wk5UWEdza0hYa01RdmxkUDVTSlnSAeABQVVfeXFMTzhoTjB1Q3QxSFlCWEx5cGpPWEZkRVRqNGxxLWJybXAtUFJuMGROaG1rdlhIT1pqdFhYQ00xd0ZPOGNhV1QzRllRVmxOdDE0LXFoNFUwMWVxTGZOV3FROVA5WE1CTS01bDlLNHRWZHY0b2J5bVZBdVRtNGdpVFRJSUJMN1ViSW9FYzQwZWF0SDNqQzlRdXk5Ymthb0JUTloyRzlXY080MXlvQU9LUGdUaWF4VnllZEJKR3p4dWxsNzdYNjczaXp0ME1UXzNBRWlZQ2Rld0hQZnkteTNLZ2VYNGw?oc=5",
+        "published": "Tue, 21 Oct 2025 23:42:12 GMT",
+        "source_feed": "Reliance Industries"
+      },
+      {
+        "title": "RIL shares fall over 2% post Q1 results; analysts say it missed estimates despite impressive numbers - Upstox",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWm4tbUticVZsclpKR0w5NXVtbzl3NG5KeG5YbEU3VzJzYmxoQzlFR1F1bS1MX3ZmenZyeHNtNzFITW12SkdaR19aa1JjTEd5eTJKVjI4TkZ1ZnhwN3VxZFJzdXN6c2RHMVB0RHk3WnhaajhLT0dlejM3d2tzcHN3ZmpINXVIVWxPcjV0Wm1Vd3ExSW5QSDJkMWxYSU05Z1k0RzVWc1FGRTN3UGpnQ1p4VlhDQk54OTVUQnR3YWxXNTFhTEtBWmliM1pfVnU3cGpHQ3MtLUpJbjhZTkFuZE8zQlR1RExWNnZCRzdCVQ?oc=5",
+        "published": "Thu, 23 Oct 2025 18:50:26 GMT",
+        "source_feed": "Reliance Industries"
+      },
+      {
+        "title": "Reliance Industries to Acquire Two Solar SPV Companies for Maharashtra Project - scanx.trade",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOS20wQzNfa2JaS2FydXhyTWF4ZlRnWDZQcS1CVWpuMFJFU3pWeGJfWGZBcW5nUFJmZUlObjZIeTlfSHpXOHl4QVZhMGNBVEs4Vm9CSmJHb2hGalhfeUUzaXlOaG5HNF82a25WdG9VcWE5TTI2Y01SLUZSUDg4aHdKY2lzWW4tSk85bDV0akpxYUVLRVlEbUlBb2JzWHBqbWloUnl2c25hVjFYdWlsMjNGV1p6T3JYaTZhbEVHaGhOb3BERWxDcVNiT0JJcEV4Y29oZTMzVTZ1eTdIMVU?oc=5",
+        "published": "Fri, 24 Oct 2025 03:48:18 GMT",
+        "source_feed": "Reliance Industries"
+      },
+      {
+        "title": "Reliance Industries Ltd Sees Rs 23,976.37 Lakhs in Total Trade Value Today - Markets Mojo",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQblNDZ0YwbFZkdTZWMGczMmZqcjgwSlM1MHlVN1NESi1mOGJzTjBlZDIxTk1yekxCYWlsMG5DbHdvTkJjYmNfQWR4RWZVYmhwVVp1YTRLVElmczY1Zmo2ak9SYjhScFZ2LU1reFB4TE9PQkl1Y1prSGdIUnVlZ3FQUEl2NDlyd2h4U3pWbmZ6QzJvMVNOWjNFdlZEemQ3dlpNaGRQOXRfTERqbzBuQ1B5Y2l2VzA5S05QUmdwQTlSeTNUS0NCZFNramF3?oc=5",
+        "published": "Fri, 24 Oct 2025 05:31:21 GMT",
+        "source_feed": "Reliance Industries"
+      },
+      {
+        "title": "Stocks to buy in 2025 for long term: Dalmia Bharat, RIL among 5 stocks that could give 15-69% return - The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPbzQtREVRTzVScFU4Y1lLd3JrNVFWOGVDUXRpR0F6ZlV0X091NlVnYjJLQWlCR3ZJcEdBalhwc25ySnEyVk1QeU9NaVhQc2RiN0o3NlJFeVZwU0txUmp4ZmZjXzRJV1NGWGNtUV9KbFpvcmpMNXRDUWFFb0xqeWI2SmJsdW9nLUJ4TXY1LTdJMVFyNzB3NkRJaHdNNWl0WWRmeFFvSGd0cFdKYXpDTFl6T0xKZElkVV9XRDdRcWxUTmFEa2k5UFNBZmJVdVQ3SG1GdUtlMk91dWh6NHBBVGxTTVRaOE5MRzg2Ri1FVkR5LWdVODg1Q2lPOHdDRTk1NmZ2M0tjMWNtVmdyUWxGanFxTG5OTGQzYTFpNzI4aUQ3MzBXT0FqX1E?oc=5",
+        "published": "Fri, 24 Oct 2025 03:26:40 GMT",
+        "source_feed": "Reliance Industries"
+      },
+      {
+        "title": "Brokerages say 'Buy' Reliance Industries after Q2 show; check target here - Business Standard",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdGJ4ZFcwVWlXSHNaWFRrQUxmNzN5cVFUTC1BWlZseTVQOVZoNVUxNFVqNHFBTmNibVRSZnNZSTh5emoxMTYzNENjUXh5U2gyRS1JR2ZWMWU3WGZXck9jSUdla1pFdkJDM21zWW45NVA1RGNQcW5hckpndkg2VWZrMVFOQndhWHMzYkl1MGFrNk4xVjNGaS1nbG9aMHZBd2dra2s3dGgtRzRhS3ZsYmxKTmhOQ09xNjBVaDlfd0JHMHRYVDFQeDRsdEJ0T0lSbHZLa1dF0gHYAUFVX3lxTE9rX1cyeXBHUDh3TGhPREFhMEFQZFBTdE9lbkpldXM3SVRXTVY0NkYwb0VYV0w3YTRYazZWQ3VkUDNsUGR1UTlycWxlSE82UXlnamJKbk5XU19FTlBwbFhFcGJwR3cyTkpTdFNYN25qMnY4cmladlJ5WXloVmRkbFJ0bjU0akxpb3ZBUkhJTzZyc0E1bXNEVU1ka2JmRHRoM01NZ3dmVXp3UC1pZUIzVVFiMmJ3TjNpdnFrY0gtcUVwZHFEcUs4cUlXOFlBWGNrczE3SzhaZks3cg?oc=5",
+        "published": "Mon, 20 Oct 2025 07:10:18 GMT",
+        "source_feed": "Reliance Industries"
+      },
+      {
+        "title": "Infosys' promoters not to participate in Rs 18,000-crore share buyback. Why is it good news for retail... - Moneycontrol",
+        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNNUJsYkNCQk1jTVJEbkZjbnh3aHE5ekthQ2hEYnpWZEUxTmF0S3RSamRMX29OMTQ0RGczMkg1TkswM2h5Z0Jqa0x4NmQydnY3UGRmc0l1UWNLMlhCY3owR2gxTnpJZWc2S0NrUFltZTRsNHlFcmVydFJWdDJMMi02bXU1MlJRZFQtNUVYVkRyRjluVmg0bFIxX0lHUXhjS2R5NGJqX29wZnRRZnM4bFdxTENhOF9fZjd2NmFOc2tTYXVzanZFcWhUVlphYkU0SnR6QXBmdzMwTTk1eENIQ1c4a3Nxa1VVMVljTnd2Y0xZS3VvTWxfTjdQSmhvMmhqZlFNSTN5UWVn0gGLAkFVX3lxTE0wbzFacEpHSlBKdXlvajkyOXBONVZMZ0tqU1VxVjFEOW1zb3dSbWRReVZINVVXSHJRZHVvRkxwZklScXN1azdlc0JpRUdlQkc3WVpOMGRpcjVJMmdtQUV6MExCVlphSUVjOXN0enl6TFNsQVo3WUh1WWJXRzNVbEYwQkFMM2c0REY4VnpaUlIyZFp3RkVTLW9aY3I4X3JxTm0xMG1zWHFabnZHNXVfM25qNDBvRUlWNW1IQUpncFoxUEZFcnZ3TjFrM19xd1RFUzNGbUoxdGhsNGpqWlZ5aGpfeXpZMl9VSUlWQWFQUG1uZG1UUC14cFBrWkdkbkhnVGgzODZSdEJ2VThuaw?oc=5",
+        "published": "Thu, 23 Oct 2025 07:30:31 GMT",
+        "source_feed": "Infosys"
+      },
+      {
+        "title": "\"I Missed The Exam\": Nandan Nilekani On How He Co-Founded Infosys - NDTV",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMC1HeGxDejlMSlFrMlV1bEx6RG1YWVVaWnlJY21xZUNVa0ZCbzJkUnBzX0EzQkRTZWp6Y1VBX2NXRzFsclBiV1UwaHB2djFPV2ZCQUk5aGNaM21pempMWmVSTWhQNEFYR2tWX2hBdU83UmNXR19oMDU2bFk4ZGxVT3p0dmFZNjkxam5kdk5mbmI4ZzB4Sm1RM2sxaHNJTU8xY1QxNjFvaXZpU3Nlc2wwTGNBeW14T3VxX1BCOGRjTHJYQ1VvNGFLUHhqOXRPS2VVRVlzbHRPdjRmRHowa0lB0gHnAUFVX3lxTFBhUDBpLURGd3hUYnJZUjlqSEJMYmUyNWdLbDJSU2dDSloxRXdnZS1GWUJsRnpobC13MVlVREpUa0kwWG8wT2xYaTZkVV9NUDMyUGZncTlhdWRoT3JoVGk1ZExMTUhsbFlMMDNTTG9GSUY3Tnc2bGNMcm9yVlJaWGxOMVNRZGJTdmc0Sm45ME1tX08xYmlXejVlLTNDMUVmbE8yTWtOSXEwc3REMlBvcE5sLXhHYXktMmIxaG5GcHh5TEtHQlpjSHJ1QWxPeUtNV2loWVhsanRmeTVOZ3RyVVBncG1rdVBUaw?oc=5",
+        "published": "Fri, 24 Oct 2025 06:14:10 GMT",
+        "source_feed": "Infosys"
+      },
+      {
+        "title": "Infosys Share Price: IT stock gains nearly 5% today - Here's why - India TV News",
+        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQR2ktZ2lFRGtJVk1pVTFvMTVWR0EyQWFiZWVDUE80TjAyY0lYNnMyMGdncl9SUGFNdDBReVpmbXBIQ0pLd3luT0lUQms3SmlsVVJKY24wR1QxMENYRGJnaEliSlNPcVR2bmQzc3NEMFhsRzQ2R1U3UU1mLTB1aTFndnBlZmRDMUR2VnI3dTNWVTRpbzhHbDU5MjhqT0stMllfSUlfLW12X0hPcWtNYW5WYl84QlZSVmxmY2c2YTBjOTV1aEhJNUZKV01QeEVleXZvdUpGX2NEQy1Qemo3czBMTG50LW5ZMUNzNE1xMU4xaUtYQXlxQnlFVllmOG9IeDlsMnV5NGozUdIBjAJBVV95cUxOUkM3X25YU1RZalpTU0cxRm1mV19JRUhBR2RVT1RTRlNJWDk4QlBfb0NVczhMWUNDaXFNMUVPN2JMS05jcG4wdVo2a1NJbVFudXQyZU1abi1Yb09ZUmVhRl9FYm9wTlhESzROYmJPSFdHTXNPZ1VZb2RHREdxcndYaDN1eHRzWVh3UVFyZWJ6UTh3VVpwaDNaemtFRmM1SXhGSUE0ZTJYWUJmd0ltR1FmMmxTRXZsS3hwMmN2LXl3cVdrakNpWlBDYkNpMEl4cm5FRHFWMjlBMWx3MkN5bUVpTFVldU9DSDhRcmxONi1YODMwd055eTZWa24zWEJGMnNNQUNwUUdtTkxzUE1v?oc=5",
+        "published": "Thu, 23 Oct 2025 05:34:41 GMT",
+        "source_feed": "Infosys"
+      },
+      {
+        "title": "Infosys, HCLTech, TCS: Why are IT stocks rising today? - India Today",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGx2LTgxSnNfZ2tJMExFSnlZbjlnRUR1UDJHWUdnMkcyeFMyRjNPR0owMFlzaXE1WHlyT3lJUUE0U2JRLThZckF5cjg1SHo1UUhvUlBITWZ1ZmlXMWZJZkJTSThVejZsZFFIejEwd2V1ajZWZUYyVVJ1MkstYmV5T0k4bmNoUkV6RTV6NEdfMHo2WHJGbDMyOVRKSzUyTmRlUFRJRVhNZThuTFg3dDJDZ0txMnF3OFZmako0NE1vd9IBxAFBVV95cUxPWkhjTzBIOGw4ZkxFU1pyeE5uYkRzdVk4SkxibDlPX1FOaWlwQlNuQ0FTeEh5VDVCRFh5WmFzRFhCZHA2cU1kcFZTNUl0blZjR3g2dEZFNTJ1RmxGY1dtdEdfT3pGUkUxd3pfLTFYMVNzbFlDdm1DX2k2cXFILW02Z3ppWk1WTmhDNGlVc0tOZ3Fqd0J5cVU5R190VWJKNUZNSUlVMnBPTXpzUnVjVktPSGNUU2t6YlprRXREQ1E5RUNkVjND?oc=5",
+        "published": "Thu, 23 Oct 2025 05:40:55 GMT",
+        "source_feed": "Infosys"
+      },
+      {
+        "title": "IT Stocks Surge: Infosys Climbs Nearly 4% - Rediff MoneyWiz",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnB5VjNpZlBPXzdyWnRTYU1wRlFMVGZfbWtUR0pVU1pZN3hfdXIwUFJLbDZhSk00eENjRXpFVDFReXBwR1V2b3hub1R0Rnk0YWFmX190bFgzYklJeHlVZTdLOVVwcVZQNUJSOWdOZzVneURKUDhVem85WXF1SUx5TzJneDBURjFmNXhKdURDOFpOOUtDVUHSAZsBQVVfeXFMTzZkS25TRVBFeEdOZDdUMVFuTnF4c3FVa2p2V0tzdGxvYUJfN1dzQkhublZJZGtxYWlISFlqYkxXdWx1T1lKeGc5R1VFTUwwT3Z0Xy1NR2JXZkRBS2dPZDltMElpZlliZ1NDTlBkbWZNdTRseDRsc1lZYmo1VDUxLWZSOGFzcTFtNXdxaldzMGtBWV91UVdCV2lTWlk?oc=5",
+        "published": "Thu, 23 Oct 2025 12:47:19 GMT",
+        "source_feed": "Infosys"
+      },
+      {
+        "title": "'Retired At 38, Now Worth Rs 300 Crore' Former Infosys Employee Yet Lives Simply In Bengaluru, Claims X User - Times Now",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdDF2YzF0RmVLNE1NYkxLMFRWWHB1TEk4SUpTR3dEaG5OTldMS0JWSW9VRGExTWo1eWhtRTRCQVF2Q3JZY2FLOS01QlBkYTNxZmhkb0kxNTBvUjV2VGgyalJua1BYaVM5ZmtlX2t2Z2ZXdUZRSE0wTWxJSy1Sbm53ZzZkYkJYbjIxdlBOc3VobURzSHVnU3pTcVZycDVMTURhQnBxb2NOU2pvSzBlZVgzWVRqREhPRDFvb29mT3pCSFFIcU9aRXJuVXlxcmhISEJ5Q1Z6NUhSY1pKaDRyZzhObzVWTzQwMlVJNWJWRXBaQjdQenVIb0g3SEhOM3HSAYICQVVfeXFMTzlnM1pmSjY0YnFnSUJMM0d2NTNTWTRwTm5OZnpWLVZ0Q3JiZ3dZRHpEY1o4WjJaanNRcGJzZnZycHA1b2U2Rkhuc1NpUWF3OTVvYVNUcjF6eW9tTDZ6YkR3OU9iRVdDUm43U0k0TmFrX0VtLTJaSlVkSFE0Umx2X3ROV3FQZXN2My1aQjNKVk5Ea1RxbHdOa0k0WnBYUVYwOWtJYXJXbGtDRV96MXZBem02ZGFjY2d5Y19hMTFBaDRJTG4wNDZLVXMwYjVULWZkbWcxcHJuMGtrNThOQlFMdjc2b3pBQjJlMm52MFJ3MDFkNGE1V1pKa1BBRzhybFREb2tR?oc=5",
+        "published": "Tue, 21 Oct 2025 05:52:39 GMT",
+        "source_feed": "Infosys"
+      },
+      {
+        "title": "Infosys, TCS, HCL Tech, other IT stocks jump up to 3% amid India-US trade deal buzz - Mint",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNVlUeVB6SlVoLUJWMmh1Zm1tZEJOaFpfM3dLclhPeDVJOFY3XzNhcVZ0SlFmVFEzVnNsYTVQQTlHZ3J1R2FTN2N3TDFiVF9KWDBGZW8tRXNlT1lWakVwTnRBRkZObGM3S0lUVmpUU2ZVU3RPVmc1RUR4aHhqaWVJdXFoY1pzRFh4cEJNS3JfVWJTYnFIRnIzWDFrTTc0elJ2T1p5YjFEdVU2ekRtUVFCbGhyZW9nekd2ODdTYXVpd2V1a3ZQbzI2aGtLNXVlYXNDa0RNY0w3dlZsMkRKY2VaSkpZVdIB6AFBVV95cUxQaWFaMm5QN2toRVVjaTRNbXZKZThiWnlwbDJZalF4YVZoWjFIbDU1dlVZaVBSMl8ybGtGdTVWWU1TVGZsZlg0UW1JazAtb28zUzkzTWtoUExqUWdWeDdCai1UNnIwVXdsb1JUSGtPVjdFWFZLdjhSZ214eWxOdVpGUkRRckdtakx4MGJmc0VTYlFRQm1UUkYwc1lxR2VheUZ4MkZ6bktlaENEUFlvWjU1OHFXcE54c0RBSFp3b2U0alM0eGdaSm1vSTQ0LUdLd25JOEY5OFNwUnk5ZTJzdnBwU25DYUhzRkRh?oc=5",
+        "published": "Thu, 23 Oct 2025 04:29:45 GMT",
+        "source_feed": "Infosys"
+      },
+      {
+        "title": "Stocks to Watch today: Infosys, LTIMindtree, BEL, Ola, UBL, Federal Bank - Business Standard",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVFNkLWM0QmtHamtxOVRBZy1TU01SeXVoQjI4Y3IxTUJESjBjTFNtQnBWQ1RLMkRtak8zV253UjRweG9JQnRmczlCLWJVbnYyZmJvcFhIR3l2UmlGRzVMX3NqYmMtV1F3VUNmLVNvQVN5dTV6WFpBWE83T0JUR2pTSm5OQzhLdHhONnNqT0JPU25EM2g4Y3FhZ09LbTFiT1FZUWJZT0dxRVhSTy1UcXlnMDdLdlRLR1FhbWxuMzJvTDA0NnF3MEFmcnNrSkpSV3pVcERsU1RRcUpCWWNiQnZv0gHkAUFVX3lxTE15QmZGVEd0dzFRXy1iOHRBZFI0NG9rZW9VSVoxRC0xUEFpR3VXU1M2NW5sRHVvOHQydnJMbnBjaHdrNW9PczVtRzZSTVZxSzlhM1lQbHJ1UVdHTjJiQXF5YVZ5UkNwdlFhRXJaMmRTRkctQlRDU0ExY01BaGY4V3ZZWS1jWmo2Y3ZxZGQ5Y0F1NUJ5SWZEUHY2dnl5ekNUbUdxb25OQnhFNEJybEFVd2N3X0dITGlZMTU1U3JjTmJtcGExd2V0azVSM1BKZVZMR0YyUmI5ZDZGRHFaVHNCby1wc2ZaSQ?oc=5",
+        "published": "Thu, 23 Oct 2025 02:32:48 GMT",
+        "source_feed": "Infosys"
+      },
+      {
+        "title": "3 big reasons why Infosys surges over 4% today: A detailed analysis - financialexpress.com",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM2NIMjd2XzlHU3dJNldMYmVYTFNSTGt2dWZtU2E2d1dJcVBFamNESGc2c2hZSkd0bnNHVVlHRkhEdWpNWU5tM0l3d0tsc2tlWV9TQnhJenRHTWd5YktUZFl0RzhOYk45OVp5OExlYnk4Mjg1dlhXc2JxYnVyZThfSHlzakhCbmNZQ3ZxRTM3Vkw5ZWpyRTFIRHFiUXhFblk5QWt6TUF5YUMzZDB0SzNFaWVuazdDUdIBvAFBVV95cUxQQVdJTEhQQmo3ZHBBTUJ1LXkxMmtCNm92VHdwT21lcUtEMVQycllBMTBVWWg2RTExaHIzeWExckh6blFPak9HTTdJdldhRU8yRnM1S3JmVDRtQVY0V1RoRHVHaXJLemNlYXJCN1dnVlhyTFIzblozXzhRQldTQU9Rb1lTVl9VSW9hNGZvQ1ltOEpTRnE0aHN2N01TQkc4bWR1c1FvZVNlcmI2Y0xaT1ZncjBGdlZvMGdKRElncA?oc=5",
+        "published": "Thu, 23 Oct 2025 07:28:38 GMT",
+        "source_feed": "Infosys"
+      },
+      {
+        "title": "Buzz over India-US trade deal lifts Infosys, TCS, HCL Tech by 3% - The Hans India",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTXRxSi1MSTRjb2o0YXc1N0pmaDZCZlVINDRrRmFWUUdfUWZUdTN2VGxlYmcwVFZ4QVQtS2FWU3c3b0NlX1ZfYjFkZGU2MXdOOHRVM1JpdDV0MGNnUmFKZ3ZzbC1ka1hXZkdLSXhqZ0Y3WVZZYVVDSkZFNlJMQi1DZTBuQ0NxcGFCdFBTNkdfS1ZFZ2dJUWZjT19CSUtkRDdoaGpXall3aEtWdy1oWmdIcnBR0gG3AUFVX3lxTE9BWjB1UTZfWUw4TElQRWwwWU5vLVZYeHNyZ28zU3NLRk9EY1NyZnMwSE9GVUVRNTlzWE96S0E0MHpqNDcyOVhTQktPb2VBSlVhTGFxUjA1UVAtNWVkWEV0a3BnTmY4VzB4NS1FdHBHbGZHdGwzSE45dUZSbDZDd2RnSEYtNkZMVkljYmRvQXNPbW4wYUN1aTZvckNuTDZhclBnZDB3NWZ5bG9Ka0VyNmpGci14WmxBUQ?oc=5",
+        "published": "Thu, 23 Oct 2025 07:39:55 GMT",
+        "source_feed": "Infosys"
+      },
+      {
+        "title": "Infosys founder Narayana Murthy’s daughter, Akshata Murthy, and son-in-law Rishi Sunak own many properties; L - India.Com",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWFlXbUNaRjNfVzc4MUVqRHFpcmstRk9kanNWem11ZC1fb2Z3SmFhR1ZnMGtEZGxjMC00ZGdlYV9WUUxTQzM2Z3lUMmZJRzl4NXBQNC05N3hUSzdIamVIaXZMVkFlUlBwbkdJSGlkMGF0V3VBMk9CSml5QnZvQ3lNeG4zakc5SDdvMFlCSGRMd2J1OFlheUNvazJZaUpXc19XbjBnWUM1c3NHVS05MEFZeUk4M055anZkbUx0ald0VjVVMHV6MFBtZDdFdlk2MXpnNzIybk1FSGI1cGNhczZReEQyd3lwM2dhaFM0SUJzSHdjcVZlLUZicllyczLSAYICQVVfeXFMUGMwak5VaXZyekw2YXhXX3dnRG96MFphcFNQY3NzMXJSSzd6SGZUalNNRUpuVTE3Sy13SkxYREc4ZWpmSlRjbjR5dC13cTB4TWdONEV2QXJPT2xFQWRTNUM0dkVaNDFDS3R4eGpRU3NwNWxaXzhYZlpDQl9qdzlfRTY2dzZKR0ZBbTlGVHZObGdkc3Zpb2I5QVpFT2dkcFhXT3p3aHRoemlFUkNwcUNtYTdKUDM3emd4SUpyQmVEcEt0dXVCS1o4N3NPMThFYVhGdm43UDBMV09DbFB3aldyOFpoUk0wZmF1TnpGczFaaGo2cXVFUG9yd0c1d0JDVnF2QnZR?oc=5",
+        "published": "Thu, 23 Oct 2025 19:13:19 GMT",
+        "source_feed": "Infosys"
+      },
+      {
+        "title": "FIIs dump Infosys and TCS, but mutual funds make bold contra bets on IT stocks. Who will win? - The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPR0h5WG5qLU93SzJ1Yl9VRm9udjBYYzNKdFdMaWxlWVNaUWpPdktHSEFXSDFNczBhTmxmMkIxVjlTUnpQaXpEd1hjTHdZTlRIYklQeE1hTjBDa2pQcE91UlE4VmhhTVZEdElvcUt5MHFwUDJ5czc3NmxESUtRNXhVMUg1STk2dWtabkM4RUJvcldUMlplMGdSamFGRDJsUmswMl8wUE52cG1FeEdwWmRUeUdCdlJDSnY3NWVKY0QxYnBRZHlXMExtNEtMTzBRYXFFMzBHMGVnaS1na1dDdDJfdW5yMmtRUHQxUnNFVW83Yk9pMnI0bnR30gH8AUFVX3lxTFBIVmY0NUhNd1RPanJ2YmJfZEtnUzNxSkY2MWhMbksyLVdKUDZrU25xQVlPMWZDdWZVUk1WVTdqRERXS090TUppYkVzSi0zX0IwNWFULTRnYzhERjU5Q1ltUWRfM29lZmwyMFFPVnhzVnBORUNKel9wLVRMczNyVEZ3bll3aE16Y0VyUGpEM010cWpIdkZuWEtMYlY0MlBzT2JIdU8zcXFoSjhMUjltT2UzU2FON21SSjg0dTdQWUpJRTBuYjl2bjhmSlVwMkZsQTI4ZVlENExXek83UXh3WmJ1d0FsWXBaNTUxcHNtNDZTX3R3dWp0Yk4zM1BHdw?oc=5",
+        "published": "Thu, 23 Oct 2025 02:51:17 GMT",
+        "source_feed": "Infosys"
+      },
+      {
+        "title": "Infosys shares soar 5% as Nilekani, Sudha Murty, other promoters opt out of ₹18,000-crore buyback - Upstox",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaFJEbWFjZnBhS1ZsQ2xPV29qTVYxTWNlVy1yMFlBVWoxTm9KSmtVTHR0aHpYdi11UzZSOGxrcVBuUTktU1lGVGtDaFIybS12MnBkV1Jkc0xaeFFacnJaSVFha2tRN3dzSDlzdVp0T1ZQRmlKMWYzZGtnenFYVEVVWFduekNVdFNHQVNkLUpPaVJ5SkNZSFFiNEctNURkc2o2eV9Ba3EtT0FtaWR2SkFhNmNNNWdfQTZBX3o4Z2taVW5RYnBHNjZ2bTNWenhLZ2RaNjZtUWpaZmJkWW1CcVdDMVR3LTFjVUFTT2c?oc=5",
+        "published": "Fri, 24 Oct 2025 04:11:38 GMT",
+        "source_feed": "Infosys"
+      },
+      {
+        "title": "Tax tweak may tilt Infosys buyback in favour of retail, mutual funds - Business Standard",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQjV6dFVrOTh0WTE1R1k2RUVyS1JkdzhocXY0TzNnSXRIaWFPZktXOXBpLWNNZUJXd2VIbzBra29vc2NRcUJneDBiSzJaZUliclVwSVlUdC1pZF9RZm5JRHBSX1BKR3AwaTNrSDhFQ01WNWJzRFB6YXphUF81dzVjUnVEay1DdDFRdklEdlp4cWdCTGs2MVAwR2xHZVZUVF91R21yRFlfaFBHX09vV1ZUNXBoYVlYOHU4NjFxY2Nlb0t0ZmdydEVhLWsyWDFFOFXSAdQBQVVfeXFMTmp4YUhZT0JMdmZiLXNFM1Zmb00zeVJicGdXeDR1R0ZrUFA5Vjk0NnM1SU5CRGhTdGh5M1oyTlFHdmx4eGkyUWJ1czRzVVhiSXhBRHAxcmdPMDNtTnpxQTlqa2pSTnZ2d3VwX2tITVpuVWswTGptbUhhRnBUMFZ1OUtDSWNDMEgzZDh1R0FaX2lPdk5jb2dNbS1GeE4tTXVhVFJlSm9FVkxERHM4VTRGeUxtd096aGtaSUE2cUVCX1htX0RQZTBTN0FJVkI1cnpvMVdaaVo?oc=5",
+        "published": "Thu, 23 Oct 2025 13:20:38 GMT",
+        "source_feed": "Infosys"
+      },
+      {
+        "title": "Infosys, CRISIL, LTTS Among Nine Firms Going Ex-Dividend on Monday; Last Day to Buy Shares Today - HDFC Sky",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTXJNWVB3b2ZyaE44OHlpbkpySVgtM08xLTJkZGViUC1tLXBnMkdEaGtBclFrZnJVNnBncTZBZ3JEYnNOVS1tQ2QwczhySHBleVRhUHIxR1N3MnhHOGU1R0xFdDFabHMzMDJWS3lMdlAxZFJ6ZDFQTEs1ZnBpV2FaX2txREpCcXdNQlhfVkw4eGhVTUE?oc=5",
+        "published": "Fri, 24 Oct 2025 06:44:29 GMT",
+        "source_feed": "Infosys"
+      },
+      {
+        "title": "CONSUMER PRICE INDEX NUMBERS ON BASE 2012=100 FOR RURAL, URBAN AND COMBINED FOR THE MONTH OF SEPTEMBER, 2025 - PIB",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13WF8tSzFkU25MZ2NTb3ByeWNTcjc0NWZBaGp2aTRGUy11S09IdUl4Um9OdkgyRUtCR0VFbWh5RHdlLVBWNEI4MkpjZU9TWm1iZHRJdXZVRFBFSWhXeVotT1lmVEgwY0hrXzlv?oc=5",
+        "published": "Mon, 13 Oct 2025 10:31:39 GMT",
+        "source_feed": "India CPI inflation"
+      },
+      {
+        "title": "India’s CPI inflation declines to 8-year low of 1.54 percent in September - DD News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcGlJTXBESWQ0bXhFLTQ0RTdic0czb2FjSzNYOEJxSnpMb1o5UDA1YU5JejluLUdMaC1LMUVwN1pKSmZmSDY1ZEVyV2czaU04VTB2U0o1NW1EUVR3d2JqR1k3S3RYakFDWHB1QVJlSkdwS012UkN1TXZsN3J3N1UzaW5QX0xLaTQzMzM2QTE3alA2MXphRlltdQ?oc=5",
+        "published": "Mon, 13 Oct 2025 07:00:00 GMT",
+        "source_feed": "India CPI inflation"
+      },
+      {
+        "title": "India's CPI inflation may remain at 2.2% in FY26, below RBI's forecast of 2.6%: SBI Research - ChiniMandi",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQUtLSUFTQWlOclNPRTl5Z2xxWWw2NzZNUW9EVkROdXR0TWFndS1HTnpOM3dEOUxCaWFqVzg5RXNaaGxMTGNCSW1PblFvSjRleEdmM24wVTA5ZzRQbElKWEI0TzB2Q0V1V0pZNEQ0eHZxd2pNSEZqRk5veTBVRlhVMlREVHQwczVRc19EWW5teU5OWTRrNGxlZV9qTndpVE1qYlhmY1A3WHBxVUI1bGJjTU8yMVc?oc=5",
+        "published": "Tue, 14 Oct 2025 05:58:14 GMT",
+        "source_feed": "India CPI inflation"
+      },
+      {
+        "title": "Retail inflation expected to decline on high base and GST reform impact in October: Report - The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPY2FEOTFsajNvdlhfOVdBT19Rb0xOeUl2cjVKT0tWQ29NLWtVU3ZlMWhTajdJRG1qVEE1REp0b3ZYZTRmZndYaHNPZmp4bHhteEdaXy1xNzRRUjRSb0hGYXAxVTFDWGNnUlNQd3J1cXpKN2Vhc29kWUVyQUZ1b2tzUUlkSElmSDhOVjBsOFZmZTZvME1oRkJQLTEtd29xaEFaLTM1VE5xMklGb0JxTUdVUmRUT1NqYTdLUXpLTGd0OUtabXhUUDFyQzdjaEtuUlAtNndPQThRN0lRRExtUXNnZG1qdmU0NGgwd0tZQ1dZTGFjNGxDTDhrZWxQTdIBgAJBVV95cUxQWk03VjdXalZuSUlLQUNaQmdiX3RGOFVZWkVvcmNQOUJkM3QtRXFsd1NRM2FSUXdhQUNGdlltOUVlV0pmNlJmcUhpS0ZMZVdLWXRsRWkyT1J4cTAxZWREWTIwQm1qUUJKM2lydVlrTnB5YjVtYU4tT2UzZk9ZNFhlaVBpZUtfcVVwX2d0QXBiUUFMUzlpdS1fRFlXY2xaUEhrTUZraTlDV2F6T3h4dUp5YWswRXlSRzVndTE2ZXFLMEhhSWt6STRZMTgxb05NUWJOZlhzbEFUNFFhRmdXN3JwWmVNX0JFOEZ2am5ZZF9xRGhrV09qcHQtVEtLZzY2cEZK?oc=5",
+        "published": "Sun, 19 Oct 2025 07:14:48 GMT",
+        "source_feed": "India CPI inflation"
+      },
+      {
+        "title": "India’s retail inflation eases to 1.54% in September, lowest in over 8 years - Moneycontrol",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdjNTcTk2UFk2ZWp3bkZRY0dlbE5fdnhHaG81TnVCT0JzRGViakxueWdaNG9zSi1MQmg1cElYbHFpUm1nMVp0SlpOQmw1czBzSkRCNlEwcTZveFN5Y0VyNWJydzdMYzlabXNSY0h6VmpnWHdjR2M3bGtIRER4NUsyOXRoR1ZCYlVnYXlOaXJvUkNiNkktZjM2YV8xdF9ZQ3F2MV91aU1FWnVyMndtT3V2Yy1ZdGpyaUM3emNlMGFkcWlORDVoTlBUdmg4Wl9CaVdXakt5LUFn0gHbAUFVX3lxTE1Za1NJak5leldNb00tQXV0eFJ1OUZRRm90MkIxd29Rb2tFandGSUFNU3MzSnBVaTZHZ0xJb0ZhZEc0NXR2cmp5TlI4Ql92dVNjOUpnXzZPQ3ZGZ3hTbG4ybWJobU42SmRRZ09laXpFN3VQM1FmYlhVNjBQSV82RE9TNWpRRHhsM25HU1ZUbGh3Z2dndUNNQjJuS0lOcURBcmM1N294NGtFQVZsdDZFaXU5VF9vaEotWDBfT2gwa0pDYTVZQW9fQ1VROEI0R3VNcmZ3MndGYU1Xb05Jcw?oc=5",
+        "published": "Mon, 13 Oct 2025 07:00:00 GMT",
+        "source_feed": "India CPI inflation"
+      },
+      {
+        "title": "Instant view: India's retail inflation accelerates to 2.07% in August - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbEt0MHpULVFjbWpZeGluMk9ZVllzTVlGQlhWdGkxY25FVDhGZHlkT1B6UkJ3bmRYM0ZGdUNmMmZmc2xLYll2cFc2SG1lWXpKX3d4angtQ0F3bmhDaF82bUhHUkpCclBwM2RNejc5OG1reFNMQzJhbVdod0kxMGNFTnVkUWVrYk9zTHJRbFJ5TWw2YTV6MFZHeEpUc3pDYUJSMUQ1Vk13U04wUXM?oc=5",
+        "published": "Tue, 30 Sep 2025 07:00:00 GMT",
+        "source_feed": "India CPI inflation"
+      },
+      {
+        "title": "India’s CPI inflation drops to 8-year low of 1.54% in September on food deflation, favourable base - Fortune India",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZGhBLWVuVWV3Z2U4NkFVUnBMX1B5b0RqdXJfNUpVbDJzYmVrcXR4SFNMejUtX01TN1JRNHNURVQxb3ZXNmxxME4zdk5RWUZIRklhNmxpMzlaMVBERXF1OFdKT3hmNDhvTnN6bFdJV25pWGU4VnpFZDk1ZTFkWElwMnBNaUJRWVRKX3FCU2s2TDlKREF2LTlmTjVkVU4zaWF5UTVZU1pFQk5ISnFWd3Q5djVCZHBlRWpVY1RWLVNFNWZlcjY1MDZGSnM4UFBfeFBHZUkzdtIB4gFBVV95cUxPV2tHOGhoY2ZHMlNPbm1leGxkNFNpOHRoR2NUZ1hhNnJvTmMtYXZHNnhYcllMRWlfRkFGT3RwOTNlUUZrY3Axa0V1STVLNDJTdWNHNE5BNjlrS2ExdFJFVTlOYi1fbll2M1psb1dOZzlMbjFBNWRtbmJ4SG5ZT0ZKVFVmSldiempoa2I0dW1LdHRITWdBWWdzeGFpWHQ1NlRzckxGUERzZEY2RTVOckdwRnpYZThfMlQ5MnVpbkVEaUczY2JkeWV3SU9tNnBmMHB2RURHRUpZMGs5R1ByM1RBOGxR?oc=5",
+        "published": "Mon, 13 Oct 2025 07:00:00 GMT",
+        "source_feed": "India CPI inflation"
+      },
+      {
+        "title": "India’s retail inflation falls to 1.55%, Hits 8-Year Low: NSO Report - The Hindu",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN1dKck9jeTJrZERCT3N3eDZLY1BTNXBwaEhJcU1pdFkxbVVqcmpLajFXWl9UMFk2YVE0aTU2SFo5OFJCWFJEWGxrMlEzdVl2ODFyY2tRWGVDbW5YOXlxQnpwUGJIbWk5ZXZYREpYQkp1blZoWGJVN3NUNGxFM1p2R2haNl9SbURINm1kVWJfMV9mR1VQanZfWHpUMk5FZ2lFcm9JZ2Rsdk1oRW1OUVlRd3FxUdIBugFBVV95cUxOd1pZY1hJcGRYV2QwV3AxTldJU3ZBbXZfVHFLYl81TVRBSDVjT2QzTmpSbl9Hc2JndkdQZUVIYldlZFladDBfdm1DNlJ6Z1d4Ylh0SXRUS1drUUFjaDg2Uzg0OVQtZXZFbUZHRGtmX0ZHOFdFRVVRVnNidXY0N0QtNHNOZ19CME1EZjN0bkxjbFRCRHFkZWh2RzZhLS1tcTBEZDUwbk9KdWs1ZWxIbnR2U2RpdVhqUVlJREE?oc=5",
+        "published": "Tue, 12 Aug 2025 07:00:00 GMT",
+        "source_feed": "India CPI inflation"
+      },
+      {
+        "title": "India’s Retail Inflation Falls to 2.10% in June, Lowest Since 2019 - Newsonair",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRjVfZmg1VHdaVVNkQ09aeXVNVi1iY0MyVkJlYk95Z09vQ1FUV0tMM2xudVhndGxnTzg5V0RYbVlaVV9LWF9aajRpUmhBXzhuV1RFT2hGcjhhWkVYRTlVUjRCSlhVWTZZRGVySDJSeHRQY1dkaUREU25SZzVZY2ZkeTV3QS1SN3R6TmxReGNwdzgwTnhENGNnVw?oc=5",
+        "published": "Mon, 14 Jul 2025 07:00:00 GMT",
+        "source_feed": "India CPI inflation"
+      },
+      {
+        "title": "India CPI Inflation Cools to 1.54% in Sept 2025; Food Deflation - HDFC Sky",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWm1FeFRNT3RFTTBDU1J5RzBzQUFkdjd0THc4MzhJNWJaSDd0VTFmR2I1eGNldFZiUnZtSmo1d0xlZVpRUDVscFd4aEFEeWZ4VzRLWENjbmtfSk1PWXI2S2ExVk1ZRk1RYVpZTDkzZTJ0MmhpOGtITHByVmNTeTNfZ05hSzVkeXc?oc=5",
+        "published": "Mon, 13 Oct 2025 12:49:21 GMT",
+        "source_feed": "India CPI inflation"
+      },
+      {
+        "title": "Retail inflation: CPI rises to 2.07% YoY in August; up from 1.61% in July - Times of India",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTjlUMU44NDAtaElWN1ZtZklqZWozY3dpNTZrWlNjSXdZVTFMc1NxenVmVG8xQXUtQTl4dFRESXNuNDRMM2pzaEs4eXplZUQwZ0ZLdG0yWURzTk5pVlM3X2lBWG50eEZOWDZsUFFJT3Z4TzJ2dzI3V1RiMHFnQkdfOG5qcXZzV0dNYnBTSjk4UF9WQVo0Q2I5WTQ0M3FTUDZjWnZycGdPbEJKQzVXV0tLZy1nbWlKWGhkSnBWT2dLM283SVlLeHRfWVlfYjdrM3BJTWdSQU9aOWxoTnZ0V3NIV1dSSFM5d0ZVNFhZ0gHwAUFVX3lxTE9jM21xdXI0VDVITkk0WXZNQTR3bHUzUFo5N2Zzb1ljT2cwRnZZOW9ZZ0dtYlRJVTdxUGhtWkU0T2kxU1lzelVBYkR2MWUwZjFjTzVHc3Y2c2NuY1dGcW1FZUZwX0dSRmpieGRtTERXT0pib3RHWTNSckRxX0ZXTnEzY3YzT20ySEFIaGZCT1gtb01vTXFOQy0xNkRhb1YyOG91TGsxb0hYQmZ0dVg3NzZQSG5EVHNBbUxFZW1PVlZ3WUphZTkwNGZvMjg4WVM3X1dDTHpFbWs2RVhIOEdTZXFLdVBNYlhoeTBtb0k0dHpHeA?oc=5",
+        "published": "Fri, 12 Sep 2025 07:00:00 GMT",
+        "source_feed": "India CPI inflation"
+      },
+      {
+        "title": "India’s inflation rises to 2.07% in August, in line with expectations - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EdUdEdEtPVlU4VEhnSE4zTTlUVjhMQS1JeUk2cW82bXU5aF8yaERBb2UwNk9MQlh1RlJYN3hoRTlqMUw2aWNHMTlsX2JlQzhYSE5QaHNoRl9kcWRMUUNtNGtOZ1hSMngxdHFSOGJMY0bSAXZBVV95cUxNRDlBMEtuV1RtX3ZEMU81ZUY3TnEyYXA5dW83d3h0c1NhSmNKRnRHempoNWdIY1lyR3RTSHZ3ZXl0R1BnSGNpNlpYWFBpTGc0R3JKTlI0c1hZSjIzeFowaFEwSlBHWUVlTUMwQ011UkRxOTNVOW5R?oc=5",
+        "published": "Fri, 12 Sep 2025 07:00:00 GMT",
+        "source_feed": "India CPI inflation"
+      },
+      {
+        "title": "CONSUMER PRICE INDEX NUMBERS ON BASE 2012=100 FOR RURAL, URBAN AND COMBINED FOR THE MONTH OF JULY, 2025 - PIB",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyaG5HNjdPa3RmNHlJMmt5TGdxYlRzMHVncmdOOHo2WFRzcUVWNDVkVm80SF9hTmI1QzNEb2RTemx1d2VDOC1ud1VkVXBMTWFOTlVNblhDU2FmOVUxMlVDM1gzSUZhemh4?oc=5",
+        "published": "Tue, 12 Aug 2025 07:00:00 GMT",
+        "source_feed": "India CPI inflation"
+      },
+      {
+        "title": "India's retail inflation in September hits over 8-year low, eases below RBI's lower end of target range - The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaE1kNWg4YU1WekZXeVVReWxQUlJIVHVEX0Fndi1XTEExR29fQVRqOGo3RXQyNmlJcGR5RWo3UV9HNzRYbl83VjNyTWE2bzljRWo2Yk5fMjUycGNqTmNUQXZEemNQWXhPMlYwU0lQc3o1NHJuZ25qYWcya2JGOTktTURZQ2N6dC1hTU5pNnNURW1rY3BZM1NWYlhTbU5pcjN6TTRvWWVsZ290MnlkTnRjMHllT1RQWDYtTU5zaEZkYWg5Vk12SWhKWWtiNEROMldMTC1jaFV1S1g4dGh2aEHSAeMBQVVfeXFMTndCdVBaQWVvV04yWFdwV1NkbGVEd21EOGJpYThKQWNPWmZPb3RTYk0yeTdVZkZ4TE1qcEthcGh5b3ZhNDR1a05LcDA2WDhuY0s4YmVwZ3kzaHk1YjlocWlaXzFNTFJDNmpSZUlxUVp2OXk2SGE0RXA4aDVNeUd6NUt5cnRUV2R0V09jRVlDSTNJdUR1Q0ZkVjRGdUNBZjdWNkx4cWNOWF9STDNHNzhuSXJGd3VVOTZ0cm95NXJ0dFo4WlhRUnNFTGh3TWJaeG1mWkI5Z3ZFR2sxRDI1VHBfS3k1RUk?oc=5",
+        "published": "Mon, 13 Oct 2025 07:00:00 GMT",
+        "source_feed": "India CPI inflation"
+      },
+      {
+        "title": "RBI MPC Meeting 2025-26 Key Takeaways: Malhotra & co reveal big measures for banks, biz, and consumers - The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQYy1rMW9mVm5qT05mWmhFa253azR3ZVRfdHhXcEFrN1B4SjlQbUVvU1ZtS005Si1oTDJTNEtlcjBuSFNSUmk1aExxeGNzRnBBU3pzY1hub0ZhTm9aRmZHcWhhUjE2WE5WbDE0eTN4WEx3LVhBRm5IRlUwY3k5ejlzY1NuVy12YnRjR18xYlFzMHlIMkE2MXU1ODltQzB5R1c5dmVzazIzUE5RYUpybzMxT1FOOWRLZEZocU5PUzdKTTBKWmtnaTlpTXRCRXR2cWprT3c1RV81VFpqR2hubE1hN29zOG5XTWo4bnBOdjRuVFE3bzlPYlhGVmpPa2dUVEQ0Wlh2WmxDVXZhenh5Y3FwS0pkX2J0cERodXg2c3o2Y9IBpAJBVV95cUxNTHpvcFpCaEtRbjVHb0xhYUEzMjY1TDNOVER5ZmxMWDdjdjlONmtiZ0NST2xuZzFZMUtLMHZEelJiUEtaWWlnOW43ekZxQmZjSXFXWlJ2UDJIZm0wTTFwNFFOVzBWNmJ2MkNJVkVFVHBJQW1FRGEtSG1NdXVYakRvYXd4THdXbGF5MVUtVUpsZXZvWU53aV9FYnhBOUtwYjBBcllleG1ZU21iUFVzdEp0U1hRQXFxRWJQb3JzZEM4MmxwV3BzUERJN2laQzZZT0VfYXNva0xHMm5CNllEWmU0bGdyZmZ6UlJVR2pmSHdqUnhSXzhUZUdyTFdQbEU4RGpzeEs2STA4V3d6OHdNT2lOM2RIdVZGb3p5SXMtaWxrN1NvX0Iw?oc=5",
+        "published": "Wed, 01 Oct 2025 07:00:00 GMT",
+        "source_feed": "RBI MPC meeting"
+      },
+      {
+        "title": "RBI to Announce Monetary Policy Today; Governor Sanjay Malhotra to Speak at 10 AM - Newsonair",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZUxLcUxBOE15dUE3LW5iYjFQRzBNRnJuYWlLQVdvRnFhUjdjSzFMZXNoS05QaDIzMzRoT05LdUo1TV81SnA4UXg4YWY3dnBNaDRKd0pEMEFMNEY0bzB4alVBUFpETmJiaWdfR2hiQTR4Y0t3dEdCQ1ZhU2MxQ2trLUIwNzN0aWJUejVKbndaU0lNY1hUQjNoeGxsVGM4SFhDaHJ3UHJWQjB2XzZzMVQ0?oc=5",
+        "published": "Wed, 01 Oct 2025 07:00:00 GMT",
+        "source_feed": "RBI MPC meeting"
+      },
+      {
+        "title": "RBI MPC Meeting: What does Indian stock market expect from the upcoming meeting? - Mint",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb0FJYWh2WW9NT3BTZTRyUlBDbkx3cHZvN0JMdjhQTzE4alZ4OWhNVUNFbnBLV1BVWTNyQWU0RXNTMUxDbkVUMnBPYW5fWTRzNW9Pc1VobVpZUEhqeTRKVS1RQnQybmhpS0piQWJqcFNUcmJPWTBXZEFJc1ZBTlhKVEFzNVdGSWdXbjBla3oxVGozVFpMdFlXa1BCd3RIQTMtcGtnbXV0QmFDQ2ZOLU92dmNVZjhDMGxxaTBnWVgzLXI0N2g3dlRQOVJuUFVqS3hXVklIenV6V1ZXa1d3U1J1ZXJ30gHnAUFVX3lxTE8tVTlncGJobHZFdjRoLXZ6cGQ4TG5Sdjd5dGVnSFZZQ2FVY2pwbG9SWkRfc0tfUm9OSFBlYnVjUVpWSWNKZjFhcXdpUG1fdXlsblpma3BheGc4aklrTTBJN19KbUlsMkZ1TlZabmg1WWYzWWpKaU1rcTJ5ME42cmV2VElkYWRpeW9Ia0hfemdQb3BtU25jdzlEV080c2dMbDd0RTVjc01iOGl2TlJNdEk5bXVtWEpzbXVrbmVQY2RmcDBXZndQTndKZU9RLWlZNHVWYVZ4MWljODkxMGNUdmFrNkNNNXdVVQ?oc=5",
+        "published": "Wed, 01 Oct 2025 07:00:00 GMT",
+        "source_feed": "RBI MPC meeting"
+      },
+      {
+        "title": "RBI MPC meeting to begin today, policy rate announcement on Wednesday - DD News",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEoxU0ZlSi12ZldmSUVUaUdmM0NDLUN5YnRCc3RWd2I2d2k1aGtva203UE8wRjBEdDhocUFIRnFMSTVVODRndkFLMTR0Wld4OC1iNnh1ZFlscDNZNFpJTXZCV1dCbjFhSnRpUWQzOVpOVW1oX2JYclA5M0FyS3FYaWZpY3JFWEFtTWxOWGR1ZlhZanl2cXJMcW9B?oc=5",
+        "published": "Mon, 29 Sep 2025 04:36:18 GMT",
+        "source_feed": "RBI MPC meeting"
+      },
+      {
+        "title": "RBI MPC meet today: Will your home loan EMI go down further? - Moneycontrol",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSEVyc3JzQUF3TnFHcmc5bG5WcW5QRTRWYlE2aFdUZHJFcjlsa29vMUFuVkM0azEzSmR4ZTdzRjlxeHMwV1JmbHEweHp3ZG92Rzh6V0lvX2RncXJ2Zkpkbl9WLU5BSHBzdThxNDNYM1BiMDdpYnI0dGczbEg5R3QxYWp5LU44bjQxXzJKd2c5ZHA2WFBkdC01LWsyaFYxb2N5T1Nrc3N1RlM0SFRkRWNnckd3Zi02X05uNWM5VDhnSW5acW1RbHU3T0lfbnDSAdIBQVVfeXFMTUdQSl80SUUxU0xNWkNsenI1Zk5IZzVQU1dJZ1VWb0hHTGRPQTBEZ0h2Wmp5eXZUdTg3a2JKUEF2X1g1X1E2UUZWVE1QLWxUNWU4bUJPNlZLbnh0RnhFVjdFTVNHRmlzc0lPMUtkRnZzNWRWR1BqdTFBVklqal9VMW9kYTluR3dkRWZmaVdkQTd4VHBMeVNBczQ2M0wwMENaNFEwbGRuVlY1TVlTWnpHVFl4aFNrUlVLTnpobmlpM2tybGZNUlp2VHRTNUJ1Mm5aMW9R?oc=5",
+        "published": "Mon, 29 Sep 2025 07:00:00 GMT",
+        "source_feed": "RBI MPC meeting"
+      },
+      {
+        "title": "October MPC meeting: When and where to watch the rate decision live - Business Standard",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdXItemhCSWNYMFF5NnZrWXJvLWNFTWVjY2g2dGFzc0t4cE13ZkNXNG1Xbll0WW1YRWtzVkpoLV9oUTVxTzlqbFdVN0JFemRHdnNMT3U3QWRVUlF5d0Y2WXNqWnkydnBsZV8ybF9vcHZ0ckpJUVNkcTlqMGU2UHVPY3NMZGdoUmJHZnFyRVdnZC1YMDBNRjlOaWpPME9nOFAwNTU3M0F0eF83ZFZjWUdhbzhrZ0tVaE80c00yc0NLMVNBdzJSc2xTenpydXFOZ9IB0wFBVV95cUxNUXE4eTZ1RnFOdDJIZVVWNkFNVXN3cmVGVC1vMzI2d0J3RTVNWEI4Vl9QLVBLUjRVTGpoamF6clRGcV9yWjNlZnBQNk5ZMFNlLVZ2d0J5MlNHdlEyMFQ4V0hocGp1ZHZnT2NzTVdnY0ZaakJfY2hqX2pfcmVIZlQtb0otWWFTM0d5Z2VCWld0bmlIY2pjVzV2VFotZkNiTkYtdDVaaXJFSmtUbUlYZlN5dHhGVWVDYTBmeHpwYWhUWl9vbE5vOWM5ZUdvLVJ3Y2tDc1k4?oc=5",
+        "published": "Tue, 30 Sep 2025 07:00:00 GMT",
+        "source_feed": "RBI MPC meeting"
+      },
+      {
+        "title": "RBI MPC Keeps Repo Rate Unchanged at 5.50% in October Policy Review - Outlook Money",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV1dvRFpQdXp4eTF2SUxMQmJZeGJVT2FMR1BQV1d1LW91OGdFMTRuc0E5U2xKdTFobzQzRUk5MGVNZ1ZZZnM3QmU2TGFyVk1laHowZHZqQ09EMjR5a2ZwcHEwRDA2TG9XRjNJOTRqS1poTjIwcDh2YWlQNGpuN3liMV8tV0dvMU9fMVZCSnc0UThHMDBIRFVXUXhxb9IBqAFBVV95cUxOT3NERmwxVkpKUFVaZWhkdWpnZ2c5bDIybC01VklER3dzcE1veHpZa0ZNUVBWUUp6cmZza1ZMTE5rX0JhbnluRXhibTM4MURGUUV2Y2pNMVhUVWtHNC1YQXpVSkNGa1lyM2FDZU1OUDd5UVRNT25ENi1MMzhmS2c2ZkNKMU5xbXF6cmc2aXE3ZlVrY2dZdGRna2lYTm5XdUpEcV9sRmZRYWQ?oc=5",
+        "published": "Wed, 01 Oct 2025 07:00:00 GMT",
+        "source_feed": "RBI MPC meeting"
+      },
+      {
+        "title": "Will RBI announce a rate cut in the upcoming MPC meeting? Here's what to expect - India Today",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOam5hTV9YZWpUbWQ4SlQ3Y09BcjhuT1RJRWdGWUdxcndxTUFCclBGYWFseW1RWTBheFRVczJRNXNKNHF5eXQ5YzJKWWlYVUR2Ml9oUmRVWXJ1TXNHNTVsS24xYlhSRXdRNmNmMkFwQmppUnVZVHZja3U5c1pibkdZdGJfN3BpYnlEazJDRDV0d3dWVTdDTjdkZEVvdE1tRkN3Q1hOVm1kUktRalZOcExlNGVIREVoZjd5QktnYnJwbks2ZDdSbTVYSmczM0JJcTREdXfSAdcBQVVfeXFMUENVX1p0WEdMdXhGVVE4Q183cC1xRFpvSHR3WkxHMDdELXNma3hJeDdMTndvazhZS0FyMWZjcUtCS1hXN1ZyMmFPdzN4SDFxY3hkSEVuaWRodUxIVEtMblktYjFmZ09jRXZKWVg5M2FJODJMNEVmOGRoaFRydTNmU2VPdklueTM2Y0ItaTVxbWVKYmk3VnVEbnZSMzk2aU1Jc0xVSThnMFFJRy1hZVZYVWNCcXc5alVKSklPUFhOLTVlT0RvREdDQVhmb2czdmxRNjNfYTVoMnM?oc=5",
+        "published": "Mon, 29 Sep 2025 07:00:00 GMT",
+        "source_feed": "RBI MPC meeting"
+      },
+      {
+        "title": "RBI Monetary Policy: Check Date, Time, Repo Rate Cut Expectations And Live Streaming Details - NDTV Profit",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcXlNV2hvclRJS0E2bWNfZEFYbWt0QVpsaHJYeTNBRVZqU2xLZExnRFRmUHhucUFMUnVjVHZWOUVMelhmdlliN2FlV3htbmd3eU94Z2p1WVJSdF9rMHQ1ekZoUW5ockVHNTA3YWNmRDJ5NEt0OEt4b3BsZHlvMnFPVWNiOTVWYThhVGUxOGw2NXBvc0lOdFB4Z0tCaHhqTkdacGtEVlIxcGh1VmJtZzB4aG9CSjlOdUJKWXVrUnowc3FsQnRaSkJF0gHMAUFVX3lxTFBzTXlFZWNuTERmcUFINUpST0ZBNEoxczJNXzRmcVpmaUo4THRJcEVSUmNhNDhpOC1WUXgxYVQwV1h5V0hkM1h5My1jdFE5S1FwN3ZzVUtHTVBPOHZYR2pObThnSVNyMmRwcEhKd2xBSVhaVV9YRks0WUM4TUllc0cxaWZMV2lsb3lyQzZ0MzlMYUJOTHNGSENSQnlYMHpNUldIa1VQWFdCMGVsS0tmYVJRSTd3aGpVbUFUTVpXZ21KMFpRYmdqMXp0YnQ0Ug?oc=5",
+        "published": "Mon, 29 Sep 2025 07:00:00 GMT",
+        "source_feed": "RBI MPC meeting"
+      },
+      {
+        "title": "October MPC meet begins today: Repo rate, inflation outlook, and more - Business Standard",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNUZ2ZkJ0ZUhQZDlLeDRxRUhtVDQwOG5ZZ3VtS01rdDc5d0lVY3hrb2g3TjhkRlFnRjMyUkxpeFlBOEdtX2w5Y2g4RXRxbS1TVlFGWVcwb3Y5b1Q3VHBzcjlQTWp1ZHZyYVJjNW5vQVVvX1AzQk0yZWZkVVZyaDRlb0pxTkRUNEYzZjZ6cTBmZFRJNWlTLXo0Y2dIbDcwOVh4VWdEejIzbWVzYzJ4TkZlS2hncVhoWk1Cei03QV9mTDNoRWtMYXfSAcsBQVVfeXFMTnc5N00xa3ZXWU9LV0laRFluRktmSUZUOGNHcFNWRlhyNWJwaWgtYzdsamJjNzg5OUthQTI0SWRuSDM4MXJsaFk1WUgtZXlCZ3c0WURnQU44LTdRVnZVcVJsNWVwcEZJMGltV3NNQkdFck1KVXM3UzVyMGJuTllMU0FHUlRmUW5UOTRBd0Y4TEtHWV9TVXJDR0Rzbkd5LUplXzY0M3M1REYxdjhsNWNHVjJfSTF5UklMQlZvdTEtQXhrTGh3UTVQU3g3Nkk?oc=5",
+        "published": "Mon, 29 Sep 2025 07:00:00 GMT",
+        "source_feed": "RBI MPC meeting"
+      },
+      {
+        "title": "RBI October MPC Meeting: Will central bank cut repo rate or hold at 5.5%? Time, date and where to watch - Moneycontrol",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTnd5bjVzbmZ6eUpSbHdhLVdSNWdqc3JtdUlPdko1RnBORUI3MTRVNV8wUC1hODFXdzJVNjNMR0JiRm1yVzQxTXNyWkdVWWJIWVpubm8zSW54SkdKWjJxbUh4TVdUdHlYb3ZfRllhQk4yYnlyU2hHV1pFc2VxR0dLdWE0clF0MnVMeFBNb1RPaUF6Y21salNwU3lNRWJuRUtWd2EteWJPR3c5OTNjNllUUTdHY1UxRmEyMTVLXzBCR0FORWwxUzdoSUVzS01TdC1PdXBXaHpEYnM3eHM2Um9SaWVZa0pEVy1keEJ4VWVXZGpia1Vs0gH6AUFVX3lxTE5zZmQ5M2xRVHFWWHBNSUNybEM3aFItOFU3dW5qRmRJVVVzOHdaRkczME5SVC02Y2VrbUo4V19hV1ZZYksxYmlZTVROdjNScWlCT0hWR1hwUHBtSHR2aGR5R3BiSS1OazJ6UUVYZm5lVktRWDlYeG1sa1FuelV4Y08wLTZOb2tmNmNod0JYVHcwaXRaYk8xZEN5UklZaUswZFg3dGd2bGdSeDVTYjhqdl9XLWQ5c1RDUnR4Sy1KZ3FQZkh3VEJLODhpV0pUM2pKV3k1dXlpVndkU1lVTnBwSlJpTndXcWMyNXFvRlB4TlhHRVhWWVlLcnZSd3c?oc=5",
+        "published": "Tue, 30 Sep 2025 07:00:00 GMT",
+        "source_feed": "RBI MPC meeting"
+      },
+      {
+        "title": "RBI MPC Meeting 2025: GDP growth outlook for FY26 raised to 6.8% - CNBC TV18",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdWJjQkdIWUNzZWNEb0gzbndjRm9qY2FqUGJlZGYxVFV3eTBZNERaem1nejFXcGFIcjFKWDJjcGJzbVR4YmQ4VkxHTGxHNGMyRmczUWlDSjhqNEQ4WFdJbFZFb211UkdwTnVhRkJmWHBtX0dBUDNhb1otbE93dGxpY0RMS2R6djJTZnpJcXhLZUZIUmpsdGRwMTJpaWhZR3hIcHIyWGZNaWRteG5QSzJKOG85S2RVQ3BCRnExU3UzTFo1YzJWQzNNWG93?oc=5",
+        "published": "Wed, 01 Oct 2025 07:00:00 GMT",
+        "source_feed": "RBI MPC meeting"
+      },
+      {
+        "title": "RBI Policy Meeting 2025: Key highlights and governor Sanjay Malhotra’s major announcements - The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNV1JQMjFqX0NBVGpwUHFVbDZFN19wM0poeUpqdzJscTVUR1dqWHdoN2E5OHZTc2V3WHJ1Wmp6RXBCS1NiSk15UEtEbEhhc2F6bXFSNkxCWXhkWkpsNm9YcFlLaXY1bzdBQkd0MndpRGxHZjlnUGNyWGdzTzFTVGU0SWxJeUZDWWJEN1I4WkdIRVQyOEFSdkpEX1RGemVoQm1mMjFpak80XzB0NnFWRGpyVEx1ZmZJLWxBZU5LNkxiM05yNnVORHdyenVIdnBOdGtMcGlfQXdfR25jNGlyQzk2XzFpdzZsN1Q0THVYVmZpOEJ3Zm5zNEU1WUdhUkd1TnVtbVRKTEg3a1_SAY4CQVVfeXFMT1RKSjNnUGxmWXBmdE1NUkxiOFEtaWVhZVVxXzk3XzE0N3pOUU9UMkw0NDIwODJNZW56eWlZZ2JnQndyR2pxRV9yRjdZU3pVcWszWFo2M0R2T0NJYWtRejBNajBzSE5kejdrNUdUS3hfTGZfZFI2LTZpVG1ZWlBnVDRBSUZ2MHVXalRLUWxwdkpQODE5cHlJWHVlSi1fMkpGNFpNN1BjTnljcWMxT0ZHWmtycEVhcFNiU2lEb3dOaDR4SlExYV9wZS04TGEtcEhuZ0F0TENZalg1V2lOUmpLOWVGeTdWbmZwNUJBaGRiNWt5NkVINXgwc0xFS2dWSG9JMkRhZFczbE44NEllMkV3?oc=5",
+        "published": "Wed, 01 Oct 2025 07:00:00 GMT",
+        "source_feed": "RBI MPC meeting"
+      },
+      {
+        "title": "RBI MPC meeting: Will there be a repo rate cut or a pause? What it means for FD investors and home loan borrowers - Upstox",
+        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNNlhxNzZydmxZWkFYTkpLT05NVGJlbWRjRHMxby15cVFubHNwVE1lX0RsOFd5VTZITm9uTG50NHRnUXB6VEZ4aVRsUWV3bW52N3cyR1h3SEc3M1E1VmlKa0Z5NFlMU25OQVYtYnd6dmVramE4WVF5c0VkNHltVEx4OHhla0N4R3AxbzdVbEIyY2JSTWVpOEl3Z2JUbDNnLW42UVhBWUFNSnUtY1p0azI3NTRINTlzRWY5UVJBMEJuNk1uMVFpVzBacnN6cU51aDF4YlhSSFMwWDNOZ3Z0dlhuS2VyOVRkbFd6bzg4dzJCbmVGb2hZelZpTmJMTk1LZTNIZzk3WjlfYkdpUQ?oc=5",
+        "published": "Sun, 28 Sep 2025 07:00:00 GMT",
+        "source_feed": "RBI MPC meeting"
+      }
+    ],
+    "source": "GoogleNewsRSS"
+  },
+  "diagnostics": {
+    "resolved_tickers": [],
+    "tickers_fetched": [
+      "HDFCBANK.NS",
+      "TCS.NS",
+      "RELIANCE.NS",
+      "^NSEI",
+      "ICICIBANK.NS",
+      "INFY.NS"
+    ],
+    "index_backend": "faiss",
+    "vectors_in_index": 3544,
+    "timing_ms": 11364
+  }
+}

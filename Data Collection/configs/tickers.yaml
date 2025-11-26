@@ -1,0 +1,7 @@
+tickers:
+  - INFY.NS
+  - RELIANCE.NS
+  - HDFCBANK.NS
+  - TCS.NS
+  - ICICIBANK.NS
+history_years: 3         # how many years back to fetch
